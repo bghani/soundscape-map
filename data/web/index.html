@@ -451,7 +451,7 @@ const isPlaying = () => voice && actx.currentTime < voice.t0 + voice.d;
 const journeyBtn = document.getElementById("journey");
 function pickJourney() {
   const centre = h => { const ps = POINTS.filter(p => p.habitat === h); return [0, 1, 2].map(k => ps.reduce((a, p) => a + p[MODEL_KEYS[0]][k], 0) / ps.length); };
-  const order = ["city", "market", "rainforest", "reef"].filter(h => HABITATS[h]);
+    const order = ["city", "market", "dawn", "rainforest", "reef"].filter(h => HABITATS[h]);
   Object.keys(HABITATS).forEach(h => { if (!order.includes(h)) order.push(h); });
   return order.map(h => {
     const ps = POINTS.filter(p => p.habitat === h);
