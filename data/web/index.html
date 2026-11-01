@@ -199,7 +199,6 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   <header>
     <h1>Listening to the planet</h1>
     <p>Someone stood in the Amazon as the sun came up through the rain, in a Cairo market on a Ramadan night, beside a street vendor in Palestine calling out six pairs of socks for ten, and pressed <span class="rec">record</span>. Each point here is one of those moments. A deep learning model has listened to each one, and the sounds it hears as alike sit close together.</p>
-    <p class="notice"></p>
     <button class="howlink" id="how">What am I looking at?</button>
   </header>
 
@@ -229,11 +228,12 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
 <dialog id="explain" aria-labelledby="explain-title">
   <h2 id="explain-title" tabindex="-1" autofocus>What am I looking at?</h2>
-  <p>When a deep learning model (AI) proesses a recording, it turns the sound into a long list of numbers called an <em>embedding</em>. Recordings that sound alike end up with similar numbers.</p>
+  <p>When a deep learning model (AI) processes a recording, it turns the sound into a long list of numbers called an <em>embedding</em>. Recordings that sound alike end up with similar numbers.</p>
   <p>Each list has hundreds of numbers, far too many to picture, so a mathematical transform called UMAP squeezes them into three dimensions while keeping similar sounds close together. Each point is one recording, placed by its embedding.</p>
   <p>Different models process sounds differently. Switch between them and watch the points rearrange: one trained on animal sounds should group recordings by what is calling, one trained on everyday audio by their overall sound texture.</p>
   <p>Embeddings matter beyond this map. Among other things, they let scientists build detectors for new species from only a handful of examples, and our research* found that embeddings learned from birdsong transfer remarkably well to other animal sounds.</p>
   <p class="ref">* Ghani, Burooj; Denton, Tom; Kahl, Stefan; and Klinck, Holger. (2023). <a href="https://www.nature.com/articles/s41598-023-49989-z" target="_blank" rel="noopener">Global birdsong embeddings enable superior transfer learning for bioacoustic classification</a>. <em>Scientific Reports</em> 13, 22876.</p>
+  <p class="ref">Recordings come from <a href="https://freesound.org/" target="_blank" rel="noopener">Freesound</a>, each credited to its recordist. In the backdrop is Dal Lake in Kashmir, photographed by Suhail Skindar Sofi (Wikimedia Commons, CC BY-SA 4.0).</p>
   <p class="ref">© 2026 <a href="https://buroojghani.com/" target="_blank" rel="noopener">Burooj Ghani</a></p>
   <form method="dialog"><button class="btn">Back to listening</button></form>
 </dialog>
@@ -290,7 +290,6 @@ const MODEL_NOTES = {
 const modelNote = k => MODEL_NOTES[DATA.models[k]] || "";
 document.getElementById("model-seg").innerHTML = MODEL_KEYS.map((k, n) =>
   `<button data-model="${k}" aria-pressed="${n === 0}">${MODEL_LABELS[DATA.models[k]] || DATA.models[k]}</button>`).join("");
-document.querySelector(".notice").innerHTML = `Recordings come from Freesound, each credited to its recordist. In the backdrop is Dal Lake in Kashmir, photographed by Suhail Skindar Sofi.`;
 
 /* ---------- state ---------- */
 const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
