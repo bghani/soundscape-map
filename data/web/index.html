@@ -57,7 +57,7 @@ header p { margin: 0; color: var(--muted); max-width: 32rem; }
 .rec::before {
   content: ""; display: inline-block; width: 0.42em; height: 0.42em;
   margin: 0 0.25em 0.12em 0.1em; border-radius: 50%; background: currentColor;
-    animation: rec-blink 1.6s ease-in-out 3;
+  animation: rec-blink 1.6s ease-in-out 3;
 }
 @keyframes rec-blink { 50% { opacity: 0.2; } }
 @media (prefers-reduced-motion: reduce) { .rec::before { animation: none; } }
@@ -124,6 +124,7 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 }
 #explain::backdrop { background: rgba(3, 7, 16, 0.55); }
 #explain h2:focus { outline: none; }
+.intro-copy { display: none; }
 #explain h2 { font: 400 1.9rem/1.1 "Instrument Serif", Georgia, serif; margin: 0 0 12px; }
 #explain p { margin: 0 0 12px; color: var(--muted); }
 #explain p em { color: var(--ink); font-style: normal; }
@@ -160,6 +161,7 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   header { position: relative; top: auto; left: auto; padding: 14px 18px 0; margin-right: 112px; max-width: none; }
   h1 { font-size: 1.9rem; margin-bottom: 0.2rem; }
   header > p:not(.notice), .notice { display: none; }
+  .intro-copy { display: block; padding-bottom: 14px; border-bottom: 1px solid var(--line); }
   .howlink { margin-top: 4px; font-size: 13px; }
   #globe { top: 10px; right: 6px; width: 104px; }
   #coords { display: none; }
@@ -288,7 +290,9 @@ const MODEL_NOTES = {
 const modelNote = k => MODEL_NOTES[DATA.models[k]] || "";
 document.getElementById("model-seg").innerHTML = MODEL_KEYS.map((k, n) =>
   `<button data-model="${k}" aria-pressed="${n === 0}">${MODEL_LABELS[DATA.models[k]] || DATA.models[k]}</button>`).join("");
-document.querySelector(".notice").innerHTML = `Recordings come from Freesound, each credited to its recordist. In the backdrop is Dal Lake in Kashmir, photographed by Suhail Skindar Sofi.`;/* ---------- state ---------- */
+document.querySelector(".notice").innerHTML = `Recordings come from Freesound, each credited to its recordist. In the backdrop is Dal Lake in Kashmir, photographed by Suhail Skindar Sofi.`;
+
+/* ---------- state ---------- */
 const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
 const state = { model: MODEL_KEYS[0], color: "habitat", sel: null, hover: null, journey: null };
 
@@ -678,6 +682,10 @@ function globeFrame(now) {
 
 /* ---------- explainer ---------- */
 const explain = document.getElementById("explain");
+const introCopy = document.querySelector("header > p:not(.notice)").cloneNode(true);
+introCopy.classList.add("intro-copy");
+document.getElementById("explain-title").after(introCopy);
+
 document.getElementById("how").addEventListener("click", () => {
   explain.showModal();
   explain.scrollTop = 0;
