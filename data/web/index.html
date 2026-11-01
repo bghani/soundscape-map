@@ -249,7 +249,7 @@ const tidyCountry = c => ({ "Russian Federation": "Russia", "Türkiye": "Turkey"
 // Okabe-Ito palette: distinguishable with the common forms of colour blindness
 const OI = { orange: "#E69F00", sky: "#56B4E9", green: "#009E73", yellow: "#F0E442", blue: "#3D8FD1", vermillion: "#D55E00", purple: "#CC79A7", grey: "#BBBBBB" };
 const HAB_STYLE = {
-  rainforest: { name: "Tropical forest", color: OI.green }, reef: { name: "Coral reef", color: OI.sky },
+  rainforest: { name: "Tropical forest", color: OI.green }, reef: { name: "Underwater", color: OI.sky },
   market: { name: "Marketplace", color: OI.orange }, city: { name: "City street", color: OI.yellow },
   woodland: { name: "Temperate woodland", color: OI.purple }, wetland: { name: "Lake and wetland", color: OI.blue },
   mountain: { name: "Mountain", color: OI.grey }, night: { name: "Night", color: OI.vermillion },
@@ -451,7 +451,7 @@ const isPlaying = () => voice && actx.currentTime < voice.t0 + voice.d;
 const journeyBtn = document.getElementById("journey");
 function pickJourney() {
   const centre = h => { const ps = POINTS.filter(p => p.habitat === h); return [0, 1, 2].map(k => ps.reduce((a, p) => a + p[MODEL_KEYS[0]][k], 0) / ps.length); };
-    const order = ["city", "market", "dawn", "rainforest", "reef"].filter(h => HABITATS[h]);
+    const order = ["city", "market", "dawn", "reef", "rainforest"].filter(h => HABITATS[h]);
   Object.keys(HABITATS).forEach(h => { if (!order.includes(h)) order.push(h); });
   return order.map(h => {
     const ps = POINTS.filter(p => p.habitat === h);
@@ -490,7 +490,7 @@ function neighbours(i) {
 }
 function renderCard() {
   if (state.sel === null) {
-    card.innerHTML = `<p class="empty"><strong>Tap any point to listen.</strong> Drag to turn the map, pinch or scroll to zoom. Or play a journey from a city street to a coral reef.</p>`;
+    card.innerHTML = `<p class="empty"><strong>Tap any point to listen.</strong> Drag to turn the map, pinch or scroll to zoom. Or play a journey from a city street to somewhere in the tropics.</p>`;
     return;
   }
   const p = POINTS[state.sel], h = HABITATS[p.habitat];
