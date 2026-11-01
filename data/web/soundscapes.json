@@ -1,0 +1,7705 @@
+{
+ "generated": "2026-11-01",
+ "models": {
+  "bio": "naturebeats",
+  "general": "beats"
+ },
+ "clip_seconds": 15,
+ "recordings": [
+  {
+   "id": "fs-468241",
+   "audio": "audio/fs-468241.mp3",
+   "title": "Thailand Phangan Jungle Waterfall 2",
+   "habitat": "rainforest",
+   "place": "Ko Pha Ngan",
+   "country": "Thailand",
+   "region": "Asia",
+   "lat": 9.7458,
+   "lon": 100.0304,
+   "time_of_day": null,
+   "recordist": "Archos",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/Archos/sounds/468241/",
+   "excerpt_start": 11.24,
+   "bio": [
+    0.9294,
+    -0.7852,
+    -0.0615
+   ],
+   "general": [
+    0.8993,
+    -1.2235,
+    0.0267
+   ]
+  },
+  {
+   "id": "fs-658081",
+   "audio": "audio/fs-658081.mp3",
+   "title": "night_on_the_river.WAV",
+   "habitat": "rainforest",
+   "place": "Parintins",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -2.6637,
+   "lon": -56.7905,
+   "time_of_day": null,
+   "recordist": "WilliamDauricio",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/WilliamDauricio/sounds/658081/",
+   "excerpt_start": 112.22,
+   "bio": [
+    1.3324,
+    -0.5402,
+    -1.186
+   ],
+   "general": [
+    -0.171,
+    -0.9288,
+    -1.2821
+   ]
+  },
+  {
+   "id": "fs-659687",
+   "audio": "audio/fs-659687.mp3",
+   "title": "rain_in_the_forest.WAV",
+   "habitat": "rainforest",
+   "place": "Alvaraes",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -3.274,
+   "lon": -64.7657,
+   "time_of_day": null,
+   "recordist": "WilliamDauricio",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/WilliamDauricio/sounds/659687/",
+   "excerpt_start": 191.44,
+   "bio": [
+    1.4263,
+    -0.9006,
+    -1.1427
+   ],
+   "general": [
+    -0.0459,
+    -0.7975,
+    -0.7076
+   ]
+  },
+  {
+   "id": "fs-659685",
+   "audio": "audio/fs-659685.mp3",
+   "title": "birds_of_madeira_river.WAV",
+   "habitat": "rainforest",
+   "place": "Nova Olinda do Norte",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -3.8024,
+   "lon": -59.178,
+   "time_of_day": null,
+   "recordist": "WilliamDauricio",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/WilliamDauricio/sounds/659685/",
+   "excerpt_start": 156.72,
+   "bio": [
+    1.1079,
+    -0.2062,
+    -0.9715
+   ],
+   "general": [
+    -0.6667,
+    -0.4026,
+    -0.8481
+   ]
+  },
+  {
+   "id": "fs-861650",
+   "audio": "audio/fs-861650.mp3",
+   "title": "Morning on amazon river",
+   "habitat": "rainforest",
+   "place": "Chachapoyas",
+   "country": "Peru",
+   "region": "Americas",
+   "lat": -6.2246,
+   "lon": -77.8776,
+   "time_of_day": null,
+   "recordist": "jrosin",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/jrosin/sounds/861650/",
+   "excerpt_start": 90.31,
+   "bio": [
+    1.2602,
+    -0.2005,
+    -0.9066
+   ],
+   "general": [
+    -0.4131,
+    -0.6144,
+    -1.3092
+   ]
+  },
+  {
+   "id": "fs-501740",
+   "audio": "audio/fs-501740.mp3",
+   "title": "rainforest_2.wav",
+   "habitat": "rainforest",
+   "place": "Dorrigo",
+   "country": "Australia",
+   "region": "Oceania",
+   "lat": -30.3639,
+   "lon": 152.729,
+   "time_of_day": null,
+   "recordist": "DavidLamhauge",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/DavidLamhauge/sounds/501740/",
+   "excerpt_start": 33.81,
+   "bio": [
+    0.3786,
+    0.0903,
+    -0.9385
+   ],
+   "general": [
+    -0.5334,
+    -0.5042,
+    -1.9141
+   ]
+  },
+  {
+   "id": "fs-658073",
+   "audio": "audio/fs-658073.mp3",
+   "title": "water_running_under_the_bridge.WAV",
+   "habitat": "rainforest",
+   "place": "Borba",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -4.5248,
+   "lon": -59.5785,
+   "time_of_day": null,
+   "recordist": "WilliamDauricio",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/WilliamDauricio/sounds/658073/",
+   "excerpt_start": 131.08,
+   "bio": [
+    0.5269,
+    -0.8424,
+    0.1053
+   ],
+   "general": [
+    0.6592,
+    -0.8637,
+    0.2676
+   ]
+  },
+  {
+   "id": "fs-669407",
+   "audio": "audio/fs-669407.mp3",
+   "title": "D333 Night Jungle Ambience 2.WAV",
+   "habitat": "rainforest",
+   "place": "Tefe",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -3.8134,
+   "lon": -64.9354,
+   "time_of_day": null,
+   "recordist": "billcutbill",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/billcutbill/sounds/669407/",
+   "excerpt_start": 14.01,
+   "bio": [
+    1.4076,
+    -0.8095,
+    -1.3592
+   ],
+   "general": [
+    -0.258,
+    -1.2403,
+    -1.1908
+   ]
+  },
+  {
+   "id": "fs-659692",
+   "audio": "audio/fs-659692.mp3",
+   "title": "sunrise-rain.WAV",
+   "habitat": "rainforest",
+   "place": "Autazes",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -3.4081,
+   "lon": -59.1887,
+   "time_of_day": null,
+   "recordist": "WilliamDauricio",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/WilliamDauricio/sounds/659692/",
+   "excerpt_start": 142.32,
+   "bio": [
+    0.924,
+    -0.0692,
+    -0.4255
+   ],
+   "general": [
+    -0.0755,
+    -0.5146,
+    -0.4391
+   ]
+  },
+  {
+   "id": "fs-501741",
+   "audio": "audio/fs-501741.mp3",
+   "title": "rainforestAmbience.wav",
+   "habitat": "rainforest",
+   "place": "Dorrigo",
+   "country": "Australia",
+   "region": "Oceania",
+   "lat": -30.3639,
+   "lon": 152.7289,
+   "time_of_day": null,
+   "recordist": "DavidLamhauge",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/DavidLamhauge/sounds/501741/",
+   "excerpt_start": 23.27,
+   "bio": [
+    0.3805,
+    -0.0149,
+    -0.7533
+   ],
+   "general": [
+    0.0009,
+    -1.0849,
+    -0.7044
+   ]
+  },
+  {
+   "id": "fs-868988",
+   "audio": "audio/fs-868988.mp3",
+   "title": "Distant Waves in the forest - Rorota Trail, French Guiana",
+   "habitat": "rainforest",
+   "place": "Remire-Montjoly",
+   "country": "French Guiana",
+   "region": "Americas",
+   "lat": 4.8897,
+   "lon": -52.2577,
+   "time_of_day": null,
+   "recordist": "felix.blume",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/felix.blume/sounds/868988/",
+   "excerpt_start": 136.33,
+   "bio": [
+    -0.1109,
+    -0.7128,
+    0.1313
+   ],
+   "general": [
+    -0.4711,
+    -0.7421,
+    -1.1659
+   ]
+  },
+  {
+   "id": "fs-669408",
+   "audio": "audio/fs-669408.mp3",
+   "title": "D332 Night Jungle Ambience 1.WAV",
+   "habitat": "rainforest",
+   "place": "Tefe",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -3.8134,
+   "lon": -64.9354,
+   "time_of_day": null,
+   "recordist": "billcutbill",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/billcutbill/sounds/669408/",
+   "excerpt_start": 13.02,
+   "bio": [
+    1.521,
+    -0.8512,
+    -1.3186
+   ],
+   "general": [
+    -0.1518,
+    -1.1334,
+    -1.2939
+   ]
+  },
+  {
+   "id": "fs-658098",
+   "audio": "audio/fs-658098.mp3",
+   "title": "amazon_birds.WAV",
+   "habitat": "rainforest",
+   "place": "Parintins",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -2.6772,
+   "lon": -56.7901,
+   "time_of_day": null,
+   "recordist": "WilliamDauricio",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/WilliamDauricio/sounds/658098/",
+   "excerpt_start": 152.9,
+   "bio": [
+    1.0274,
+    -0.0353,
+    -0.8893
+   ],
+   "general": [
+    -0.3787,
+    -0.0035,
+    -1.3777
+   ]
+  },
+  {
+   "id": "fs-861651",
+   "audio": "audio/fs-861651.mp3",
+   "title": "Oropendola calls in the Amazon jungle",
+   "habitat": "rainforest",
+   "place": "Chachapoyas",
+   "country": "Peru",
+   "region": "Americas",
+   "lat": -6.2246,
+   "lon": -77.8776,
+   "time_of_day": null,
+   "recordist": "jrosin",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/jrosin/sounds/861651/",
+   "excerpt_start": 41.8,
+   "bio": [
+    1.1757,
+    -0.1797,
+    -0.7597
+   ],
+   "general": [
+    -0.2929,
+    -0.5232,
+    -1.2658
+   ]
+  },
+  {
+   "id": "fs-812609",
+   "audio": "audio/fs-812609.mp3",
+   "title": "Birdsong In Northern NSW Hinterland",
+   "habitat": "rainforest",
+   "place": "Nimbin",
+   "country": "Australia",
+   "region": "Oceania",
+   "lat": -28.4511,
+   "lon": 153.1767,
+   "time_of_day": null,
+   "recordist": "Alex_hears_things",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/Alex_hears_things/sounds/812609/",
+   "excerpt_start": 105.93,
+   "bio": [
+    0.2308,
+    0.1581,
+    -0.8895
+   ],
+   "general": [
+    -0.9706,
+    -0.2737,
+    -1.3371
+   ]
+  },
+  {
+   "id": "fs-795998",
+   "audio": "audio/fs-795998.mp3",
+   "title": "A small waterfall in the rainforest",
+   "habitat": "rainforest",
+   "place": "Sao Francisco do Sul",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -26.1384,
+   "lon": -48.7643,
+   "time_of_day": null,
+   "recordist": "ricardoemfield",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/ricardoemfield/sounds/795998/",
+   "excerpt_start": 39.69,
+   "bio": [
+    0.7266,
+    -0.8503,
+    -0.0903
+   ],
+   "general": [
+    0.7082,
+    -1.1312,
+    0.0907
+   ]
+  },
+  {
+   "id": "fs-658076",
+   "audio": "audio/fs-658076.mp3",
+   "title": "sunset_in_the_forest.WAV",
+   "habitat": "rainforest",
+   "place": "Borba",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -4.3875,
+   "lon": -59.5938,
+   "time_of_day": null,
+   "recordist": "WilliamDauricio",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/WilliamDauricio/sounds/658076/",
+   "excerpt_start": 51.73,
+   "bio": [
+    1.3403,
+    -0.3315,
+    -0.9292
+   ],
+   "general": [
+    -0.2756,
+    -0.799,
+    -1.3255
+   ]
+  },
+  {
+   "id": "fs-578523",
+   "audio": "audio/fs-578523.mp3",
+   "title": "Birds singing, Dawn chorus",
+   "habitat": "rainforest",
+   "place": "Forks",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 47.92,
+   "lon": -124.5994,
+   "time_of_day": null,
+   "recordist": "SamsterBirdies",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/SamsterBirdies/sounds/578523/",
+   "excerpt_start": 113.12,
+   "bio": [
+    -0.895,
+    0.7056,
+    -1.3859
+   ],
+   "general": [
+    -0.9616,
+    -0.2565,
+    -1.2024
+   ]
+  },
+  {
+   "id": "fs-812610",
+   "audio": "audio/fs-812610.mp3",
+   "title": "Birdsong by River In Northern NSW Hinterland",
+   "habitat": "rainforest",
+   "place": "Nimbin",
+   "country": "Australia",
+   "region": "Oceania",
+   "lat": -28.4514,
+   "lon": 153.1623,
+   "time_of_day": null,
+   "recordist": "Alex_hears_things",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/Alex_hears_things/sounds/812610/",
+   "excerpt_start": 145.65,
+   "bio": [
+    0.2888,
+    0.1646,
+    -0.6104
+   ],
+   "general": [
+    0.1484,
+    -0.9818,
+    -0.4788
+   ]
+  },
+  {
+   "id": "fs-333224",
+   "audio": "audio/fs-333224.mp3",
+   "title": "Bako National Park, Borneo Island, Rain Forest Ambience daytime 01.10.2013 Roland R-26 XY Mics.wav",
+   "habitat": "rainforest",
+   "place": "Kuching",
+   "country": "Malaysia",
+   "region": "Asia",
+   "lat": 1.7167,
+   "lon": 110.4667,
+   "time_of_day": null,
+   "recordist": "gladkiy",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/gladkiy/sounds/333224/",
+   "excerpt_start": 24.5,
+   "bio": [
+    0.7957,
+    -0.7819,
+    -0.7866
+   ],
+   "general": [
+    -0.3622,
+    -1.2702,
+    -1.0851
+   ]
+  },
+  {
+   "id": "fs-669403",
+   "audio": "audio/fs-669403.mp3",
+   "title": "D331 Howler Monkeys.WAV",
+   "habitat": "rainforest",
+   "place": "Tefe",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -3.8134,
+   "lon": -64.9354,
+   "time_of_day": null,
+   "recordist": "billcutbill",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/billcutbill/sounds/669403/",
+   "excerpt_start": 38.4,
+   "bio": [
+    1.6263,
+    -0.8888,
+    -1.4582
+   ],
+   "general": [
+    -0.155,
+    -1.0928,
+    -1.3705
+   ]
+  },
+  {
+   "id": "fs-724054",
+   "audio": "audio/fs-724054.mp3",
+   "title": "Jungle Sounds Background Ambience 1",
+   "habitat": "rainforest",
+   "place": "Betong",
+   "country": "Thailand",
+   "region": "Asia",
+   "lat": 5.6065,
+   "lon": 101.3564,
+   "time_of_day": null,
+   "recordist": "paulprit",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/paulprit/sounds/724054/",
+   "excerpt_start": 12.82,
+   "bio": [
+    1.0855,
+    -0.7812,
+    -0.8007
+   ],
+   "general": [
+    -0.3154,
+    -0.9956,
+    -1.2061
+   ]
+  },
+  {
+   "id": "fs-333222",
+   "audio": "audio/fs-333222.mp3",
+   "title": "Bako National Park, Borneo Island, Rain Forest Ambience near a water stream daytime 01.10.2013 Roland R-26 XY Mics",
+   "habitat": "rainforest",
+   "place": "Kuching",
+   "country": "Malaysia",
+   "region": "Asia",
+   "lat": 1.7167,
+   "lon": 110.4667,
+   "time_of_day": null,
+   "recordist": "gladkiy",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/gladkiy/sounds/333222/",
+   "excerpt_start": 96.5,
+   "bio": [
+    0.9473,
+    -0.6869,
+    -0.3822
+   ],
+   "general": [
+    1.0865,
+    -1.1163,
+    0.1808
+   ]
+  },
+  {
+   "id": "fs-868748",
+   "audio": "audio/fs-868748.mp3",
+   "title": "1 Hour of Ambience at Dusk in the Tropical Forest - French Guiana",
+   "habitat": "rainforest",
+   "place": "Roura",
+   "country": "French Guiana",
+   "region": "Americas",
+   "lat": 4.6099,
+   "lon": -52.2786,
+   "time_of_day": null,
+   "recordist": "felix.blume",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/felix.blume/sounds/868748/",
+   "excerpt_start": 1792.54,
+   "bio": [
+    1.5715,
+    -0.7126,
+    -1.3345
+   ],
+   "general": [
+    -0.3665,
+    -0.9135,
+    -1.351
+   ]
+  },
+  {
+   "id": "fs-868995",
+   "audio": "audio/fs-868995.mp3",
+   "title": "Light Rain, Frogs and Toads at Night - Rémire-Montjoly, French Guiana",
+   "habitat": "rainforest",
+   "place": "Remire-Montjoly",
+   "country": "French Guiana",
+   "region": "Americas",
+   "lat": 4.8999,
+   "lon": -52.2636,
+   "time_of_day": null,
+   "recordist": "felix.blume",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/felix.blume/sounds/868995/",
+   "excerpt_start": 250.92,
+   "bio": [
+    0.2879,
+    -0.1461,
+    0.1099
+   ],
+   "general": [
+    -0.1584,
+    -0.7797,
+    -0.8125
+   ]
+  },
+  {
+   "id": "fs-853107",
+   "audio": "audio/fs-853107.mp3",
+   "title": "Waterfall",
+   "habitat": "rainforest",
+   "place": "Villa La Angostura",
+   "country": "Argentina",
+   "region": "Americas",
+   "lat": -40.7477,
+   "lon": -71.641,
+   "time_of_day": null,
+   "recordist": "chiara_____",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/chiara_____/sounds/853107/",
+   "excerpt_start": 56.13,
+   "bio": [
+    0.0276,
+    -1.0461,
+    -0.1367
+   ],
+   "general": [
+    0.0711,
+    -1.0994,
+    0.1128
+   ]
+  },
+  {
+   "id": "fs-257822",
+   "audio": "audio/fs-257822.mp3",
+   "title": "Jungle Meets Ocean - Pulau Seram, Indonesia",
+   "habitat": "rainforest",
+   "place": "Waipia",
+   "country": "Indonesia",
+   "region": "Asia",
+   "lat": -2.9418,
+   "lon": 129.0894,
+   "time_of_day": null,
+   "recordist": "RTB45",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/RTB45/sounds/257822/",
+   "excerpt_start": 290.69,
+   "bio": [
+    0.8647,
+    -0.3916,
+    -0.2574
+   ],
+   "general": [
+    -0.1829,
+    -0.452,
+    -1.0312
+   ]
+  },
+  {
+   "id": "fs-724055",
+   "audio": "audio/fs-724055.mp3",
+   "title": "More Jungle Sounds Background Ambience",
+   "habitat": "rainforest",
+   "place": "Betong",
+   "country": "Thailand",
+   "region": "Asia",
+   "lat": 5.6092,
+   "lon": 101.3404,
+   "time_of_day": null,
+   "recordist": "paulprit",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/paulprit/sounds/724055/",
+   "excerpt_start": 8.86,
+   "bio": [
+    0.9987,
+    -0.6658,
+    -0.9407
+   ],
+   "general": [
+    -0.1387,
+    -1.1697,
+    -1.052
+   ]
+  },
+  {
+   "id": "fs-749737",
+   "audio": "audio/fs-749737.mp3",
+   "title": "denseforestwithbirds",
+   "habitat": "rainforest",
+   "place": "Canacona",
+   "country": "India",
+   "region": "Asia",
+   "lat": 14.9598,
+   "lon": 74.0995,
+   "time_of_day": null,
+   "recordist": "indiasoundsgreat",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/indiasoundsgreat/sounds/749737/",
+   "excerpt_start": 43.32,
+   "bio": [
+    -0.1111,
+    -0.9411,
+    -0.1353
+   ],
+   "general": [
+    0.0502,
+    -0.5349,
+    0.12
+   ]
+  },
+  {
+   "id": "fs-410078",
+   "audio": "audio/fs-410078.mp3",
+   "title": "Thunder and rain during the night in the Amazonian Rainforest",
+   "habitat": "rainforest",
+   "place": "Tefe",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -3.6447,
+   "lon": -64.9528,
+   "time_of_day": null,
+   "recordist": "felix.blume",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/felix.blume/sounds/410078/",
+   "excerpt_start": 1792.68,
+   "bio": [
+    1.4617,
+    -0.9772,
+    -1.2959
+   ],
+   "general": [
+    -0.1041,
+    -0.9119,
+    -1.192
+   ]
+  },
+  {
+   "id": "fs-519663",
+   "audio": "audio/fs-519663.mp3",
+   "title": "Rain in the Forest",
+   "habitat": "rainforest",
+   "place": "Seglingen",
+   "country": "Switzerland",
+   "region": "Europe",
+   "lat": 47.5623,
+   "lon": 8.5365,
+   "time_of_day": null,
+   "recordist": "Astounded",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Astounded/sounds/519663/",
+   "excerpt_start": 391.12,
+   "bio": [
+    0.1831,
+    0.325,
+    -0.3825
+   ],
+   "general": [
+    -0.0192,
+    -0.9437,
+    -0.6192
+   ]
+  },
+  {
+   "id": "fs-813632",
+   "audio": "audio/fs-813632.mp3",
+   "title": "AMBTrop_Daytime tropical forest_Tim Kahn_MKH80208030st",
+   "habitat": "rainforest",
+   "place": "Alto de la Estancia",
+   "country": "Panama",
+   "region": "Americas",
+   "lat": 8.6291,
+   "lon": -80.1163,
+   "time_of_day": null,
+   "recordist": "tim.kahn",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/tim.kahn/sounds/813632/",
+   "excerpt_start": 2319.49,
+   "bio": [
+    1.1328,
+    -0.2787,
+    -0.7082
+   ],
+   "general": [
+    -0.3025,
+    -0.699,
+    -1.0683
+   ]
+  },
+  {
+   "id": "fs-658075",
+   "audio": "audio/fs-658075.mp3",
+   "title": "birds_in_the_forest.WAV",
+   "habitat": "rainforest",
+   "place": "Borba",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -4.5984,
+   "lon": -59.5157,
+   "time_of_day": null,
+   "recordist": "WilliamDauricio",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/WilliamDauricio/sounds/658075/",
+   "excerpt_start": 41.63,
+   "bio": [
+    1.3372,
+    -0.2096,
+    -0.9116
+   ],
+   "general": [
+    -0.496,
+    -0.2161,
+    -1.4334
+   ]
+  },
+  {
+   "id": "fs-20798",
+   "audio": "audio/fs-20798.mp3",
+   "title": "in_conservatory01.flac",
+   "habitat": "rainforest",
+   "place": "Kennett Square",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 39.8722,
+   "lon": -75.6798,
+   "time_of_day": null,
+   "recordist": "Pooleside",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Pooleside/sounds/20798/",
+   "excerpt_start": 83.22,
+   "bio": [
+    0.1155,
+    -0.0603,
+    0.1148
+   ],
+   "general": [
+    0.191,
+    -0.0953,
+    0.1815
+   ]
+  },
+  {
+   "id": "fs-669406",
+   "audio": "audio/fs-669406.mp3",
+   "title": "D323 Jungle Campfire.WAV",
+   "habitat": "rainforest",
+   "place": "Tefe",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -3.8134,
+   "lon": -64.9354,
+   "time_of_day": null,
+   "recordist": "billcutbill",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/billcutbill/sounds/669406/",
+   "excerpt_start": 11.5,
+   "bio": [
+    1.4833,
+    -0.9541,
+    -1.1624
+   ],
+   "general": [
+    0.0061,
+    -1.0138,
+    -1.2537
+   ]
+  },
+  {
+   "id": "fs-333223",
+   "audio": "audio/fs-333223.mp3",
+   "title": "Bako National Park, Borneo Island, Rain Forest Ambience near a water stream daytime 01.10.2013 Roland R-26 OMNI Mics.wav",
+   "habitat": "rainforest",
+   "place": "Kuching",
+   "country": "Malaysia",
+   "region": "Asia",
+   "lat": 1.7167,
+   "lon": 110.4667,
+   "time_of_day": null,
+   "recordist": "gladkiy",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/gladkiy/sounds/333223/",
+   "excerpt_start": 96.5,
+   "bio": [
+    0.8184,
+    -0.7681,
+    -0.4851
+   ],
+   "general": [
+    1.0335,
+    -1.1126,
+    0.1695
+   ]
+  },
+  {
+   "id": "fs-20291",
+   "audio": "audio/fs-20291.mp3",
+   "title": "Bukit_Dinding_rainforest_jungle_01.wav",
+   "habitat": "rainforest",
+   "place": "Kuala Lumpur",
+   "country": "Malaysia",
+   "region": "Asia",
+   "lat": 3.1872,
+   "lon": 101.754,
+   "time_of_day": null,
+   "recordist": "wanna73",
+   "licence": "CC BY 3.0",
+   "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+   "source": "https://freesound.org/people/wanna73/sounds/20291/",
+   "excerpt_start": 7.5,
+   "bio": [
+    0.7088,
+    -0.6334,
+    -0.739
+   ],
+   "general": [
+    -0.4309,
+    -1.0872,
+    -1.1807
+   ]
+  },
+  {
+   "id": "fs-784804",
+   "audio": "audio/fs-784804.mp3",
+   "title": "Iguazu Falls Waterfall  09",
+   "habitat": "rainforest",
+   "place": "Puerto Iguazu",
+   "country": "Argentina",
+   "region": "Americas",
+   "lat": -25.6953,
+   "lon": -54.4367,
+   "time_of_day": null,
+   "recordist": "Soundrack",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Soundrack/sounds/784804/",
+   "excerpt_start": 113.0,
+   "bio": [
+    0.0209,
+    -1.0041,
+    -0.0297
+   ],
+   "general": [
+    0.1298,
+    -1.3621,
+    0.0329
+   ]
+  },
+  {
+   "id": "fs-784777",
+   "audio": "audio/fs-784777.mp3",
+   "title": "Iguazu Falls - Fountain",
+   "habitat": "rainforest",
+   "place": "Puerto Iguazu",
+   "country": "Argentina",
+   "region": "Americas",
+   "lat": -25.6453,
+   "lon": -54.3072,
+   "time_of_day": null,
+   "recordist": "Soundrack",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Soundrack/sounds/784777/",
+   "excerpt_start": 46.5,
+   "bio": [
+    0.9663,
+    -0.8177,
+    0.0858
+   ],
+   "general": [
+    1.0408,
+    -1.2522,
+    -0.0212
+   ]
+  },
+  {
+   "id": "fs-265556",
+   "audio": "audio/fs-265556.mp3",
+   "title": "Atmo Swiming Rio Pastaza 48k.wav",
+   "habitat": "rainforest",
+   "place": "Montalvo",
+   "country": "Ecuador",
+   "region": "Americas",
+   "lat": -2.5461,
+   "lon": -76.6355,
+   "time_of_day": null,
+   "recordist": "TheTunk",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/TheTunk/sounds/265556/",
+   "excerpt_start": 91.39,
+   "bio": [
+    0.9877,
+    -0.5235,
+    0.0104
+   ],
+   "general": [
+    1.0015,
+    -0.8602,
+    0.0844
+   ]
+  },
+  {
+   "id": "fs-669357",
+   "audio": "audio/fs-669357.mp3",
+   "title": "D117 Walking at Night.WAV",
+   "habitat": "rainforest",
+   "place": "Tefe",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -3.8134,
+   "lon": -64.9354,
+   "time_of_day": null,
+   "recordist": "billcutbill",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/billcutbill/sounds/669357/",
+   "excerpt_start": 37.56,
+   "bio": [
+    1.485,
+    -0.7174,
+    -1.4778
+   ],
+   "general": [
+    -0.0372,
+    -1.0532,
+    -1.263
+   ]
+  },
+  {
+   "id": "fs-853114",
+   "audio": "audio/fs-853114.mp3",
+   "title": "Forest ambience",
+   "habitat": "rainforest",
+   "place": "San Martin de los Andes",
+   "country": "Argentina",
+   "region": "Americas",
+   "lat": -40.2921,
+   "lon": -71.5164,
+   "time_of_day": null,
+   "recordist": "chiara_____",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/chiara_____/sounds/853114/",
+   "excerpt_start": 19.48,
+   "bio": [
+    -0.8284,
+    -0.3959,
+    -0.4595
+   ],
+   "general": [
+    -0.2216,
+    -0.3794,
+    -0.4494
+   ]
+  },
+  {
+   "id": "fs-868705",
+   "audio": "audio/fs-868705.mp3",
+   "title": "Night Crickets in the Forest - Trésor Nature Reserve, French Guiana",
+   "habitat": "rainforest",
+   "place": "Roura",
+   "country": "French Guiana",
+   "region": "Americas",
+   "lat": 4.6947,
+   "lon": -52.306,
+   "time_of_day": null,
+   "recordist": "felix.blume",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/felix.blume/sounds/868705/",
+   "excerpt_start": 352.88,
+   "bio": [
+    1.6754,
+    -0.7472,
+    -1.306
+   ],
+   "general": [
+    -0.1986,
+    -1.1014,
+    -1.1827
+   ]
+  },
+  {
+   "id": "fs-333225",
+   "audio": "audio/fs-333225.mp3",
+   "title": "Bako National Park, Borneo Island, Rain Forest Ambience daytime 01.10.2013 Roland R-26 OMNI Mics.wav",
+   "habitat": "rainforest",
+   "place": "Kuching",
+   "country": "Malaysia",
+   "region": "Asia",
+   "lat": 1.7167,
+   "lon": 110.4667,
+   "time_of_day": null,
+   "recordist": "gladkiy",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/gladkiy/sounds/333225/",
+   "excerpt_start": 24.42,
+   "bio": [
+    0.5703,
+    -0.7501,
+    -0.685
+   ],
+   "general": [
+    -0.3598,
+    -1.2563,
+    -0.9245
+   ]
+  },
+  {
+   "id": "fs-784806",
+   "audio": "audio/fs-784806.mp3",
+   "title": "Iguazu Falls Waterfall  11",
+   "habitat": "rainforest",
+   "place": "Puerto Iguazu",
+   "country": "Argentina",
+   "region": "Americas",
+   "lat": -25.6953,
+   "lon": -54.4367,
+   "time_of_day": null,
+   "recordist": "Soundrack",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Soundrack/sounds/784806/",
+   "excerpt_start": 72.5,
+   "bio": [
+    -0.0741,
+    -0.9858,
+    0.0278
+   ],
+   "general": [
+    0.0024,
+    -1.2788,
+    0.0987
+   ]
+  },
+  {
+   "id": "fs-784799",
+   "audio": "audio/fs-784799.mp3",
+   "title": "Iguazu Falls Waterfall  04",
+   "habitat": "rainforest",
+   "place": "Puerto Iguazu",
+   "country": "Argentina",
+   "region": "Americas",
+   "lat": -25.6953,
+   "lon": -54.4367,
+   "time_of_day": null,
+   "recordist": "Soundrack",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Soundrack/sounds/784799/",
+   "excerpt_start": 95.5,
+   "bio": [
+    0.1947,
+    -0.866,
+    -0.0276
+   ],
+   "general": [
+    0.1149,
+    -1.2461,
+    0.0651
+   ]
+  },
+  {
+   "id": "fs-784798",
+   "audio": "audio/fs-784798.mp3",
+   "title": "Iguazu Falls Waterfall  03",
+   "habitat": "rainforest",
+   "place": "Puerto Iguazu",
+   "country": "Argentina",
+   "region": "Americas",
+   "lat": -25.6953,
+   "lon": -54.4367,
+   "time_of_day": null,
+   "recordist": "Soundrack",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Soundrack/sounds/784798/",
+   "excerpt_start": 95.5,
+   "bio": [
+    0.0891,
+    -1.0173,
+    -0.0542
+   ],
+   "general": [
+    0.172,
+    -1.2924,
+    0.1737
+   ]
+  },
+  {
+   "id": "fs-784786",
+   "audio": "audio/fs-784786.mp3",
+   "title": "Iguazu Falls - Rainforest Ambience 05",
+   "habitat": "rainforest",
+   "place": "Puerto Iguazu",
+   "country": "Argentina",
+   "region": "Americas",
+   "lat": -25.6953,
+   "lon": -54.4367,
+   "time_of_day": null,
+   "recordist": "Soundrack",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Soundrack/sounds/784786/",
+   "excerpt_start": 85.5,
+   "bio": [
+    0.3624,
+    -0.9059,
+    -0.0748
+   ],
+   "general": [
+    0.2331,
+    -1.2202,
+    -0.0267
+   ]
+  },
+  {
+   "id": "fs-148872",
+   "audio": "audio/fs-148872.mp3",
+   "title": "Tropical_Dawn_3.wav",
+   "habitat": "rainforest",
+   "place": "Daniel Flores",
+   "country": "Costa Rica",
+   "region": "Americas",
+   "lat": 9.1755,
+   "lon": -83.7332,
+   "time_of_day": null,
+   "recordist": "profdrums",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/profdrums/sounds/148872/",
+   "excerpt_start": 26.81,
+   "bio": [
+    1.009,
+    0.144,
+    -1.2823
+   ],
+   "general": [
+    -0.9544,
+    -0.5036,
+    -1.7518
+   ]
+  },
+  {
+   "id": "fs-495121",
+   "audio": "audio/fs-495121.mp3",
+   "title": "Amacayacu",
+   "habitat": "rainforest",
+   "place": "Puerto Narino",
+   "country": "Colombia",
+   "region": "Americas",
+   "lat": -3.5948,
+   "lon": -70.3239,
+   "time_of_day": null,
+   "recordist": "AdrienPola",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/AdrienPola/sounds/495121/",
+   "excerpt_start": 822.34,
+   "bio": [
+    -0.3966,
+    -0.3879,
+    0.2376
+   ],
+   "general": [
+    -0.0147,
+    -0.0203,
+    0.9143
+   ]
+  },
+  {
+   "id": "fs-644989",
+   "audio": "audio/fs-644989.mp3",
+   "title": "Jungle / Forest Ambience",
+   "habitat": "rainforest",
+   "place": "Heggadadevankote",
+   "country": "India",
+   "region": "Asia",
+   "lat": 11.9523,
+   "lon": 76.228,
+   "time_of_day": null,
+   "recordist": "seventhsamurai",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/seventhsamurai/sounds/644989/",
+   "excerpt_start": 12.27,
+   "bio": [
+    0.537,
+    -0.4142,
+    -0.9024
+   ],
+   "general": [
+    -0.5281,
+    -0.4681,
+    -1.6002
+   ]
+  },
+  {
+   "id": "fs-148877",
+   "audio": "audio/fs-148877.mp3",
+   "title": "Tropical_Dawn_Calmer.wav",
+   "habitat": "rainforest",
+   "place": "Daniel Flores",
+   "country": "Costa Rica",
+   "region": "Americas",
+   "lat": 9.1845,
+   "lon": -83.7471,
+   "time_of_day": null,
+   "recordist": "profdrums",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/profdrums/sounds/148877/",
+   "excerpt_start": 23.26,
+   "bio": [
+    1.1323,
+    0.1091,
+    -1.2227
+   ],
+   "general": [
+    -1.0378,
+    -0.4021,
+    -1.7274
+   ]
+  },
+  {
+   "id": "fs-366669",
+   "audio": "audio/fs-366669.mp3",
+   "title": "Kauai Sunrise",
+   "habitat": "rainforest",
+   "place": "Kilauea",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 22.1946,
+   "lon": -159.3826,
+   "time_of_day": null,
+   "recordist": "RTB45",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/RTB45/sounds/366669/",
+   "excerpt_start": 98.41,
+   "bio": [
+    -1.0421,
+    0.3514,
+    -0.3748
+   ],
+   "general": [
+    -0.4311,
+    -0.009,
+    -0.8367
+   ]
+  },
+  {
+   "id": "fs-148870",
+   "audio": "audio/fs-148870.mp3",
+   "title": "Tropical_Dawn.wav",
+   "habitat": "rainforest",
+   "place": "Daniel Flores",
+   "country": "Costa Rica",
+   "region": "Americas",
+   "lat": 9.1724,
+   "lon": -83.7434,
+   "time_of_day": null,
+   "recordist": "profdrums",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/profdrums/sounds/148870/",
+   "excerpt_start": 27.5,
+   "bio": [
+    1.0002,
+    -0.08,
+    -1.306
+   ],
+   "general": [
+    -0.7404,
+    -0.4589,
+    -1.7343
+   ]
+  },
+  {
+   "id": "fs-148871",
+   "audio": "audio/fs-148871.mp3",
+   "title": "Tropical_Dawn_2.wav",
+   "habitat": "rainforest",
+   "place": "Daniel Flores",
+   "country": "Costa Rica",
+   "region": "Americas",
+   "lat": 9.1821,
+   "lon": -83.7296,
+   "time_of_day": null,
+   "recordist": "profdrums",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/profdrums/sounds/148871/",
+   "excerpt_start": 13.0,
+   "bio": [
+    1.0323,
+    0.0668,
+    -1.0877
+   ],
+   "general": [
+    -0.7088,
+    -0.5476,
+    -1.6332
+   ]
+  },
+  {
+   "id": "fs-189345",
+   "audio": "audio/fs-189345.mp3",
+   "title": "Dawn Chorus in Western Ghat Jungles ",
+   "habitat": "rainforest",
+   "place": "Sanvordem",
+   "country": "India",
+   "region": "Asia",
+   "lat": 15.3716,
+   "lon": 74.1804,
+   "time_of_day": null,
+   "recordist": "Calcuttan",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Calcuttan/sounds/189345/",
+   "excerpt_start": 22.86,
+   "bio": [
+    0.4896,
+    -0.2149,
+    -0.8438
+   ],
+   "general": [
+    -0.6331,
+    -0.1309,
+    -1.432
+   ]
+  },
+  {
+   "id": "fs-148879",
+   "audio": "audio/fs-148879.mp3",
+   "title": "Tropical_Dawn_HowlerMonkey_background.wav",
+   "habitat": "rainforest",
+   "place": "Daniel Flores",
+   "country": "Costa Rica",
+   "region": "Americas",
+   "lat": 9.1745,
+   "lon": -83.7357,
+   "time_of_day": null,
+   "recordist": "profdrums",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/profdrums/sounds/148879/",
+   "excerpt_start": 16.84,
+   "bio": [
+    0.9636,
+    0.0717,
+    -1.181
+   ],
+   "general": [
+    -0.8635,
+    -0.5233,
+    -1.7
+   ]
+  },
+  {
+   "id": "fs-148878",
+   "audio": "audio/fs-148878.mp3",
+   "title": "Tropical_Dawn_Calmer_birds.wav",
+   "habitat": "rainforest",
+   "place": "Daniel Flores",
+   "country": "Costa Rica",
+   "region": "Americas",
+   "lat": 9.178,
+   "lon": -83.7356,
+   "time_of_day": null,
+   "recordist": "profdrums",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/profdrums/sounds/148878/",
+   "excerpt_start": 24.12,
+   "bio": [
+    1.0821,
+    0.1716,
+    -1.2864
+   ],
+   "general": [
+    -1.0572,
+    -0.2688,
+    -1.6115
+   ]
+  },
+  {
+   "id": "fs-587775",
+   "audio": "audio/fs-587775.mp3",
+   "title": "CicadaMorning.wav",
+   "habitat": "rainforest",
+   "place": "Bijagua",
+   "country": "Costa Rica",
+   "region": "Americas",
+   "lat": 10.7161,
+   "lon": -85.0525,
+   "time_of_day": null,
+   "recordist": "Globofonia",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Globofonia/sounds/587775/",
+   "excerpt_start": 24.4,
+   "bio": [
+    -0.0117,
+    -0.6482,
+    -0.0061
+   ],
+   "general": [
+    -0.19,
+    -1.0891,
+    -0.9611
+   ]
+  },
+  {
+   "id": "fs-733223",
+   "audio": "audio/fs-733223.mp3",
+   "title": "Madrugada Pereira",
+   "habitat": "rainforest",
+   "place": "Pereira",
+   "country": "Colombia",
+   "region": "Americas",
+   "lat": 4.8051,
+   "lon": -75.6817,
+   "time_of_day": null,
+   "recordist": "jaime_enrique",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/jaime_enrique/sounds/733223/",
+   "excerpt_start": 592.5,
+   "bio": [
+    -1.3058,
+    0.4038,
+    -0.8902
+   ],
+   "general": [
+    -0.6284,
+    -0.3426,
+    -0.9276
+   ]
+  },
+  {
+   "id": "fs-797762",
+   "audio": "audio/fs-797762.mp3",
+   "title": "humpback_whales_and_orcas_ambient_underwater_recording",
+   "habitat": "reef",
+   "place": "Skjervoy",
+   "country": "Norway",
+   "region": "Europe",
+   "lat": 70.0466,
+   "lon": 21.0325,
+   "time_of_day": null,
+   "recordist": "raiden04",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/raiden04/sounds/797762/",
+   "excerpt_start": 199.76,
+   "bio": [
+    0.8409,
+    0.7874,
+    0.6324
+   ],
+   "general": [
+    0.9066,
+    -0.3963,
+    -0.0216
+   ]
+  },
+  {
+   "id": "fs-475245",
+   "audio": "audio/fs-475245.mp3",
+   "title": "river buried hydrophones 190617_0038.flac",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.741,
+   "lon": 5.2297,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/475245/",
+   "excerpt_start": 365.51,
+   "bio": [
+    1.3483,
+    -1.2367,
+    1.0622
+   ],
+   "general": [
+    0.6741,
+    -0.7403,
+    0.4758
+   ]
+  },
+  {
+   "id": "fs-251640",
+   "audio": "audio/fs-251640.mp3",
+   "title": "rocky stream underwater sound 141015_0433.flac",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7324,
+   "lon": 5.2732,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/251640/",
+   "excerpt_start": 305.76,
+   "bio": [
+    1.3683,
+    -1.281,
+    0.998
+   ],
+   "general": [
+    1.1655,
+    -0.8844,
+    0.2685
+   ]
+  },
+  {
+   "id": "fs-261005",
+   "audio": "audio/fs-261005.mp3",
+   "title": "oak tree wind contact microphones 150111_0490.wav",
+   "habitat": "reef",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.69,
+   "lon": 5.2611,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/261005/",
+   "excerpt_start": 105.39,
+   "bio": [
+    1.3616,
+    -1.0248,
+    0.9966
+   ],
+   "general": [
+    0.1211,
+    -0.4909,
+    0.7608
+   ]
+  },
+  {
+   "id": "fs-259995",
+   "audio": "audio/fs-259995.mp3",
+   "title": "Glacial Lagoon Jökulsárlón",
+   "habitat": "reef",
+   "place": "Hoefn",
+   "country": "Iceland",
+   "region": "Europe",
+   "lat": 64.0703,
+   "lon": -16.2117,
+   "time_of_day": null,
+   "recordist": "SDLx",
+   "licence": "CC BY 3.0",
+   "licence_url": "http://creativecommons.org/licenses/by/3.0/",
+   "source": "https://freesound.org/people/SDLx/sounds/259995/",
+   "excerpt_start": 175.76,
+   "bio": [
+    1.6944,
+    -1.4776,
+    0.8992
+   ],
+   "general": [
+    1.3757,
+    -0.8311,
+    -0.077
+   ]
+  },
+  {
+   "id": "fs-656827",
+   "audio": "audio/fs-656827.mp3",
+   "title": "Undrwatr_Photosynthesis bubbles in a pond under the sun FR-Camargue_Melia Roger_Hydrophones homemade H2a.wav",
+   "habitat": "reef",
+   "place": "Arles",
+   "country": "France",
+   "region": "Europe",
+   "lat": 43.6125,
+   "lon": 4.6244,
+   "time_of_day": null,
+   "recordist": "MeliaRoger",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/MeliaRoger/sounds/656827/",
+   "excerpt_start": 315.35,
+   "bio": [
+    1.1876,
+    -1.2659,
+    0.3121
+   ],
+   "general": [
+    0.0624,
+    -1.1049,
+    -0.8653
+   ]
+  },
+  {
+   "id": "fs-630436",
+   "audio": "audio/fs-630436.mp3",
+   "title": "Underwater crackling sounds_Hydrophone.wav",
+   "habitat": "reef",
+   "place": "Hvar",
+   "country": "Croatia",
+   "region": "Europe",
+   "lat": 43.1683,
+   "lon": 16.4314,
+   "time_of_day": null,
+   "recordist": "KaleidacousticsAudio",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/KaleidacousticsAudio/sounds/630436/",
+   "excerpt_start": 395.85,
+   "bio": [
+    1.4271,
+    -1.0637,
+    0.4193
+   ],
+   "general": [
+    1.1337,
+    -0.9326,
+    -0.4826
+   ]
+  },
+  {
+   "id": "fs-496755",
+   "audio": "audio/fs-496755.mp3",
+   "title": "MBARI_MARS_2017_1107h22_HS1P1.wav",
+   "habitat": "reef",
+   "place": "Del Monte Forest",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 36.7128,
+   "lon": -122.186,
+   "time_of_day": null,
+   "recordist": "MBARI_MARS",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/MBARI_MARS/sounds/496755/",
+   "excerpt_start": 4642.53,
+   "bio": [
+    0.8881,
+    0.5121,
+    0.792
+   ],
+   "general": [
+    0.7003,
+    -0.1637,
+    -0.1747
+   ]
+  },
+  {
+   "id": "fs-498708",
+   "audio": "audio/fs-498708.mp3",
+   "title": "MARS_20161221h00_HS2P1.wav",
+   "habitat": "reef",
+   "place": "Del Monte Forest",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 36.7128,
+   "lon": -122.186,
+   "time_of_day": null,
+   "recordist": "MBARI_MARS",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/MBARI_MARS/sounds/498708/",
+   "excerpt_start": 2392.64,
+   "bio": [
+    0.8848,
+    0.5037,
+    0.6782
+   ],
+   "general": [
+    0.7549,
+    -0.2815,
+    -0.0791
+   ]
+  },
+  {
+   "id": "fs-734586",
+   "audio": "audio/fs-734586.mp3",
+   "title": "river Maas summerday NL 107 PM 220816_0506",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7411,
+   "lon": 5.2292,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/734586/",
+   "excerpt_start": 958.83,
+   "bio": [
+    0.8754,
+    -0.7394,
+    0.6615
+   ],
+   "general": [
+    0.6518,
+    -0.763,
+    0.2437
+   ]
+  },
+  {
+   "id": "fs-651233",
+   "audio": "audio/fs-651233.mp3",
+   "title": "pound in summer hydrophone 220725_0457.ogg",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7195,
+   "lon": 5.2694,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/651233/",
+   "excerpt_start": 537.15,
+   "bio": [
+    1.3933,
+    -1.4708,
+    0.5309
+   ],
+   "general": [
+    1.2311,
+    -1.3301,
+    -0.4102
+   ]
+  },
+  {
+   "id": "fs-651220",
+   "audio": "audio/fs-651220.mp3",
+   "title": "canoe's voices hydrophone 220726_0459.wav",
+   "habitat": "reef",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6823,
+   "lon": 5.2949,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/651220/",
+   "excerpt_start": 28.65,
+   "bio": [
+    1.1245,
+    -1.3079,
+    0.7058
+   ],
+   "general": [
+    1.224,
+    -1.0206,
+    0.2151
+   ]
+  },
+  {
+   "id": "fs-242986",
+   "audio": "audio/fs-242986.mp3",
+   "title": "Ditch UnderWater animal Noise 140720_0306.flac",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7106,
+   "lon": 5.2302,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/242986/",
+   "excerpt_start": 477.53,
+   "bio": [
+    1.7797,
+    -1.1977,
+    0.7312
+   ],
+   "general": [
+    0.9972,
+    -0.7452,
+    -0.2679
+   ]
+  },
+  {
+   "id": "fs-747651",
+   "audio": "audio/fs-747651.mp3",
+   "title": "River Archive: Thames River - Thames Path - July 21 2024",
+   "habitat": "reef",
+   "place": "Blackheath",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 51.4957,
+   "lon": 0.018,
+   "time_of_day": null,
+   "recordist": "ilmari_freesound",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/ilmari_freesound/sounds/747651/",
+   "excerpt_start": 95.0,
+   "bio": [
+    1.3765,
+    -1.2583,
+    0.6795
+   ],
+   "general": [
+    1.2233,
+    -0.7416,
+    0.1354
+   ]
+  },
+  {
+   "id": "fs-663333",
+   "audio": "audio/fs-663333.mp3",
+   "title": "river boat 1258PM 220816_0505.wav",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7428,
+   "lon": 5.224,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/663333/",
+   "excerpt_start": 103.12,
+   "bio": [
+    -0.7319,
+    -0.4428,
+    0.0506
+   ],
+   "general": [
+    0.5546,
+    -0.6464,
+    0.2568
+   ]
+  },
+  {
+   "id": "fs-253133",
+   "audio": "audio/fs-253133.mp3",
+   "title": "rocky stream nt4InvH2a 141015_0441.wav",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7323,
+   "lon": 5.2713,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/253133/",
+   "excerpt_start": 133.09,
+   "bio": [
+    0.6541,
+    -1.0078,
+    0.037
+   ],
+   "general": [
+    0.6859,
+    -0.8747,
+    0.3173
+   ]
+  },
+  {
+   "id": "fs-695819",
+   "audio": "audio/fs-695819.mp3",
+   "title": "Underwater - Little Hawaii Waterfalls, Tsung Kwan O 6 - rock.wav",
+   "habitat": "reef",
+   "place": "Sai Kung",
+   "country": "Hong Kong",
+   "region": "Asia",
+   "lat": 22.3316,
+   "lon": 114.2468,
+   "time_of_day": null,
+   "recordist": "Hinoki.owo",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Hinoki.owo/sounds/695819/",
+   "excerpt_start": 48.48,
+   "bio": [
+    1.0278,
+    -1.2241,
+    0.84
+   ],
+   "general": [
+    0.9681,
+    -0.76,
+    0.3398
+   ]
+  },
+  {
+   "id": "fs-242880",
+   "audio": "audio/fs-242880.mp3",
+   "title": "Ship-lock ContactMics 140716-0303.ogg",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7298,
+   "lon": 5.2589,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/242880/",
+   "excerpt_start": 937.51,
+   "bio": [
+    -0.5753,
+    -0.5316,
+    0.2836
+   ],
+   "general": [
+    0.0201,
+    0.1274,
+    0.7096
+   ]
+  },
+  {
+   "id": "fs-647413",
+   "audio": "audio/fs-647413.mp3",
+   "title": "boats on river 1340PM 220816_0506.wav",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7425,
+   "lon": 5.228,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/647413/",
+   "excerpt_start": 251.05,
+   "bio": [
+    0.6181,
+    -0.6753,
+    0.5484
+   ],
+   "general": [
+    0.7423,
+    -0.6842,
+    0.2753
+   ]
+  },
+  {
+   "id": "fs-726218",
+   "audio": "audio/fs-726218.mp3",
+   "title": "Hydrophone in a River",
+   "habitat": "reef",
+   "place": "L'Isle-sur-la-Sorgue",
+   "country": "France",
+   "region": "Europe",
+   "lat": 43.9178,
+   "lon": 5.0523,
+   "time_of_day": null,
+   "recordist": "Sacha.Julien",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/Sacha.Julien/sounds/726218/",
+   "excerpt_start": 27.0,
+   "bio": [
+    1.5892,
+    -1.486,
+    0.9496
+   ],
+   "general": [
+    1.2737,
+    -0.7301,
+    -0.208
+   ]
+  },
+  {
+   "id": "fs-657264",
+   "audio": "audio/fs-657264.mp3",
+   "title": "pound in summer hydrophone 1339 220725_0457.wav",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7198,
+   "lon": 5.2696,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/657264/",
+   "excerpt_start": 129.12,
+   "bio": [
+    1.3784,
+    -1.4909,
+    0.5687
+   ],
+   "general": [
+    1.2904,
+    -1.2787,
+    -0.4042
+   ]
+  },
+  {
+   "id": "fs-657853",
+   "audio": "audio/fs-657853.mp3",
+   "title": "underwater river 1506 220920_0532.ogg",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7228,
+   "lon": 5.2732,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/657853/",
+   "excerpt_start": 88.78,
+   "bio": [
+    1.4875,
+    -1.3742,
+    0.8064
+   ],
+   "general": [
+    1.2829,
+    -0.7563,
+    -0.0215
+   ]
+  },
+  {
+   "id": "fs-657350",
+   "audio": "audio/fs-657350.mp3",
+   "title": "under water kano train 1538 220726_0459.wav",
+   "habitat": "reef",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6822,
+   "lon": 5.2951,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/657350/",
+   "excerpt_start": 72.54,
+   "bio": [
+    1.2276,
+    -1.348,
+    0.8499
+   ],
+   "general": [
+    1.1066,
+    -0.8678,
+    0.3295
+   ]
+  },
+  {
+   "id": "fs-380637",
+   "audio": "audio/fs-380637.mp3",
+   "title": "Hydrophone Venice Gondolas.wav",
+   "habitat": "reef",
+   "place": "Venice",
+   "country": "Italy",
+   "region": "Europe",
+   "lat": 45.4365,
+   "lon": 12.3359,
+   "time_of_day": null,
+   "recordist": "Vortichez",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Vortichez/sounds/380637/",
+   "excerpt_start": 102.26,
+   "bio": [
+    1.4067,
+    -1.5205,
+    0.7923
+   ],
+   "general": [
+    1.2391,
+    -1.1886,
+    0.0702
+   ]
+  },
+  {
+   "id": "fs-541019",
+   "audio": "audio/fs-541019.mp3",
+   "title": "River shipping calm NL Maas 200615_0185.flac",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7354,
+   "lon": 5.2408,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/541019/",
+   "excerpt_start": 978.96,
+   "bio": [
+    -0.9981,
+    -0.3288,
+    -0.3041
+   ],
+   "general": [
+    -0.4269,
+    -0.1013,
+    -0.3488
+   ]
+  },
+  {
+   "id": "fs-630061",
+   "audio": "audio/fs-630061.mp3",
+   "title": "(HYDRO) Single frog vocalizations in a pond",
+   "habitat": "reef",
+   "place": "Voru",
+   "country": "Estonia",
+   "region": "Europe",
+   "lat": 57.7632,
+   "lon": 26.9319,
+   "time_of_day": null,
+   "recordist": "Diegolar",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Diegolar/sounds/630061/",
+   "excerpt_start": 81.77,
+   "bio": [
+    1.6774,
+    -0.9235,
+    0.346
+   ],
+   "general": [
+    -0.151,
+    -0.1042,
+    -1.1803
+   ]
+  },
+  {
+   "id": "fs-630429",
+   "audio": "audio/fs-630429.mp3",
+   "title": "(HYDRO) Frogs at the surface",
+   "habitat": "reef",
+   "place": "Voru",
+   "country": "Estonia",
+   "region": "Europe",
+   "lat": 57.7632,
+   "lon": 26.9319,
+   "time_of_day": null,
+   "recordist": "Diegolar",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Diegolar/sounds/630429/",
+   "excerpt_start": 279.03,
+   "bio": [
+    1.794,
+    -1.0573,
+    0.3721
+   ],
+   "general": [
+    -0.2178,
+    0.0491,
+    -1.0477
+   ]
+  },
+  {
+   "id": "fs-641191",
+   "audio": "audio/fs-641191.mp3",
+   "title": "2022-07-10-daonan-riverside-park-2x-jrf-hydrophones-zoom-f3-192000.wav",
+   "habitat": "reef",
+   "place": "Taipei",
+   "country": "Taiwan",
+   "region": "Asia",
+   "lat": 24.9807,
+   "lon": 121.5669,
+   "time_of_day": null,
+   "recordist": "ilmari_freesound",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/ilmari_freesound/sounds/641191/",
+   "excerpt_start": 210.77,
+   "bio": [
+    1.6065,
+    -1.0632,
+    0.712
+   ],
+   "general": [
+    1.3856,
+    -0.9618,
+    -0.4236
+   ]
+  },
+  {
+   "id": "fs-841909",
+   "audio": "audio/fs-841909.mp3",
+   "title": "Underwater Bog Recording, Hockenhull Moss (Delamere Forest)",
+   "habitat": "reef",
+   "place": "Kingsley",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 53.2321,
+   "lon": -2.6801,
+   "time_of_day": null,
+   "recordist": "hayley.suviste",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/hayley.suviste/sounds/841909/",
+   "excerpt_start": 114.31,
+   "bio": [
+    1.8123,
+    -1.409,
+    0.8959
+   ],
+   "general": [
+    1.1193,
+    -0.8491,
+    -0.395
+   ]
+  },
+  {
+   "id": "fs-793477",
+   "audio": "audio/fs-793477.mp3",
+   "title": "Hydrophone Underwater Sounds Bubbles",
+   "habitat": "reef",
+   "place": "Leipzig",
+   "country": "Germany",
+   "region": "Europe",
+   "lat": 51.3097,
+   "lon": 12.3586,
+   "time_of_day": null,
+   "recordist": "SiliconeSound",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/SiliconeSound/sounds/793477/",
+   "excerpt_start": 10.84,
+   "bio": [
+    1.7069,
+    -1.1795,
+    0.2258
+   ],
+   "general": [
+    1.1429,
+    -1.1637,
+    -0.4167
+   ]
+  },
+  {
+   "id": "fs-778381",
+   "audio": "audio/fs-778381.mp3",
+   "title": "tree noise contact mics 441 231120_0363",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7107,
+   "lon": 5.2593,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/778381/",
+   "excerpt_start": 21.0,
+   "bio": [
+    1.4352,
+    -0.9557,
+    0.839
+   ],
+   "general": [
+    1.212,
+    -0.7009,
+    0.0479
+   ]
+  },
+  {
+   "id": "fs-724857",
+   "audio": "audio/fs-724857.mp3",
+   "title": "backswimmer under water 136 PM 220725_0457",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7199,
+   "lon": 5.2697,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/724857/",
+   "excerpt_start": 23.14,
+   "bio": [
+    1.5444,
+    -1.4376,
+    0.4678
+   ],
+   "general": [
+    1.1115,
+    -1.3362,
+    -0.4006
+   ]
+  },
+  {
+   "id": "fs-845254",
+   "audio": "audio/fs-845254.mp3",
+   "title": "Mountain stream",
+   "habitat": "reef",
+   "place": "Bormio",
+   "country": "Italy",
+   "region": "Europe",
+   "lat": 46.4899,
+   "lon": 10.3595,
+   "time_of_day": null,
+   "recordist": "ganapataye",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/ganapataye/sounds/845254/",
+   "excerpt_start": 144.64,
+   "bio": [
+    1.0937,
+    -0.9421,
+    0.2128
+   ],
+   "general": [
+    1.1141,
+    -0.7042,
+    0.2316
+   ]
+  },
+  {
+   "id": "fs-729082",
+   "audio": "audio/fs-729082.mp3",
+   "title": "Small Pond (Hydrophone)",
+   "habitat": "reef",
+   "place": "Billericay",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 51.6428,
+   "lon": 0.4051,
+   "time_of_day": null,
+   "recordist": "naturenotesuk",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/naturenotesuk/sounds/729082/",
+   "excerpt_start": 133.92,
+   "bio": [
+    0.6744,
+    -1.1297,
+    0.1182
+   ],
+   "general": [
+    0.3785,
+    -1.0737,
+    -0.2205
+   ]
+  },
+  {
+   "id": "fs-863019",
+   "audio": "audio/fs-863019.mp3",
+   "title": "River Archive: Tamsui - Shizitou Pier - August 13 2022",
+   "habitat": "reef",
+   "place": "Taipei",
+   "country": "Taiwan",
+   "region": "Asia",
+   "lat": 25.1136,
+   "lon": 121.459,
+   "time_of_day": null,
+   "recordist": "ilmari_freesound",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/ilmari_freesound/sounds/863019/",
+   "excerpt_start": 77.21,
+   "bio": [
+    1.2916,
+    -0.9448,
+    0.3991
+   ],
+   "general": [
+    1.3094,
+    -1.0654,
+    0.0254
+   ]
+  },
+  {
+   "id": "fs-343682",
+   "audio": "audio/fs-343682.mp3",
+   "title": "Blue Whale B call @ 5X",
+   "habitat": "reef",
+   "place": "Del Monte Forest",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 36.7125,
+   "lon": -122.187,
+   "time_of_day": null,
+   "recordist": "MBARI_MARS",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/MBARI_MARS/sounds/343682/",
+   "excerpt_start": 13.62,
+   "bio": [
+    -0.8244,
+    -0.646,
+    0.562
+   ],
+   "general": [
+    -0.1244,
+    -0.2396,
+    0.7303
+   ]
+  },
+  {
+   "id": "fs-445956",
+   "audio": "audio/fs-445956.mp3",
+   "title": "180905-Fritton Lake - Lakeside 2 - Stereo Hydrophone_01.mp3",
+   "habitat": "reef",
+   "place": "Hopton on Sea",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 52.542,
+   "lon": 1.6524,
+   "time_of_day": null,
+   "recordist": "Yarmonics",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/Yarmonics/sounds/445956/",
+   "excerpt_start": 612.87,
+   "bio": [
+    1.4541,
+    -1.4171,
+    0.6672
+   ],
+   "general": [
+    1.1744,
+    -1.3216,
+    -0.1349
+   ]
+  },
+  {
+   "id": "fs-384218",
+   "audio": "audio/fs-384218.mp3",
+   "title": "Underwater recording of aquatic movement, bubbles and drops.",
+   "habitat": "reef",
+   "place": "Paraty",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -23.3374,
+   "lon": -44.6285,
+   "time_of_day": null,
+   "recordist": "felix.blume",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/felix.blume/sounds/384218/",
+   "excerpt_start": 289.95,
+   "bio": [
+    1.7437,
+    -1.2101,
+    0.469
+   ],
+   "general": [
+    1.154,
+    -1.1646,
+    -0.5006
+   ]
+  },
+  {
+   "id": "fs-380924",
+   "audio": "audio/fs-380924.mp3",
+   "title": "Aquatic recording of the ice smelting during winter on the Spree River",
+   "habitat": "reef",
+   "place": "Baumschulenweg",
+   "country": "Germany",
+   "region": "Europe",
+   "lat": 52.4731,
+   "lon": 13.495,
+   "time_of_day": null,
+   "recordist": "felix.blume",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/felix.blume/sounds/380924/",
+   "excerpt_start": 113.0,
+   "bio": [
+    1.3486,
+    -1.014,
+    0.6279
+   ],
+   "general": [
+    1.3495,
+    -0.9187,
+    -0.193
+   ]
+  },
+  {
+   "id": "fs-559219",
+   "audio": "audio/fs-559219.mp3",
+   "title": "Hydrophone on waterfall",
+   "habitat": "reef",
+   "place": "Itabirito",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -20.1159,
+   "lon": -43.7351,
+   "time_of_day": null,
+   "recordist": "saralana",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/saralana/sounds/559219/",
+   "excerpt_start": 127.16,
+   "bio": [
+    1.7219,
+    -1.4115,
+    0.6884
+   ],
+   "general": [
+    1.3206,
+    -0.8214,
+    -0.3051
+   ]
+  },
+  {
+   "id": "fs-475534",
+   "audio": "audio/fs-475534.mp3",
+   "title": "Channel sounds hydrophone 01 190624_0040.wav",
+   "habitat": "reef",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7185,
+   "lon": 5.2747,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/475534/",
+   "excerpt_start": 231.35,
+   "bio": [
+    1.685,
+    -1.1329,
+    0.8659
+   ],
+   "general": [
+    1.3571,
+    -0.7881,
+    -0.2196
+   ]
+  },
+  {
+   "id": "fs-727605",
+   "audio": "audio/fs-727605.mp3",
+   "title": "ANMLAqua-dolphin-eldora-20240224",
+   "habitat": "reef",
+   "place": "Oak Hill",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 28.9099,
+   "lon": -80.8212,
+   "time_of_day": null,
+   "recordist": "nathanwolek",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/nathanwolek/sounds/727605/",
+   "excerpt_start": 16.0,
+   "bio": [
+    1.4707,
+    -1.0648,
+    0.1191
+   ],
+   "general": [
+    1.2587,
+    -1.0713,
+    -0.2839
+   ]
+  },
+  {
+   "id": "fs-248228",
+   "audio": "audio/fs-248228.mp3",
+   "title": "bronze object in wind 140816_0376.wav",
+   "habitat": "reef",
+   "place": "Vlissingen",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.4523,
+   "lon": 3.5476,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/248228/",
+   "excerpt_start": 53.1,
+   "bio": [
+    -0.636,
+    -1.0268,
+    0.5651
+   ],
+   "general": [
+    0.0476,
+    -0.4442,
+    0.8673
+   ]
+  },
+  {
+   "id": "fs-496870",
+   "audio": "audio/fs-496870.mp3",
+   "title": "MBARI_MARS_2017_1107h22_HS1P2.wav",
+   "habitat": "reef",
+   "place": "Del Monte Forest",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 36.7128,
+   "lon": -122.186,
+   "time_of_day": null,
+   "recordist": "MBARI_MARS",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/MBARI_MARS/sounds/496870/",
+   "excerpt_start": 3082.46,
+   "bio": [
+    0.9116,
+    0.3255,
+    0.7573
+   ],
+   "general": [
+    0.6431,
+    -0.2421,
+    -0.0775
+   ]
+  },
+  {
+   "id": "fs-45436",
+   "audio": "audio/fs-45436.mp3",
+   "title": "Hydrophone at boatramp 1.wav",
+   "habitat": "reef",
+   "place": "Port Noarlunga",
+   "country": "Australia",
+   "region": "Oceania",
+   "lat": -35.1197,
+   "lon": 138.4673,
+   "time_of_day": null,
+   "recordist": "digifishmusic",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/digifishmusic/sounds/45436/",
+   "excerpt_start": 15.64,
+   "bio": [
+    1.5471,
+    -0.982,
+    0.1015
+   ],
+   "general": [
+    0.9635,
+    -1.0016,
+    -0.4689
+   ]
+  },
+  {
+   "id": "fs-737242",
+   "audio": "audio/fs-737242.mp3",
+   "title": "ANMLAqua-snapping-shrimp-choppy-water-20240223",
+   "habitat": "reef",
+   "place": "Oak Hill",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 28.9098,
+   "lon": -80.8213,
+   "time_of_day": null,
+   "recordist": "nathanwolek",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/nathanwolek/sounds/737242/",
+   "excerpt_start": 58.47,
+   "bio": [
+    1.2001,
+    -1.0396,
+    0.0862
+   ],
+   "general": [
+    1.1528,
+    -1.0429,
+    -0.0802
+   ]
+  },
+  {
+   "id": "fs-729404",
+   "audio": "audio/fs-729404.mp3",
+   "title": "ANMLAqua-toadfish-2022926",
+   "habitat": "reef",
+   "place": "Oak Hill",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 28.9272,
+   "lon": -80.8251,
+   "time_of_day": null,
+   "recordist": "nathanwolek",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/nathanwolek/sounds/729404/",
+   "excerpt_start": 83.0,
+   "bio": [
+    1.5533,
+    -0.7272,
+    0.3736
+   ],
+   "general": [
+    1.325,
+    -1.1178,
+    -0.539
+   ]
+  },
+  {
+   "id": "fs-322440",
+   "audio": "audio/fs-322440.mp3",
+   "title": "small city harbour ambience NL SHORT 150920_0781.flac",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6931,
+   "lon": 5.3003,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/322440/",
+   "excerpt_start": 145.14,
+   "bio": [
+    -0.2282,
+    0.1173,
+    0.3088
+   ],
+   "general": [
+    0.1648,
+    0.1576,
+    0.3712
+   ]
+  },
+  {
+   "id": "fs-260727",
+   "audio": "audio/fs-260727.mp3",
+   "title": "Crowd in a local market",
+   "habitat": "market",
+   "place": "Varazdin",
+   "country": "Croatia",
+   "region": "Europe",
+   "lat": 46.3105,
+   "lon": 16.3397,
+   "time_of_day": null,
+   "recordist": "VlatkoBlazek",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/VlatkoBlazek/sounds/260727/",
+   "excerpt_start": 142.5,
+   "bio": [
+    0.1286,
+    1.1494,
+    0.6897
+   ],
+   "general": [
+    0.1034,
+    1.4472,
+    1.9157
+   ]
+  },
+  {
+   "id": "fs-637220",
+   "audio": "audio/fs-637220.mp3",
+   "title": "Banana seller in a Brazilian market",
+   "habitat": "market",
+   "place": "Caieiras",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -23.4076,
+   "lon": -46.7579,
+   "time_of_day": null,
+   "recordist": "felix.blume",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/felix.blume/sounds/637220/",
+   "excerpt_start": 441.58,
+   "bio": [
+    0.6583,
+    1.315,
+    1.2534
+   ],
+   "general": [
+    0.2071,
+    1.9586,
+    1.6069
+   ]
+  },
+  {
+   "id": "fs-553993",
+   "audio": "audio/fs-553993.mp3",
+   "title": "5pm in Old Market Square.wav",
+   "habitat": "market",
+   "place": "Nottingham",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 52.9535,
+   "lon": -1.1498,
+   "time_of_day": null,
+   "recordist": "theplax",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/theplax/sounds/553993/",
+   "excerpt_start": 87.93,
+   "bio": [
+    0.2236,
+    1.6207,
+    0.7246
+   ],
+   "general": [
+    0.6977,
+    1.3541,
+    1.3346
+   ]
+  },
+  {
+   "id": "fs-700436",
+   "audio": "audio/fs-700436.mp3",
+   "title": "Le Cheylard outside summer market.wav",
+   "habitat": "market",
+   "place": "Le Cheylard",
+   "country": "France",
+   "region": "Europe",
+   "lat": 44.9059,
+   "lon": 4.4225,
+   "time_of_day": null,
+   "recordist": "bruno.auzet",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/bruno.auzet/sounds/700436/",
+   "excerpt_start": 58.74,
+   "bio": [
+    0.0969,
+    1.1002,
+    1.0859
+   ],
+   "general": [
+    0.3047,
+    1.5818,
+    1.6728
+   ]
+  },
+  {
+   "id": "fs-569115",
+   "audio": "audio/fs-569115.mp3",
+   "title": "Ridley Road Market April 2021.wav",
+   "habitat": "market",
+   "place": "Hackney",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 51.5481,
+   "lon": -0.0729,
+   "time_of_day": null,
+   "recordist": "walthamstow_walker",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/walthamstow_walker/sounds/569115/",
+   "excerpt_start": 508.24,
+   "bio": [
+    0.1993,
+    0.723,
+    0.8818
+   ],
+   "general": [
+    0.0893,
+    1.1862,
+    1.7152
+   ]
+  },
+  {
+   "id": "fs-537846",
+   "audio": "audio/fs-537846.mp3",
+   "title": "market people bells NL 01 160319_00.wav",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6893,
+   "lon": 5.3041,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/537846/",
+   "excerpt_start": 12.07,
+   "bio": [
+    -0.05,
+    0.9273,
+    0.6791
+   ],
+   "general": [
+    -0.1976,
+    1.1929,
+    1.4801
+   ]
+  },
+  {
+   "id": "fs-441550",
+   "audio": "audio/fs-441550.mp3",
+   "title": "BILLINSGATE FISH MARKET LONDON AMBIENCE",
+   "habitat": "market",
+   "place": "Poplar",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 51.5063,
+   "lon": -0.0142,
+   "time_of_day": null,
+   "recordist": "ukjoncollins",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/ukjoncollins/sounds/441550/",
+   "excerpt_start": 35.51,
+   "bio": [
+    0.5134,
+    0.1127,
+    0.4261
+   ],
+   "general": [
+    0.2015,
+    0.5027,
+    0.4414
+   ]
+  },
+  {
+   "id": "fs-701353",
+   "audio": "audio/fs-701353.mp3",
+   "title": "230817_2535_FR_Outdoor_market_and_church_bells.wav",
+   "habitat": "market",
+   "place": "Cruseilles",
+   "country": "France",
+   "region": "Europe",
+   "lat": 46.0345,
+   "lon": 6.1072,
+   "time_of_day": null,
+   "recordist": "kevp888",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/kevp888/sounds/701353/",
+   "excerpt_start": 143.33,
+   "bio": [
+    0.5991,
+    1.6662,
+    0.4947
+   ],
+   "general": [
+    0.8872,
+    1.2456,
+    1.3075
+   ]
+  },
+  {
+   "id": "fs-424280",
+   "audio": "audio/fs-424280.mp3",
+   "title": "Souks Marrakesch 4.wav",
+   "habitat": "market",
+   "place": "Marrakesh",
+   "country": "Morocco",
+   "region": "Africa",
+   "lat": 31.6277,
+   "lon": -7.9882,
+   "time_of_day": null,
+   "recordist": "jensfelger",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/jensfelger/sounds/424280/",
+   "excerpt_start": 891.16,
+   "bio": [
+    0.2989,
+    0.9055,
+    0.826
+   ],
+   "general": [
+    0.0753,
+    1.5727,
+    1.709
+   ]
+  },
+  {
+   "id": "fs-814877",
+   "audio": "audio/fs-814877.mp3",
+   "title": "building market stalls in small marina 0925 AM 150920_0781",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6914,
+   "lon": 5.3004,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/814877/",
+   "excerpt_start": 82.5,
+   "bio": [
+    -0.8523,
+    -0.034,
+    -0.1864
+   ],
+   "general": [
+    -0.0115,
+    0.4173,
+    0.3891
+   ]
+  },
+  {
+   "id": "fs-194508",
+   "audio": "audio/fs-194508.mp3",
+   "title": "BarrelOrganStreet NL 130712_00.flac",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6886,
+   "lon": 5.3036,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/194508/",
+   "excerpt_start": 461.77,
+   "bio": [
+    0.2394,
+    1.2525,
+    0.7743
+   ],
+   "general": [
+    0.4169,
+    1.2434,
+    1.3626
+   ]
+  },
+  {
+   "id": "fs-351291",
+   "audio": "audio/fs-351291.mp3",
+   "title": "market outdoors NL long 160319_00.ogg",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6891,
+   "lon": 5.3037,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/351291/",
+   "excerpt_start": 449.41,
+   "bio": [
+    0.3573,
+    1.588,
+    0.5364
+   ],
+   "general": [
+    0.7926,
+    1.3312,
+    1.4548
+   ]
+  },
+  {
+   "id": "fs-846448",
+   "audio": "audio/fs-846448.mp3",
+   "title": "Bogota_mercado_pulgas_sanAlejo",
+   "habitat": "market",
+   "place": "Bogota",
+   "country": "Colombia",
+   "region": "Americas",
+   "lat": 4.6103,
+   "lon": -74.0698,
+   "time_of_day": null,
+   "recordist": "nicotep",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/nicotep/sounds/846448/",
+   "excerpt_start": 96.2,
+   "bio": [
+    -0.1591,
+    1.111,
+    1.0706
+   ],
+   "general": [
+    0.1824,
+    1.586,
+    1.3911
+   ]
+  },
+  {
+   "id": "fs-519380",
+   "audio": "audio/fs-519380.mp3",
+   "title": "market - city bells 200520_0177.ogg",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6889,
+   "lon": 5.3033,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/519380/",
+   "excerpt_start": 1555.1,
+   "bio": [
+    0.5074,
+    1.6584,
+    0.7384
+   ],
+   "general": [
+    0.8327,
+    1.3523,
+    1.3326
+   ]
+  },
+  {
+   "id": "fs-814745",
+   "audio": "audio/fs-814745.mp3",
+   "title": "building market stalls in small marina 0920 AM 150920_0781",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6917,
+   "lon": 5.3004,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/814745/",
+   "excerpt_start": 52.5,
+   "bio": [
+    -0.7158,
+    -0.0091,
+    0.0507
+   ],
+   "general": [
+    0.009,
+    0.4312,
+    0.4726
+   ]
+  },
+  {
+   "id": "fs-855113",
+   "audio": "audio/fs-855113.mp3",
+   "title": "Williamstown Farmers Market, Williamstown, NJ 05-16-26",
+   "habitat": "market",
+   "place": "Williamstown",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 39.6955,
+   "lon": -74.9997,
+   "time_of_day": null,
+   "recordist": "sniffin_fer_sounds",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/sniffin_fer_sounds/sounds/855113/",
+   "excerpt_start": 414.44,
+   "bio": [
+    0.3095,
+    0.7603,
+    0.7557
+   ],
+   "general": [
+    0.3987,
+    1.4358,
+    1.8832
+   ]
+  },
+  {
+   "id": "fs-800411",
+   "audio": "audio/fs-800411.mp3",
+   "title": "firetrucks far city s-Hertogenbosch Netherlands 713 AM 170429_1119",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6894,
+   "lon": 5.3031,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/800411/",
+   "excerpt_start": 35.8,
+   "bio": [
+    0.0803,
+    0.418,
+    0.4834
+   ],
+   "general": [
+    -0.2827,
+    0.689,
+    0.982
+   ]
+  },
+  {
+   "id": "fs-543510",
+   "audio": "audio/fs-543510.mp3",
+   "title": "market people bells NL 02 160319_00.flac",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.689,
+   "lon": 5.3038,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/543510/",
+   "excerpt_start": 114.08,
+   "bio": [
+    0.4832,
+    1.481,
+    0.4517
+   ],
+   "general": [
+    0.8965,
+    1.3298,
+    1.4062
+   ]
+  },
+  {
+   "id": "fs-843588",
+   "audio": "audio/fs-843588.mp3",
+   "title": "Interior of a wholesale market from Lima, on the potato platform. //Interior del Mercado de Productores de Lima, en el andén de papas.",
+   "habitat": "market",
+   "place": "Vitarte",
+   "country": "Peru",
+   "region": "Americas",
+   "lat": -12.0414,
+   "lon": -76.9486,
+   "time_of_day": null,
+   "recordist": "cesar-gutierrez-99",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/cesar-gutierrez-99/sounds/843588/",
+   "excerpt_start": 87.7,
+   "bio": [
+    0.3428,
+    0.411,
+    0.3631
+   ],
+   "general": [
+    0.3541,
+    1.1801,
+    2.0377
+   ]
+  },
+  {
+   "id": "fs-704598",
+   "audio": "audio/fs-704598.mp3",
+   "title": "230729_CDMX_CHOPO.mp3",
+   "habitat": "market",
+   "place": "Cuauhtemoc",
+   "country": "Mexico",
+   "region": "Americas",
+   "lat": 19.4478,
+   "lon": -99.1501,
+   "time_of_day": null,
+   "recordist": "rocketeam",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/rocketeam/sounds/704598/",
+   "excerpt_start": 142.8,
+   "bio": [
+    0.5687,
+    0.2801,
+    0.6741
+   ],
+   "general": [
+    -0.2631,
+    1.2513,
+    1.4813
+   ]
+  },
+  {
+   "id": "fs-676247",
+   "audio": "audio/fs-676247.mp3",
+   "title": "Bells of St. Stephen's Basilica in Budapest, Hungary",
+   "habitat": "market",
+   "place": "Budapest VI. keruelet",
+   "country": "Hungary",
+   "region": "Europe",
+   "lat": 47.5008,
+   "lon": 19.0539,
+   "time_of_day": null,
+   "recordist": "GirlWithSoundRecorder",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/GirlWithSoundRecorder/sounds/676247/",
+   "excerpt_start": 64.2,
+   "bio": [
+    0.5456,
+    1.7149,
+    0.5446
+   ],
+   "general": [
+    0.9206,
+    1.4177,
+    1.3451
+   ]
+  },
+  {
+   "id": "fs-831711",
+   "audio": "audio/fs-831711.mp3",
+   "title": "Poznań Goats - Field-Recording",
+   "habitat": "market",
+   "place": "Poznan",
+   "country": "Poland",
+   "region": "Europe",
+   "lat": 52.4086,
+   "lon": 16.934,
+   "time_of_day": null,
+   "recordist": "GirlWithSoundRecorder",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/GirlWithSoundRecorder/sounds/831711/",
+   "excerpt_start": 154.22,
+   "bio": [
+    0.4138,
+    1.5023,
+    0.8701
+   ],
+   "general": [
+    0.3128,
+    1.4265,
+    1.3876
+   ]
+  },
+  {
+   "id": "fs-752281",
+   "audio": "audio/fs-752281.mp3",
+   "title": "240802_2809_FR_Downtown_atmosphere_and_church_bells",
+   "habitat": "market",
+   "place": "Honfleur",
+   "country": "France",
+   "region": "Europe",
+   "lat": 49.4213,
+   "lon": 0.2324,
+   "time_of_day": null,
+   "recordist": "kevp888",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/kevp888/sounds/752281/",
+   "excerpt_start": 154.02,
+   "bio": [
+    -0.0446,
+    0.9344,
+    0.4173
+   ],
+   "general": [
+    -0.213,
+    1.3976,
+    1.7544
+   ]
+  },
+  {
+   "id": "fs-804844",
+   "audio": "audio/fs-804844.mp3",
+   "title": "Street Ambience, Chinatown, Bangkok, Thailand (Feb 22, 2019)",
+   "habitat": "market",
+   "place": "Samphanthawong",
+   "country": "Thailand",
+   "region": "Asia",
+   "lat": 13.7368,
+   "lon": 100.5122,
+   "time_of_day": null,
+   "recordist": "marc.om",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/marc.om/sounds/804844/",
+   "excerpt_start": 22.65,
+   "bio": [
+    0.1894,
+    0.0816,
+    0.4855
+   ],
+   "general": [
+    -0.004,
+    0.5671,
+    0.7053
+   ]
+  },
+  {
+   "id": "fs-812096",
+   "audio": "audio/fs-812096.mp3",
+   "title": "Street Vendor with Megaphone – “6 Pairs of Socks for 10!” (Field Recording, Palestine)",
+   "habitat": "market",
+   "place": "Tulkarm",
+   "country": "Palestine, State of",
+   "region": "Asia",
+   "lat": 32.3133,
+   "lon": 35.0293,
+   "time_of_day": null,
+   "recordist": "sounds_from_palestine",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/sounds_from_palestine/sounds/812096/",
+   "excerpt_start": 117.61,
+   "bio": [
+    0.7522,
+    1.1008,
+    0.9188
+   ],
+   "general": [
+    0.1685,
+    1.8675,
+    1.3981
+   ]
+  },
+  {
+   "id": "fs-815029",
+   "audio": "audio/fs-815029.mp3",
+   "title": "building market stalls in city marina 1012 am  s-Hertogenbosch Netherlands150920_0781",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6913,
+   "lon": 5.3003,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/815029/",
+   "excerpt_start": 112.22,
+   "bio": [
+    -0.9377,
+    0.0444,
+    0.0016
+   ],
+   "general": [
+    0.124,
+    0.3659,
+    0.3487
+   ]
+  },
+  {
+   "id": "fs-757820",
+   "audio": "audio/fs-757820.mp3",
+   "title": "At dusk, busy and crowded small intersection",
+   "habitat": "market",
+   "place": "Labu",
+   "country": "China",
+   "region": "Asia",
+   "lat": 24.2611,
+   "lon": 109.3378,
+   "time_of_day": null,
+   "recordist": "lastraindrop",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/lastraindrop/sounds/757820/",
+   "excerpt_start": 222.38,
+   "bio": [
+    -0.0497,
+    1.3355,
+    0.5456
+   ],
+   "general": [
+    -0.3543,
+    0.9336,
+    1.2705
+   ]
+  },
+  {
+   "id": "fs-819223",
+   "audio": "audio/fs-819223.mp3",
+   "title": "Evening Bazaar Ambience at Souq Al Bashorah, Ramallah – Palestine",
+   "habitat": "market",
+   "place": "Al Birah",
+   "country": "Palestine, State of",
+   "region": "Asia",
+   "lat": 31.9214,
+   "lon": 35.2098,
+   "time_of_day": null,
+   "recordist": "sounds_from_palestine",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/sounds_from_palestine/sounds/819223/",
+   "excerpt_start": 50.5,
+   "bio": [
+    0.0549,
+    1.264,
+    1.102
+   ],
+   "general": [
+    0.0957,
+    1.699,
+    1.4067
+   ]
+  },
+  {
+   "id": "fs-191473",
+   "audio": "audio/fs-191473.mp3",
+   "title": "market NL 001 2010-07-17.flac",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6892,
+   "lon": 5.3044,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/191473/",
+   "excerpt_start": 115.36,
+   "bio": [
+    -0.0083,
+    1.0606,
+    0.58
+   ],
+   "general": [
+    -0.1127,
+    1.4059,
+    1.6676
+   ]
+  },
+  {
+   "id": "fs-755969",
+   "audio": "audio/fs-755969.mp3",
+   "title": "Evening food market atmosphere at street side",
+   "habitat": "market",
+   "place": "Labu",
+   "country": "China",
+   "region": "Asia",
+   "lat": 24.2623,
+   "lon": 109.3379,
+   "time_of_day": null,
+   "recordist": "lastraindrop",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/lastraindrop/sounds/755969/",
+   "excerpt_start": 162.67,
+   "bio": [
+    0.0471,
+    1.2054,
+    0.3703
+   ],
+   "general": [
+    -0.4295,
+    0.8585,
+    1.2846
+   ]
+  },
+  {
+   "id": "fs-423449",
+   "audio": "audio/fs-423449.mp3",
+   "title": "Street Market in Sri Lanka",
+   "habitat": "market",
+   "place": "Negombo",
+   "country": "Sri Lanka",
+   "region": "Asia",
+   "lat": 7.2206,
+   "lon": 79.8513,
+   "time_of_day": null,
+   "recordist": "florianreichelt",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/florianreichelt/sounds/423449/",
+   "excerpt_start": 20.47,
+   "bio": [
+    -0.3507,
+    0.489,
+    0.6797
+   ],
+   "general": [
+    -0.4765,
+    0.7568,
+    1.1735
+   ]
+  },
+  {
+   "id": "fs-544338",
+   "audio": "audio/fs-544338.mp3",
+   "title": "MARKET",
+   "habitat": "market",
+   "place": "Sault",
+   "country": "France",
+   "region": "Europe",
+   "lat": 44.0916,
+   "lon": 5.4084,
+   "time_of_day": null,
+   "recordist": "SamuelGremaud",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/SamuelGremaud/sounds/544338/",
+   "excerpt_start": 39.06,
+   "bio": [
+    -0.2708,
+    0.9341,
+    0.5067
+   ],
+   "general": [
+    -0.1158,
+    1.5906,
+    1.7938
+   ]
+  },
+  {
+   "id": "fs-202334",
+   "audio": "audio/fs-202334.mp3",
+   "title": "barrel organ from 1 meter.wav",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.689,
+   "lon": 5.3036,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/202334/",
+   "excerpt_start": 204.57,
+   "bio": [
+    0.7104,
+    1.4655,
+    0.8291
+   ],
+   "general": [
+    0.4015,
+    1.0449,
+    1.1676
+   ]
+  },
+  {
+   "id": "fs-720507",
+   "audio": "audio/fs-720507.mp3",
+   "title": "Walking through the noisy food commercial street",
+   "habitat": "market",
+   "place": "Liuzhou",
+   "country": "China",
+   "region": "Asia",
+   "lat": 24.3067,
+   "lon": 109.4046,
+   "time_of_day": null,
+   "recordist": "lastraindrop",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/lastraindrop/sounds/720507/",
+   "excerpt_start": 255.73,
+   "bio": [
+    0.3708,
+    0.7341,
+    0.2034
+   ],
+   "general": [
+    0.2164,
+    1.3038,
+    2.1272
+   ]
+  },
+  {
+   "id": "fs-733379",
+   "audio": "audio/fs-733379.mp3",
+   "title": "Walking through the urban pedestrian food street near the NewYear",
+   "habitat": "market",
+   "place": "Liuzhou",
+   "country": "China",
+   "region": "Asia",
+   "lat": 24.3159,
+   "lon": 109.4086,
+   "time_of_day": null,
+   "recordist": "lastraindrop",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/lastraindrop/sounds/733379/",
+   "excerpt_start": 160.4,
+   "bio": [
+    0.2813,
+    1.0953,
+    0.5516
+   ],
+   "general": [
+    -0.0165,
+    1.3835,
+    1.9453
+   ]
+  },
+  {
+   "id": "fs-462160",
+   "audio": "audio/fs-462160.mp3",
+   "title": "Dutch marketplace 2",
+   "habitat": "market",
+   "place": "Leeuwarden",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 53.2,
+   "lon": 5.793,
+   "time_of_day": null,
+   "recordist": "Sandermotions",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/Sandermotions/sounds/462160/",
+   "excerpt_start": 46.16,
+   "bio": [
+    -0.0136,
+    0.8295,
+    0.7849
+   ],
+   "general": [
+    0.1934,
+    1.3374,
+    1.7094
+   ]
+  },
+  {
+   "id": "fs-636157",
+   "audio": "audio/fs-636157.mp3",
+   "title": "Marketplace_Gahanga Market_Kigali.wav",
+   "habitat": "market",
+   "place": "Kigali",
+   "country": "Rwanda",
+   "region": "Africa",
+   "lat": -2.0213,
+   "lon": 30.106,
+   "time_of_day": null,
+   "recordist": "KaleidacousticsAudio",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/KaleidacousticsAudio/sounds/636157/",
+   "excerpt_start": 206.69,
+   "bio": [
+    0.3857,
+    1.2521,
+    1.291
+   ],
+   "general": [
+    0.1454,
+    1.6653,
+    1.5973
+   ]
+  },
+  {
+   "id": "fs-46879",
+   "audio": "audio/fs-46879.mp3",
+   "title": "columbia road flower market.wav",
+   "habitat": "market",
+   "place": "Bethnal Green",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 51.5294,
+   "lon": -0.0693,
+   "time_of_day": null,
+   "recordist": "Noise Cuisine",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Noise%20Cuisine/sounds/46879/",
+   "excerpt_start": 51.32,
+   "bio": [
+    0.2978,
+    1.2189,
+    1.1772
+   ],
+   "general": [
+    -0.0182,
+    1.729,
+    1.53
+   ]
+  },
+  {
+   "id": "fs-444525",
+   "audio": "audio/fs-444525.mp3",
+   "title": "Ambience at Limerick's Milk Market",
+   "habitat": "market",
+   "place": "Moyross",
+   "country": "Ireland",
+   "region": "Europe",
+   "lat": 52.6654,
+   "lon": -8.6707,
+   "time_of_day": null,
+   "recordist": "nomadas",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/nomadas/sounds/444525/",
+   "excerpt_start": 107.52,
+   "bio": [
+    0.6579,
+    1.4884,
+    1.0871
+   ],
+   "general": [
+    0.5334,
+    1.6664,
+    1.3403
+   ]
+  },
+  {
+   "id": "fs-241103",
+   "audio": "audio/fs-241103.mp3",
+   "title": "people in city 01 140611_0275.wav",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6891,
+   "lon": 5.3027,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/241103/",
+   "excerpt_start": 228.29,
+   "bio": [
+    -0.0493,
+    0.5791,
+    0.2981
+   ],
+   "general": [
+    -0.1689,
+    1.2873,
+    1.5691
+   ]
+  },
+  {
+   "id": "fs-212779",
+   "audio": "audio/fs-212779.mp3",
+   "title": "Farmer's market front",
+   "habitat": "market",
+   "place": "Monchhagen",
+   "country": "Germany",
+   "region": "Europe",
+   "lat": 54.1605,
+   "lon": 12.2309,
+   "time_of_day": null,
+   "recordist": "blaukreuz",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/blaukreuz/sounds/212779/",
+   "excerpt_start": 25.86,
+   "bio": [
+    0.3576,
+    0.5079,
+    0.3993
+   ],
+   "general": [
+    0.3149,
+    1.2382,
+    1.9769
+   ]
+  },
+  {
+   "id": "fs-462159",
+   "audio": "audio/fs-462159.mp3",
+   "title": "Dutch marketplace 1",
+   "habitat": "market",
+   "place": "Leeuwarden",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 53.2,
+   "lon": 5.7932,
+   "time_of_day": null,
+   "recordist": "Sandermotions",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/Sandermotions/sounds/462159/",
+   "excerpt_start": 209.59,
+   "bio": [
+    0.4834,
+    0.5119,
+    1.066
+   ],
+   "general": [
+    0.3145,
+    1.5012,
+    1.6379
+   ]
+  },
+  {
+   "id": "fs-156594",
+   "audio": "audio/fs-156594.mp3",
+   "title": "Marché Piégut.wav",
+   "habitat": "market",
+   "place": "Piegut-Pluviers",
+   "country": "France",
+   "region": "Europe",
+   "lat": 45.6205,
+   "lon": 0.6954,
+   "time_of_day": null,
+   "recordist": "Franq",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/Franq/sounds/156594/",
+   "excerpt_start": 114.7,
+   "bio": [
+    -0.2169,
+    0.909,
+    1.0389
+   ],
+   "general": [
+    -0.4084,
+    1.0783,
+    1.247
+   ]
+  },
+  {
+   "id": "fs-511005",
+   "audio": "audio/fs-511005.mp3",
+   "title": "Khan El Khalili bazaar .wav",
+   "habitat": "market",
+   "place": "Cairo",
+   "country": "Egypt",
+   "region": "Africa",
+   "lat": 30.0481,
+   "lon": 31.2619,
+   "time_of_day": null,
+   "recordist": "3bagbrew",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/3bagbrew/sounds/511005/",
+   "excerpt_start": 155.75,
+   "bio": [
+    0.4155,
+    1.0031,
+    1.0015
+   ],
+   "general": [
+    0.1569,
+    1.785,
+    1.4579
+   ]
+  },
+  {
+   "id": "fs-196385",
+   "audio": "audio/fs-196385.mp3",
+   "title": "Luang Prabang Morning Market - Laos.wav",
+   "habitat": "market",
+   "place": "Louangphabang",
+   "country": "Laos",
+   "region": "Asia",
+   "lat": 19.8914,
+   "lon": 102.1344,
+   "time_of_day": null,
+   "recordist": "RTB45",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/RTB45/sounds/196385/",
+   "excerpt_start": 144.83,
+   "bio": [
+    0.6028,
+    0.5906,
+    1.0402
+   ],
+   "general": [
+    0.1306,
+    1.5683,
+    1.5687
+   ]
+  },
+  {
+   "id": "fs-406128",
+   "audio": "audio/fs-406128.mp3",
+   "title": "turkish_bazaar.wav",
+   "habitat": "market",
+   "place": "Antalya",
+   "country": "Türkiye",
+   "region": "Asia",
+   "lat": 36.9148,
+   "lon": 30.6891,
+   "time_of_day": null,
+   "recordist": "spidervis",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/spidervis/sounds/406128/",
+   "excerpt_start": 17.34,
+   "bio": [
+    0.5771,
+    0.4212,
+    0.6978
+   ],
+   "general": [
+    0.2982,
+    1.8452,
+    1.7017
+   ]
+  },
+  {
+   "id": "fs-553167",
+   "audio": "audio/fs-553167.mp3",
+   "title": "Persian bazaar in Teheran, Iran",
+   "habitat": "market",
+   "place": "Tehran",
+   "country": "Iran",
+   "region": "Asia",
+   "lat": 35.7406,
+   "lon": 51.4321,
+   "time_of_day": null,
+   "recordist": "nickcase",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/nickcase/sounds/553167/",
+   "excerpt_start": 23.03,
+   "bio": [
+    0.6047,
+    1.131,
+    1.2899
+   ],
+   "general": [
+    0.1784,
+    1.8472,
+    1.5275
+   ]
+  },
+  {
+   "id": "fs-705291",
+   "audio": "audio/fs-705291.mp3",
+   "title": "Istanbul Grand Bazaar",
+   "habitat": "market",
+   "place": "Eminoenue",
+   "country": "Türkiye",
+   "region": "Asia",
+   "lat": 41.0109,
+   "lon": 28.9679,
+   "time_of_day": null,
+   "recordist": "RTB45",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/RTB45/sounds/705291/",
+   "excerpt_start": 189.57,
+   "bio": [
+    0.437,
+    1.0417,
+    1.3248
+   ],
+   "general": [
+    0.073,
+    1.9387,
+    1.587
+   ]
+  },
+  {
+   "id": "fs-152039",
+   "audio": "audio/fs-152039.mp3",
+   "title": "Uighur Animal Market.wav",
+   "habitat": "market",
+   "place": "Shule",
+   "country": "China",
+   "region": "Asia",
+   "lat": 39.4844,
+   "lon": 76.1425,
+   "time_of_day": null,
+   "recordist": "RTB45",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/RTB45/sounds/152039/",
+   "excerpt_start": 229.67,
+   "bio": [
+    0.4916,
+    0.958,
+    0.625
+   ],
+   "general": [
+    -0.3817,
+    1.0191,
+    0.9557
+   ]
+  },
+  {
+   "id": "fs-532945",
+   "audio": "audio/fs-532945.mp3",
+   "title": "bazaar.mp3",
+   "habitat": "market",
+   "place": "Rasht",
+   "country": "Iran",
+   "region": "Asia",
+   "lat": 37.2096,
+   "lon": 49.6572,
+   "time_of_day": null,
+   "recordist": "amir2mi",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/amir2mi/sounds/532945/",
+   "excerpt_start": 29.36,
+   "bio": [
+    0.5775,
+    1.3378,
+    1.3357
+   ],
+   "general": [
+    0.358,
+    1.9068,
+    1.5134
+   ]
+  },
+  {
+   "id": "fs-326754",
+   "audio": "audio/fs-326754.mp3",
+   "title": "Setting up market stands 70m NL 150920_0780.wav",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6932,
+   "lon": 5.3006,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/326754/",
+   "excerpt_start": 79.65,
+   "bio": [
+    -0.8798,
+    -0.1526,
+    0.1005
+   ],
+   "general": [
+    -0.1919,
+    0.2852,
+    0.0738
+   ]
+  },
+  {
+   "id": "fs-274968",
+   "audio": "audio/fs-274968.mp3",
+   "title": "Istanbul Spice Bazaar (aka Egyptian Bazaar) ambience",
+   "habitat": "market",
+   "place": "Eminoenue",
+   "country": "Türkiye",
+   "region": "Asia",
+   "lat": 41.0165,
+   "lon": 28.9706,
+   "time_of_day": null,
+   "recordist": "tagirov",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/tagirov/sounds/274968/",
+   "excerpt_start": 241.69,
+   "bio": [
+    0.552,
+    0.4965,
+    0.8158
+   ],
+   "general": [
+    0.3981,
+    1.7544,
+    1.7762
+   ]
+  },
+  {
+   "id": "fs-639284",
+   "audio": "audio/fs-639284.mp3",
+   "title": "Ramadan Night in Cairo",
+   "habitat": "market",
+   "place": "Cairo",
+   "country": "Egypt",
+   "region": "Africa",
+   "lat": 30.0462,
+   "lon": 31.2512,
+   "time_of_day": null,
+   "recordist": "RTB45",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/RTB45/sounds/639284/",
+   "excerpt_start": 159.5,
+   "bio": [
+    0.2819,
+    1.3215,
+    0.8978
+   ],
+   "general": [
+    -0.4946,
+    0.8956,
+    1.1059
+   ]
+  },
+  {
+   "id": "fs-192148",
+   "audio": "audio/fs-192148.mp3",
+   "title": "Thimphu Musical Instrument Market - Bhutan",
+   "habitat": "market",
+   "place": "Lungtenzampa",
+   "country": "Bhutan",
+   "region": "Asia",
+   "lat": 27.4807,
+   "lon": 89.6382,
+   "time_of_day": null,
+   "recordist": "RTB45",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/RTB45/sounds/192148/",
+   "excerpt_start": 76.21,
+   "bio": [
+    0.6272,
+    1.1139,
+    0.474
+   ],
+   "general": [
+    0.625,
+    1.2642,
+    1.477
+   ]
+  },
+  {
+   "id": "fs-156191",
+   "audio": "audio/fs-156191.mp3",
+   "title": "Shang Yu Shopping Street.wav",
+   "habitat": "market",
+   "place": "Shangyu",
+   "country": "China",
+   "region": "Asia",
+   "lat": 30.0172,
+   "lon": 120.8752,
+   "time_of_day": null,
+   "recordist": "RTB45",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/RTB45/sounds/156191/",
+   "excerpt_start": 56.82,
+   "bio": [
+    0.5342,
+    0.8906,
+    0.3827
+   ],
+   "general": [
+    0.1482,
+    1.4035,
+    2.1041
+   ]
+  },
+  {
+   "id": "fs-115225",
+   "audio": "audio/fs-115225.mp3",
+   "title": "imam-prayer-istanbul.wav",
+   "habitat": "market",
+   "place": "Eminoenue",
+   "country": "Türkiye",
+   "region": "Asia",
+   "lat": 41.0169,
+   "lon": 28.9721,
+   "time_of_day": null,
+   "recordist": "xserra",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/xserra/sounds/115225/",
+   "excerpt_start": 43.95,
+   "bio": [
+    0.6876,
+    0.9089,
+    0.3692
+   ],
+   "general": [
+    0.4723,
+    1.7994,
+    1.4866
+   ]
+  },
+  {
+   "id": "fs-856936",
+   "audio": "audio/fs-856936.mp3",
+   "title": "AMBMrkt_Market Crowd Chatter Walla 01_KVV AUDIO_FREE",
+   "habitat": "market",
+   "place": "Sumy",
+   "country": "Ukraine",
+   "region": "Europe",
+   "lat": 50.9133,
+   "lon": 34.7965,
+   "time_of_day": null,
+   "recordist": "KVV_Audio",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/KVV_Audio/sounds/856936/",
+   "excerpt_start": 22.5,
+   "bio": [
+    0.1902,
+    0.3932,
+    0.1678
+   ],
+   "general": [
+    0.3245,
+    1.1242,
+    1.872
+   ]
+  },
+  {
+   "id": "fs-814818",
+   "audio": "audio/fs-814818.mp3",
+   "title": "building market stalls in small marina 0922 AM 150920_0781",
+   "habitat": "market",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6917,
+   "lon": 5.3004,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/814818/",
+   "excerpt_start": 82.5,
+   "bio": [
+    -1.0666,
+    -0.0771,
+    -0.3031
+   ],
+   "general": [
+    0.0342,
+    0.5429,
+    0.4672
+   ]
+  },
+  {
+   "id": "fs-834380",
+   "audio": "audio/fs-834380.mp3",
+   "title": "Bird market",
+   "habitat": "market",
+   "place": "Bektemir",
+   "country": "Uzbekistan",
+   "region": "Asia",
+   "lat": 41.2601,
+   "lon": 69.3528,
+   "time_of_day": null,
+   "recordist": "ali.g",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/ali.g/sounds/834380/",
+   "excerpt_start": 37.82,
+   "bio": [
+    0.3424,
+    0.9076,
+    0.4181
+   ],
+   "general": [
+    -0.6802,
+    -0.3771,
+    -0.5798
+   ]
+  },
+  {
+   "id": "fs-625160",
+   "audio": "audio/fs-625160.mp3",
+   "title": "BATUHAN DÖNMEZ SES TASARIMI DERSİ ALAN KAYDI 24 bit 48 kHz.wav",
+   "habitat": "market",
+   "place": "UEskuedar",
+   "country": "Türkiye",
+   "region": "Asia",
+   "lat": 41.0484,
+   "lon": 29.027,
+   "time_of_day": null,
+   "recordist": "ba2handonmez",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/ba2handonmez/sounds/625160/",
+   "excerpt_start": 161.19,
+   "bio": [
+    -0.0168,
+    0.9116,
+    1.0611
+   ],
+   "general": [
+    0.4375,
+    1.3361,
+    1.5998
+   ]
+  },
+  {
+   "id": "fs-870530",
+   "audio": "audio/fs-870530.mp3",
+   "title": "Flea Market Ambience, Outdoors, Large",
+   "habitat": "market",
+   "place": "Pasadena",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 34.1629,
+   "lon": -118.1679,
+   "time_of_day": null,
+   "recordist": "CHallSmith",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/CHallSmith/sounds/870530/",
+   "excerpt_start": 117.24,
+   "bio": [
+    -0.0437,
+    0.9958,
+    0.8664
+   ],
+   "general": [
+    0.1384,
+    1.4487,
+    1.2247
+   ]
+  },
+  {
+   "id": "fs-173410",
+   "audio": "audio/fs-173410.mp3",
+   "title": "City_Street_Traffic_01",
+   "habitat": "city",
+   "place": "Berkeley",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 37.8715,
+   "lon": -122.2745,
+   "time_of_day": null,
+   "recordist": "dheming",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/dheming/sounds/173410/",
+   "excerpt_start": 15.1,
+   "bio": [
+    -0.605,
+    -0.0817,
+    0.4666
+   ],
+   "general": [
+    -0.2884,
+    0.1229,
+    0.8915
+   ]
+  },
+  {
+   "id": "fs-171258",
+   "audio": "audio/fs-171258.mp3",
+   "title": "accordion street ambience LONG 121205_01.flac",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6902,
+   "lon": 5.2983,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/171258/",
+   "excerpt_start": 1334.0,
+   "bio": [
+    0.7289,
+    1.1719,
+    0.6817
+   ],
+   "general": [
+    -0.2498,
+    0.5049,
+    0.9734
+   ]
+  },
+  {
+   "id": "fs-348445",
+   "audio": "audio/fs-348445.mp3",
+   "title": "Small square in Moscow (Novokuznetskaya street 31), 8 a.m., distant cars, trams, people, birds, summer XY mics.flac",
+   "habitat": "city",
+   "place": "Zamoskvorech'ye",
+   "country": "Russian Federation",
+   "region": "Europe",
+   "lat": 55.7344,
+   "lon": 37.634,
+   "time_of_day": null,
+   "recordist": "gladkiy",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/gladkiy/sounds/348445/",
+   "excerpt_start": 914.5,
+   "bio": [
+    -0.5231,
+    -0.3918,
+    0.8241
+   ],
+   "general": [
+    -0.242,
+    0.1621,
+    0.8295
+   ]
+  },
+  {
+   "id": "fs-439575",
+   "audio": "audio/fs-439575.mp3",
+   "title": "amsterdam city ambience.wav",
+   "habitat": "city",
+   "place": "Amsterdam",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 52.3734,
+   "lon": 4.892,
+   "time_of_day": null,
+   "recordist": "larspriebe",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/larspriebe/sounds/439575/",
+   "excerpt_start": 171.58,
+   "bio": [
+    -0.5109,
+    -0.2261,
+    0.1779
+   ],
+   "general": [
+    -0.021,
+    0.1987,
+    0.527
+   ]
+  },
+  {
+   "id": "fs-478375",
+   "audio": "audio/fs-478375.mp3",
+   "title": "160131 Chicago Edgewater neighborhood in winter",
+   "habitat": "city",
+   "place": "Evanston",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 41.9907,
+   "lon": -87.6581,
+   "time_of_day": null,
+   "recordist": "thaighaudio",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/thaighaudio/sounds/478375/",
+   "excerpt_start": 476.0,
+   "bio": [
+    -0.371,
+    -0.6635,
+    0.7998
+   ],
+   "general": [
+    -0.2686,
+    -0.201,
+    0.9278
+   ]
+  },
+  {
+   "id": "fs-812106",
+   "audio": "audio/fs-812106.mp3",
+   "title": "Crowded Street Soundscape with Traffic and Voices – Palestine Urban Ambience",
+   "habitat": "city",
+   "place": "Tulkarm",
+   "country": "Palestine, State of",
+   "region": "Asia",
+   "lat": 32.312,
+   "lon": 35.0291,
+   "time_of_day": null,
+   "recordist": "sounds_from_palestine",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/sounds_from_palestine/sounds/812106/",
+   "excerpt_start": 77.51,
+   "bio": [
+    0.4922,
+    1.2428,
+    0.8453
+   ],
+   "general": [
+    -0.4721,
+    1.0221,
+    1.17
+   ]
+  },
+  {
+   "id": "fs-173517",
+   "audio": "audio/fs-173517.mp3",
+   "title": "city_winter_atmosphere2.flac",
+   "habitat": "city",
+   "place": "Omsk",
+   "country": "Russian Federation",
+   "region": "Europe",
+   "lat": 54.9616,
+   "lon": 73.3959,
+   "time_of_day": null,
+   "recordist": "Zabuhailo",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Zabuhailo/sounds/173517/",
+   "excerpt_start": 22.97,
+   "bio": [
+    -0.7562,
+    0.0007,
+    -0.5081
+   ],
+   "general": [
+    -0.4851,
+    0.1059,
+    -0.4452
+   ]
+  },
+  {
+   "id": "fs-167672",
+   "audio": "audio/fs-167672.mp3",
+   "title": "teeter.wav",
+   "habitat": "city",
+   "place": "Omsk",
+   "country": "Russian Federation",
+   "region": "Europe",
+   "lat": 54.9703,
+   "lon": 73.3887,
+   "time_of_day": null,
+   "recordist": "Zabuhailo",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Zabuhailo/sounds/167672/",
+   "excerpt_start": 28.99,
+   "bio": [
+    0.3253,
+    1.2332,
+    0.3888
+   ],
+   "general": [
+    0.1346,
+    1.2094,
+    1.344
+   ]
+  },
+  {
+   "id": "fs-215631",
+   "audio": "audio/fs-215631.mp3",
+   "title": "cobblestone-square people 140124_03.flac",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6871,
+   "lon": 5.308,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/215631/",
+   "excerpt_start": 504.82,
+   "bio": [
+    -0.8508,
+    -0.2423,
+    0.2584
+   ],
+   "general": [
+    -0.059,
+    0.3751,
+    0.5376
+   ]
+  },
+  {
+   "id": "fs-812102",
+   "audio": "audio/fs-812102.mp3",
+   "title": "Busy Urban Street Sounds – People, Traffic, and City Life (Palestine)",
+   "habitat": "city",
+   "place": "Tulkarm",
+   "country": "Palestine, State of",
+   "region": "Asia",
+   "lat": 32.3136,
+   "lon": 35.0283,
+   "time_of_day": null,
+   "recordist": "sounds_from_palestine",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/sounds_from_palestine/sounds/812102/",
+   "excerpt_start": 22.98,
+   "bio": [
+    0.2853,
+    0.6764,
+    0.4963
+   ],
+   "general": [
+    0.2897,
+    1.4716,
+    1.9009
+   ]
+  },
+  {
+   "id": "fs-172394",
+   "audio": "audio/fs-172394.mp3",
+   "title": "bosch parade 110626 ORG.flac",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6892,
+   "lon": 5.311,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/172394/",
+   "excerpt_start": 3051.57,
+   "bio": [
+    -0.1502,
+    0.8698,
+    0.2909
+   ],
+   "general": [
+    -0.1579,
+    1.5566,
+    1.8534
+   ]
+  },
+  {
+   "id": "fs-567695",
+   "audio": "audio/fs-567695.mp3",
+   "title": "City Terrace Night 3",
+   "habitat": "city",
+   "place": "Ilion",
+   "country": "Greece",
+   "region": "Europe",
+   "lat": 38.04,
+   "lon": 23.704,
+   "time_of_day": null,
+   "recordist": "Sotiris_Laskaris",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/Sotiris_Laskaris/sounds/567695/",
+   "excerpt_start": 71.07,
+   "bio": [
+    -0.6919,
+    -0.6934,
+    0.7622
+   ],
+   "general": [
+    -0.118,
+    -0.2479,
+    0.9861
+   ]
+  },
+  {
+   "id": "fs-735399",
+   "audio": "audio/fs-735399.mp3",
+   "title": "190901_18 Arc ambience, close to Palace square in St. Petersburg",
+   "habitat": "city",
+   "place": "Saint Petersburg",
+   "country": "Russian Federation",
+   "region": "Europe",
+   "lat": 59.9382,
+   "lon": 30.3172,
+   "time_of_day": null,
+   "recordist": "gladkiy",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/gladkiy/sounds/735399/",
+   "excerpt_start": 143.07,
+   "bio": [
+    0.4354,
+    0.9313,
+    1.01
+   ],
+   "general": [
+    0.0371,
+    1.6736,
+    1.8652
+   ]
+  },
+  {
+   "id": "fs-815856",
+   "audio": "audio/fs-815856.mp3",
+   "title": "Deeper Into Old Ramallah – Evening Walk Through Ramallah Al-Tahta",
+   "habitat": "city",
+   "place": "Ramallah",
+   "country": "Palestine, State of",
+   "region": "Asia",
+   "lat": 31.9038,
+   "lon": 35.1974,
+   "time_of_day": null,
+   "recordist": "sounds_from_palestine",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/sounds_from_palestine/sounds/815856/",
+   "excerpt_start": 107.71,
+   "bio": [
+    -0.3449,
+    0.3566,
+    0.5997
+   ],
+   "general": [
+    -0.383,
+    0.7093,
+    1.1611
+   ]
+  },
+  {
+   "id": "fs-343833",
+   "audio": "audio/fs-343833.mp3",
+   "title": "Lepelstraat Den Boch NL 140422_00.flac",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6897,
+   "lon": 5.2999,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/343833/",
+   "excerpt_start": 648.96,
+   "bio": [
+    0.2129,
+    0.9399,
+    1.2437
+   ],
+   "general": [
+    0.338,
+    1.6012,
+    1.8693
+   ]
+  },
+  {
+   "id": "fs-656749",
+   "audio": "audio/fs-656749.mp3",
+   "title": "Underpass freeway with gusty wind (120 deg stereo)",
+   "habitat": "city",
+   "place": "Nieuwegein",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 52.0409,
+   "lon": 5.0642,
+   "time_of_day": null,
+   "recordist": "StephanBrenn",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/StephanBrenn/sounds/656749/",
+   "excerpt_start": 98.68,
+   "bio": [
+    -0.6539,
+    -0.7317,
+    0.9216
+   ],
+   "general": [
+    -0.344,
+    -0.2711,
+    0.8971
+   ]
+  },
+  {
+   "id": "fs-344767",
+   "audio": "audio/fs-344767.mp3",
+   "title": "shoppingstreet on 50m kerkplein 03 160409_21.flac",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6883,
+   "lon": 5.3053,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/344767/",
+   "excerpt_start": 419.03,
+   "bio": [
+    0.3471,
+    1.0448,
+    0.7022
+   ],
+   "general": [
+    0.0064,
+    1.4638,
+    1.8729
+   ]
+  },
+  {
+   "id": "fs-566170",
+   "audio": "audio/fs-566170.mp3",
+   "title": "São Paulo suburbs - The sounds of a flow",
+   "habitat": "city",
+   "place": "Ferraz de Vasconcelos",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -23.5924,
+   "lon": -46.4123,
+   "time_of_day": null,
+   "recordist": "kelvincristi",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/kelvincristi/sounds/566170/",
+   "excerpt_start": 34.45,
+   "bio": [
+    0.3153,
+    1.4185,
+    0.3426
+   ],
+   "general": [
+    0.2072,
+    1.049,
+    0.9911
+   ]
+  },
+  {
+   "id": "fs-274571",
+   "audio": "audio/fs-274571.mp3",
+   "title": "RainInTheCity.flac",
+   "habitat": "city",
+   "place": "Omsk",
+   "country": "Russian Federation",
+   "region": "Europe",
+   "lat": 54.9623,
+   "lon": 73.3973,
+   "time_of_day": null,
+   "recordist": "Zabuhailo",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Zabuhailo/sounds/274571/",
+   "excerpt_start": 23.56,
+   "bio": [
+    0.437,
+    -0.1208,
+    0.197
+   ],
+   "general": [
+    0.1024,
+    -0.3236,
+    0.0257
+   ]
+  },
+  {
+   "id": "fs-463091",
+   "audio": "audio/fs-463091.mp3",
+   "title": "calm city between buildings 150906_0764.wav",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6884,
+   "lon": 5.2873,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/463091/",
+   "excerpt_start": 34.33,
+   "bio": [
+    -0.6464,
+    -0.5973,
+    0.1621
+   ],
+   "general": [
+    0.1445,
+    0.1029,
+    0.2875
+   ]
+  },
+  {
+   "id": "fs-474261",
+   "audio": "audio/fs-474261.mp3",
+   "title": "buci.WAV",
+   "habitat": "city",
+   "place": "Paris",
+   "country": "France",
+   "region": "Europe",
+   "lat": 48.8539,
+   "lon": 2.3374,
+   "time_of_day": null,
+   "recordist": "MB-Paris",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/MB-Paris/sounds/474261/",
+   "excerpt_start": 216.23,
+   "bio": [
+    -0.2283,
+    0.582,
+    0.3132
+   ],
+   "general": [
+    0.2665,
+    1.428,
+    1.9911
+   ]
+  },
+  {
+   "id": "fs-347031",
+   "audio": "audio/fs-347031.mp3",
+   "title": "Slavyanskaya square ambience, Moscow XY.wav",
+   "habitat": "city",
+   "place": "Moscow",
+   "country": "Russian Federation",
+   "region": "Europe",
+   "lat": 55.7568,
+   "lon": 37.631,
+   "time_of_day": null,
+   "recordist": "gladkiy",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/gladkiy/sounds/347031/",
+   "excerpt_start": 369.0,
+   "bio": [
+    -0.6838,
+    -0.4556,
+    0.8802
+   ],
+   "general": [
+    -0.3511,
+    0.0849,
+    0.6247
+   ]
+  },
+  {
+   "id": "fs-561463",
+   "audio": "audio/fs-561463.mp3",
+   "title": "Ambience from 5th floor balcony in Sao Paulo Brazil traffic construction machine pile driver foundation walla",
+   "habitat": "city",
+   "place": "Sao Paulo",
+   "country": "Brazil",
+   "region": "Americas",
+   "lat": -23.5539,
+   "lon": -46.6558,
+   "time_of_day": null,
+   "recordist": "anapb",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/anapb/sounds/561463/",
+   "excerpt_start": 73.57,
+   "bio": [
+    -0.3212,
+    0.2142,
+    0.3893
+   ],
+   "general": [
+    -0.0635,
+    0.1578,
+    0.9421
+   ]
+  },
+  {
+   "id": "fs-476309",
+   "audio": "audio/fs-476309.mp3",
+   "title": "calm down town ambience NL 190610_0024.ogg",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6879,
+   "lon": 5.3093,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/476309/",
+   "excerpt_start": 268.11,
+   "bio": [
+    -0.6383,
+    -0.0922,
+    0.1821
+   ],
+   "general": [
+    0.1063,
+    0.1417,
+    0.2056
+   ]
+  },
+  {
+   "id": "fs-747800",
+   "audio": "audio/fs-747800.mp3",
+   "title": "ambience lower town Nijmegen city Netherlands 1256 PM 240620_0749",
+   "habitat": "city",
+   "place": "Nijmegen",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.8493,
+   "lon": 5.8618,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/747800/",
+   "excerpt_start": 760.54,
+   "bio": [
+    -0.849,
+    0.0685,
+    -0.1842
+   ],
+   "general": [
+    -0.3159,
+    0.0386,
+    -0.2812
+   ]
+  },
+  {
+   "id": "fs-657397",
+   "audio": "audio/fs-657397.mp3",
+   "title": "14th st street noise siren plus quiet lobby.1.wav",
+   "habitat": "city",
+   "place": "New York City",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 40.7322,
+   "lon": -73.9833,
+   "time_of_day": null,
+   "recordist": "overmedium",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/overmedium/sounds/657397/",
+   "excerpt_start": 337.96,
+   "bio": [
+    -0.5287,
+    0.1586,
+    0.5411
+   ],
+   "general": [
+    -0.3339,
+    0.6101,
+    1.0799
+   ]
+  },
+  {
+   "id": "fs-477873",
+   "audio": "audio/fs-477873.mp3",
+   "title": "Birds In Mezciems Balcony Window",
+   "habitat": "city",
+   "place": "Ulbroka",
+   "country": "Latvia",
+   "region": "Europe",
+   "lat": 56.9725,
+   "lon": 24.2284,
+   "time_of_day": null,
+   "recordist": "The-Sacha-Rush",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/The-Sacha-Rush/sounds/477873/",
+   "excerpt_start": 463.68,
+   "bio": [
+    -1.6244,
+    0.5834,
+    -1.1402
+   ],
+   "general": [
+    -0.8663,
+    -0.4948,
+    -1.9869
+   ]
+  },
+  {
+   "id": "fs-812103",
+   "audio": "audio/fs-812103.mp3",
+   "title": "Lively City Street Atmosphere – Crowds and Traffic Sounds (Palestine)",
+   "habitat": "city",
+   "place": "Tulkarm",
+   "country": "Palestine, State of",
+   "region": "Asia",
+   "lat": 32.3119,
+   "lon": 35.0289,
+   "time_of_day": null,
+   "recordist": "sounds_from_palestine",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/sounds_from_palestine/sounds/812103/",
+   "excerpt_start": 107.99,
+   "bio": [
+    -0.0065,
+    1.3707,
+    1.0282
+   ],
+   "general": [
+    -0.336,
+    0.9134,
+    1.2171
+   ]
+  },
+  {
+   "id": "fs-723695",
+   "audio": "audio/fs-723695.mp3",
+   "title": "City Traffic, Rainy Night",
+   "habitat": "city",
+   "place": "West End",
+   "country": "Canada",
+   "region": "Americas",
+   "lat": 49.2812,
+   "lon": -123.1326,
+   "time_of_day": null,
+   "recordist": "HECKFRICKER",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/HECKFRICKER/sounds/723695/",
+   "excerpt_start": 48.24,
+   "bio": [
+    -0.5942,
+    -0.2169,
+    0.2888
+   ],
+   "general": [
+    0.0315,
+    -0.1971,
+    0.4403
+   ]
+  },
+  {
+   "id": "fs-380148",
+   "audio": "audio/fs-380148.mp3",
+   "title": "Gardening next to street.wav",
+   "habitat": "city",
+   "place": "Luzern",
+   "country": "Switzerland",
+   "region": "Europe",
+   "lat": 47.0514,
+   "lon": 8.3076,
+   "time_of_day": null,
+   "recordist": "BonnyOrbit",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/BonnyOrbit/sounds/380148/",
+   "excerpt_start": 57.53,
+   "bio": [
+    0.0617,
+    -0.3035,
+    0.5386
+   ],
+   "general": [
+    -0.1058,
+    -0.376,
+    -0.0182
+   ]
+  },
+  {
+   "id": "fs-240560",
+   "audio": "audio/fs-240560.mp3",
+   "title": "mumbai ambience",
+   "habitat": "city",
+   "place": "Uran",
+   "country": "India",
+   "region": "Asia",
+   "lat": 18.9428,
+   "lon": 72.8234,
+   "time_of_day": null,
+   "recordist": "dropctuned",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/dropctuned/sounds/240560/",
+   "excerpt_start": 143.49,
+   "bio": [
+    -0.448,
+    0.0844,
+    0.6957
+   ],
+   "general": [
+    -0.4052,
+    0.364,
+    0.9725
+   ]
+  },
+  {
+   "id": "fs-788595",
+   "audio": "audio/fs-788595.mp3",
+   "title": "AMBUrbn_late night next to a train station_Tim Kahn_MKH80208030st",
+   "habitat": "city",
+   "place": "Portland",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 45.5295,
+   "lon": -122.6777,
+   "time_of_day": null,
+   "recordist": "tim.kahn",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/tim.kahn/sounds/788595/",
+   "excerpt_start": 902.84,
+   "bio": [
+    -0.7789,
+    -0.8628,
+    0.4838
+   ],
+   "general": [
+    0.029,
+    -0.1708,
+    0.8931
+   ]
+  },
+  {
+   "id": "fs-713953",
+   "audio": "audio/fs-713953.mp3",
+   "title": "Wind and rain at St Brieuc",
+   "habitat": "city",
+   "place": "Saint-Brieuc",
+   "country": "France",
+   "region": "Europe",
+   "lat": 48.5129,
+   "lon": -2.7601,
+   "time_of_day": null,
+   "recordist": "bruno.auzet",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/bruno.auzet/sounds/713953/",
+   "excerpt_start": 146.83,
+   "bio": [
+    -0.0608,
+    -0.738,
+    0.0658
+   ],
+   "general": [
+    0.1448,
+    -0.3351,
+    0.167
+   ]
+  },
+  {
+   "id": "fs-172780",
+   "audio": "audio/fs-172780.mp3",
+   "title": "small city streamlet atmos 121230_01.wav",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6883,
+   "lon": 5.3,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/172780/",
+   "excerpt_start": 155.72,
+   "bio": [
+    -0.3327,
+    -0.6599,
+    0.0891
+   ],
+   "general": [
+    -0.0036,
+    -0.3058,
+    0.1694
+   ]
+  },
+  {
+   "id": "fs-861359",
+   "audio": "audio/fs-861359.mp3",
+   "title": "Autobahn Bridge",
+   "habitat": "city",
+   "place": "Bayenthal",
+   "country": "Germany",
+   "region": "Europe",
+   "lat": 50.8841,
+   "lon": 6.9618,
+   "time_of_day": null,
+   "recordist": "qubodup",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/qubodup/sounds/861359/",
+   "excerpt_start": 17.47,
+   "bio": [
+    -0.5019,
+    -0.5516,
+    1.0058
+   ],
+   "general": [
+    -0.3855,
+    -0.0731,
+    0.8921
+   ]
+  },
+  {
+   "id": "fs-715229",
+   "audio": "audio/fs-715229.mp3",
+   "title": "down town courtyard calm NL 2.03 PM 220620_0421",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6896,
+   "lon": 5.3104,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/715229/",
+   "excerpt_start": 47.59,
+   "bio": [
+    -1.0888,
+    0.0582,
+    -0.1713
+   ],
+   "general": [
+    -0.2674,
+    0.0973,
+    -0.0716
+   ]
+  },
+  {
+   "id": "fs-657066",
+   "audio": "audio/fs-657066.mp3",
+   "title": "road crossing during rain",
+   "habitat": "city",
+   "place": "Leipzig",
+   "country": "Germany",
+   "region": "Europe",
+   "lat": 51.319,
+   "lon": 12.3453,
+   "time_of_day": null,
+   "recordist": "Garuda1982",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Garuda1982/sounds/657066/",
+   "excerpt_start": 53.43,
+   "bio": [
+    -0.3615,
+    -0.3868,
+    0.9005
+   ],
+   "general": [
+    -0.4263,
+    0.1675,
+    0.8538
+   ]
+  },
+  {
+   "id": "fs-370752",
+   "audio": "audio/fs-370752.mp3",
+   "title": "Markt Den Bosch NL 161211_1060.flac",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6891,
+   "lon": 5.3042,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/370752/",
+   "excerpt_start": 234.28,
+   "bio": [
+    -0.2022,
+    0.5959,
+    0.5248
+   ],
+   "general": [
+    0.0936,
+    1.5497,
+    1.4057
+   ]
+  },
+  {
+   "id": "fs-866989",
+   "audio": "audio/fs-866989.mp3",
+   "title": "EXPLReal_Centennial Mills Watertower Demolition_Tim Kahn_MKH8020st",
+   "habitat": "city",
+   "place": "Portland",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 45.5329,
+   "lon": -122.6796,
+   "time_of_day": null,
+   "recordist": "tim.kahn",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/tim.kahn/sounds/866989/",
+   "excerpt_start": 142.5,
+   "bio": [
+    -0.816,
+    -0.3607,
+    0.6932
+   ],
+   "general": [
+    -0.245,
+    0.2552,
+    0.4255
+   ]
+  },
+  {
+   "id": "fs-398655",
+   "audio": "audio/fs-398655.mp3",
+   "title": "SEA_16 Vietnam, Hanoi, Street atmo at Steet restaurant (binaural).WAV",
+   "habitat": "city",
+   "place": "Hoan Kiem",
+   "country": "Vietnam",
+   "region": "Asia",
+   "lat": 21.0348,
+   "lon": 105.8527,
+   "time_of_day": null,
+   "recordist": "aUREa",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/aUREa/sounds/398655/",
+   "excerpt_start": 202.91,
+   "bio": [
+    -0.1053,
+    1.1556,
+    1.2046
+   ],
+   "general": [
+    -0.4439,
+    1.0601,
+    1.0945
+   ]
+  },
+  {
+   "id": "fs-614002",
+   "audio": "audio/fs-614002.mp3",
+   "title": "City_Park_Residential_Light_Karhupuisto_Helsinki_Evening_August_210816_0457.wav",
+   "habitat": "city",
+   "place": "Helsinki",
+   "country": "Finland",
+   "region": "Europe",
+   "lat": 60.184,
+   "lon": 24.9526,
+   "time_of_day": null,
+   "recordist": "Villehardt",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/Villehardt/sounds/614002/",
+   "excerpt_start": 46.91,
+   "bio": [
+    -0.7939,
+    -0.5355,
+    0.2423
+   ],
+   "general": [
+    -0.1496,
+    0.1864,
+    0.7135
+   ]
+  },
+  {
+   "id": "fs-688943",
+   "audio": "audio/fs-688943.mp3",
+   "title": "Spring Kids Street (AMB)",
+   "habitat": "city",
+   "place": "Vevey",
+   "country": "Switzerland",
+   "region": "Europe",
+   "lat": 46.4597,
+   "lon": 6.8399,
+   "time_of_day": null,
+   "recordist": "xkeril",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/xkeril/sounds/688943/",
+   "excerpt_start": 40.3,
+   "bio": [
+    0.0669,
+    1.1142,
+    0.7177
+   ],
+   "general": [
+    -0.1389,
+    1.4282,
+    1.9439
+   ]
+  },
+  {
+   "id": "fs-815246",
+   "audio": "audio/fs-815246.mp3",
+   "title": "AMBUrbn_Late Morning Urban Neighborhood_Tim Kahn_MKH800608030st",
+   "habitat": "city",
+   "place": "Portland",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 45.5337,
+   "lon": -122.6444,
+   "time_of_day": null,
+   "recordist": "tim.kahn",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/tim.kahn/sounds/815246/",
+   "excerpt_start": 1080.63,
+   "bio": [
+    -0.5244,
+    -0.3793,
+    0.9973
+   ],
+   "general": [
+    -0.3793,
+    0.0016,
+    0.7131
+   ]
+  },
+  {
+   "id": "fs-274500",
+   "audio": "audio/fs-274500.mp3",
+   "title": "ambience_Vienna_street_Handelskai_cars_pass_by_people_walk_birds.wav",
+   "habitat": "city",
+   "place": "Vienna",
+   "country": "Austria",
+   "region": "Europe",
+   "lat": 48.2181,
+   "lon": 16.4149,
+   "time_of_day": null,
+   "recordist": "magedu",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/magedu/sounds/274500/",
+   "excerpt_start": 94.54,
+   "bio": [
+    -1.182,
+    0.3034,
+    -0.8894
+   ],
+   "general": [
+    -0.4063,
+    -0.2622,
+    -0.6254
+   ]
+  },
+  {
+   "id": "fs-215704",
+   "audio": "audio/fs-215704.mp3",
+   "title": "CalmWinterWoods NL LONG 140120_01.flac",
+   "habitat": "city",
+   "place": "Loon op Zand",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6592,
+   "lon": 5.1284,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/215704/",
+   "excerpt_start": 1112.7,
+   "bio": [
+    -1.1851,
+    -0.2647,
+    -0.1692
+   ],
+   "general": [
+    -0.5493,
+    0.0994,
+    -0.3735
+   ]
+  },
+  {
+   "id": "fs-681832",
+   "audio": "audio/fs-681832.mp3",
+   "title": "City of Warren Waking Up On Palm Sunday 520am to 720am 4-2-23.flac",
+   "habitat": "city",
+   "place": "Hazel Park",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 42.4737,
+   "lon": -83.077,
+   "time_of_day": null,
+   "recordist": "Ambient-X",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/Ambient-X/sounds/681832/",
+   "excerpt_start": 3592.54,
+   "bio": [
+    -0.8978,
+    0.3684,
+    -1.0434
+   ],
+   "general": [
+    -0.6641,
+    -0.0396,
+    -0.7489
+   ]
+  },
+  {
+   "id": "fs-478082",
+   "audio": "audio/fs-478082.mp3",
+   "title": "hot summer hill field 03 190629_0044.wav",
+   "habitat": "city",
+   "place": "Cuijk",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7549,
+   "lon": 5.8914,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/478082/",
+   "excerpt_start": 41.71,
+   "bio": [
+    -1.5075,
+    0.0473,
+    -0.7142
+   ],
+   "general": [
+    -0.3091,
+    -0.4232,
+    -0.5109
+   ]
+  },
+  {
+   "id": "fs-638414",
+   "audio": "audio/fs-638414.mp3",
+   "title": "Sounds of forest and pond.wav",
+   "habitat": "city",
+   "place": "Race",
+   "country": "Slovenia",
+   "region": "Europe",
+   "lat": 46.4345,
+   "lon": 15.6794,
+   "time_of_day": null,
+   "recordist": "dibko",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/dibko/sounds/638414/",
+   "excerpt_start": 57.19,
+   "bio": [
+    -1.8712,
+    0.5659,
+    -1.0014
+   ],
+   "general": [
+    -0.9236,
+    -0.0321,
+    -1.3577
+   ]
+  },
+  {
+   "id": "fs-352753",
+   "audio": "audio/fs-352753.mp3",
+   "title": "RiverBank in May NL SHORT 02 160516_0876.flac",
+   "habitat": "city",
+   "place": "Nederhemert-Noord",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7402,
+   "lon": 5.2056,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/352753/",
+   "excerpt_start": 164.92,
+   "bio": [
+    -0.9111,
+    -0.3115,
+    -0.4151
+   ],
+   "general": [
+    -0.117,
+    -0.3334,
+    -0.7825
+   ]
+  },
+  {
+   "id": "fs-213858",
+   "audio": "audio/fs-213858.mp3",
+   "title": "People far meadow NL 140112_00.flac",
+   "habitat": "city",
+   "place": "Vught",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6855,
+   "lon": 5.2345,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/213858/",
+   "excerpt_start": 1513.79,
+   "bio": [
+    -1.493,
+    -0.1443,
+    -0.5445
+   ],
+   "general": [
+    -0.4131,
+    -0.2041,
+    -0.3341
+   ]
+  },
+  {
+   "id": "fs-653095",
+   "audio": "audio/fs-653095.mp3",
+   "title": "Neighbourhood-ambience-birds-distant-traffic-breeze.WAV",
+   "habitat": "city",
+   "place": "Mitcham",
+   "country": "Australia",
+   "region": "Oceania",
+   "lat": -34.9858,
+   "lon": 138.6132,
+   "time_of_day": null,
+   "recordist": "roisin.gleeson",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/roisin.gleeson/sounds/653095/",
+   "excerpt_start": 78.5,
+   "bio": [
+    -0.6715,
+    0.1645,
+    -0.7767
+   ],
+   "general": [
+    -0.3775,
+    -0.1277,
+    -0.5713
+   ]
+  },
+  {
+   "id": "fs-547361",
+   "audio": "audio/fs-547361.mp3",
+   "title": "spring field NL 05 200529_0183.wav",
+   "habitat": "city",
+   "place": "Vught",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6859,
+   "lon": 5.235,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/547361/",
+   "excerpt_start": 253.9,
+   "bio": [
+    0.53,
+    -0.4079,
+    0.4137
+   ],
+   "general": [
+    -0.2206,
+    0.0692,
+    -0.8171
+   ]
+  },
+  {
+   "id": "fs-191452",
+   "audio": "audio/fs-191452.mp3",
+   "title": "tram-ride amsterdam.flac",
+   "habitat": "city",
+   "place": "Duivendrecht",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 52.3461,
+   "lon": 4.917,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/191452/",
+   "excerpt_start": 249.71,
+   "bio": [
+    -0.1893,
+    0.3157,
+    0.4065
+   ],
+   "general": [
+    -0.0198,
+    0.1181,
+    0.9395
+   ]
+  },
+  {
+   "id": "fs-683639",
+   "audio": "audio/fs-683639.mp3",
+   "title": "ambiance_urban_530pm",
+   "habitat": "city",
+   "place": "Colonia Nativitas",
+   "country": "Mexico",
+   "region": "Americas",
+   "lat": 19.3828,
+   "lon": -99.1427,
+   "time_of_day": null,
+   "recordist": "orlandorizo",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/orlandorizo/sounds/683639/",
+   "excerpt_start": 339.12,
+   "bio": [
+    -0.8585,
+    0.172,
+    -0.5001
+   ],
+   "general": [
+    -0.5218,
+    -0.1131,
+    -0.1921
+   ]
+  },
+  {
+   "id": "fs-686762",
+   "audio": "audio/fs-686762.mp3",
+   "title": "abandoned building ext [smoketown]",
+   "habitat": "city",
+   "place": "Louisville",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 38.2405,
+   "lon": -85.7381,
+   "time_of_day": null,
+   "recordist": "cyntrix",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/cyntrix/sounds/686762/",
+   "excerpt_start": 143.16,
+   "bio": [
+    -0.9011,
+    0.2623,
+    -0.7752
+   ],
+   "general": [
+    -0.263,
+    -0.1862,
+    -0.2627
+   ]
+  },
+  {
+   "id": "fs-818390",
+   "audio": "audio/fs-818390.mp3",
+   "title": "Street Village Ambience on a Summer Windy Day",
+   "habitat": "city",
+   "place": "Bir Zayt",
+   "country": "Palestine, State of",
+   "region": "Asia",
+   "lat": 31.9694,
+   "lon": 35.1906,
+   "time_of_day": null,
+   "recordist": "sounds_from_palestine",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/sounds_from_palestine/sounds/818390/",
+   "excerpt_start": 43.5,
+   "bio": [
+    -0.6329,
+    -0.0139,
+    -0.2659
+   ],
+   "general": [
+    -0.1861,
+    -0.1663,
+    -0.5289
+   ]
+  },
+  {
+   "id": "fs-615282",
+   "audio": "audio/fs-615282.mp3",
+   "title": "New York City Construction Site - Manhattan",
+   "habitat": "city",
+   "place": "New York City",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 40.7167,
+   "lon": -73.9873,
+   "time_of_day": null,
+   "recordist": "logancircle2",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/logancircle2/sounds/615282/",
+   "excerpt_start": 329.07,
+   "bio": [
+    -0.0188,
+    0.3068,
+    0.1286
+   ],
+   "general": [
+    0.1238,
+    0.516,
+    0.4259
+   ]
+  },
+  {
+   "id": "fs-398843",
+   "audio": "audio/fs-398843.mp3",
+   "title": "170720_SmallAppartment_Kitchen_F.wav",
+   "habitat": "city",
+   "place": "Arsta",
+   "country": "Sweden",
+   "region": "Europe",
+   "lat": 59.3071,
+   "lon": 17.9995,
+   "time_of_day": null,
+   "recordist": "blaukreuz",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/blaukreuz/sounds/398843/",
+   "excerpt_start": 96.05,
+   "bio": [
+    -0.4123,
+    -0.5153,
+    -0.0024
+   ],
+   "general": [
+    0.2786,
+    -0.1996,
+    0.1385
+   ]
+  },
+  {
+   "id": "fs-385104",
+   "audio": "audio/fs-385104.mp3",
+   "title": "XY_City hum_Night_River_ambience.wav",
+   "habitat": "city",
+   "place": "Strogino",
+   "country": "Russian Federation",
+   "region": "Europe",
+   "lat": 55.8186,
+   "lon": 37.4089,
+   "time_of_day": null,
+   "recordist": "softwalls",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/softwalls/sounds/385104/",
+   "excerpt_start": 100.32,
+   "bio": [
+    -0.6887,
+    -0.8925,
+    0.6447
+   ],
+   "general": [
+    -0.1887,
+    -0.3673,
+    0.8946
+   ]
+  },
+  {
+   "id": "fs-784514",
+   "audio": "audio/fs-784514.mp3",
+   "title": "fireworks Netherlands 1156 PM 241231_0984",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.701,
+   "lon": 5.2605,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/784514/",
+   "excerpt_start": 1633.85,
+   "bio": [
+    -0.062,
+    -0.6165,
+    0.5305
+   ],
+   "general": [
+    -0.2535,
+    -0.2847,
+    1.0301
+   ]
+  },
+  {
+   "id": "fs-184002",
+   "audio": "audio/fs-184002.mp3",
+   "title": "TranceMusicFar NL 6.30am 130407_00.flac",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6995,
+   "lon": 5.2913,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/184002/",
+   "excerpt_start": 1106.2,
+   "bio": [
+    -1.6038,
+    -0.0956,
+    -0.6653
+   ],
+   "general": [
+    -0.2362,
+    -0.2378,
+    -0.7994
+   ]
+  },
+  {
+   "id": "fs-545875",
+   "audio": "audio/fs-545875.mp3",
+   "title": "morning river April NL 190407_1332.ogg",
+   "habitat": "city",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7391,
+   "lon": 5.2328,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/545875/",
+   "excerpt_start": 1806.96,
+   "bio": [
+    -2.647,
+    0.037,
+    -1.0799
+   ],
+   "general": [
+    -0.5463,
+    -0.1445,
+    -0.2522
+   ]
+  },
+  {
+   "id": "fs-494850",
+   "audio": "audio/fs-494850.mp3",
+   "title": "Lake zandmeren NL Nov 191120.flac",
+   "habitat": "city",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7578,
+   "lon": 5.3432,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/494850/",
+   "excerpt_start": 985.08,
+   "bio": [
+    0.8598,
+    -0.6702,
+    0.3282
+   ],
+   "general": [
+    0.8712,
+    -0.7285,
+    0.2494
+   ]
+  },
+  {
+   "id": "fs-320177",
+   "audio": "audio/fs-320177.mp3",
+   "title": "Birds over Brooklyn",
+   "habitat": "city",
+   "place": "East New York",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 40.6757,
+   "lon": -73.9152,
+   "time_of_day": null,
+   "recordist": "Veridiansunrise",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Veridiansunrise/sounds/320177/",
+   "excerpt_start": 34.81,
+   "bio": [
+    -0.6997,
+    0.2897,
+    -0.1519
+   ],
+   "general": [
+    -0.6684,
+    -0.3695,
+    -0.703
+   ]
+  },
+  {
+   "id": "fs-324409",
+   "audio": "audio/fs-324409.mp3",
+   "title": "evening woods 01 NL 151009_0806.flac",
+   "habitat": "city",
+   "place": "Waalwijk",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6626,
+   "lon": 5.1287,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/324409/",
+   "excerpt_start": 83.07,
+   "bio": [
+    -0.941,
+    -0.4276,
+    0.0616
+   ],
+   "general": [
+    -0.1279,
+    -0.2455,
+    -0.3769
+   ]
+  },
+  {
+   "id": "fs-362128",
+   "audio": "audio/fs-362128.mp3",
+   "title": "bos maartensdijk 2 juli 2014 0900 ochtend vogels birds light distant traffic",
+   "habitat": "city",
+   "place": "De Bilt",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 52.1535,
+   "lon": 5.2044,
+   "time_of_day": null,
+   "recordist": "hz37",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/hz37/sounds/362128/",
+   "excerpt_start": 30.94,
+   "bio": [
+    -1.9367,
+    0.4968,
+    -0.8316
+   ],
+   "general": [
+    -0.9525,
+    -0.0768,
+    -1.1731
+   ]
+  },
+  {
+   "id": "fs-819767",
+   "audio": "audio/fs-819767.mp3",
+   "title": "Palestinian Zaffeh Trucks Honking – Ramallah, Palestine",
+   "habitat": "city",
+   "place": "Al Birah",
+   "country": "Palestine, State of",
+   "region": "Asia",
+   "lat": 31.9141,
+   "lon": 35.2071,
+   "time_of_day": null,
+   "recordist": "sounds_from_palestine",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/sounds_from_palestine/sounds/819767/",
+   "excerpt_start": 72.5,
+   "bio": [
+    0.7257,
+    1.6251,
+    0.4909
+   ],
+   "general": [
+    0.1405,
+    0.739,
+    0.821
+   ]
+  },
+  {
+   "id": "fs-403784",
+   "audio": "audio/fs-403784.mp3",
+   "title": "Village garden summer NL 170729_1203.flac",
+   "habitat": "city",
+   "place": "Heerewaarden",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7951,
+   "lon": 5.3948,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/403784/",
+   "excerpt_start": 585.49,
+   "bio": [
+    -0.6831,
+    0.0962,
+    -0.4862
+   ],
+   "general": [
+    -0.5973,
+    -0.2605,
+    -0.5305
+   ]
+  },
+  {
+   "id": "fs-844068",
+   "audio": "audio/fs-844068.mp3",
+   "title": "Munich Trudering Thunderstorm – Long Summer Rain & Thunder Ambience (Field Recording) - 250820_001",
+   "habitat": "city",
+   "place": "Aschheim",
+   "country": "Germany",
+   "region": "Europe",
+   "lat": 48.1388,
+   "lon": 11.6756,
+   "time_of_day": null,
+   "recordist": "TSP-Talk",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/TSP-Talk/sounds/844068/",
+   "excerpt_start": 1821.13,
+   "bio": [
+    1.0393,
+    -1.0003,
+    0.7957
+   ],
+   "general": [
+    1.1104,
+    -1.0481,
+    0.3357
+   ]
+  },
+  {
+   "id": "fs-398846",
+   "audio": "audio/fs-398846.mp3",
+   "title": "170724_VakoMyr_F.wav",
+   "habitat": "city",
+   "place": "AElmhult",
+   "country": "Sweden",
+   "region": "Europe",
+   "lat": 56.5163,
+   "lon": 14.2112,
+   "time_of_day": null,
+   "recordist": "blaukreuz",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/blaukreuz/sounds/398846/",
+   "excerpt_start": 161.24,
+   "bio": [
+    0.1716,
+    -0.8508,
+    0.1369
+   ],
+   "general": [
+    0.0613,
+    -1.2327,
+    0.0813
+   ]
+  },
+  {
+   "id": "fs-459842",
+   "audio": "audio/fs-459842.mp3",
+   "title": "Traffic heard from apartment interior",
+   "habitat": "city",
+   "place": "Terrebonne",
+   "country": "Canada",
+   "region": "Americas",
+   "lat": 45.6723,
+   "lon": -73.6839,
+   "time_of_day": null,
+   "recordist": "AlexLane",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/AlexLane/sounds/459842/",
+   "excerpt_start": 128.5,
+   "bio": [
+    -0.474,
+    -0.4462,
+    0.8477
+   ],
+   "general": [
+    -0.1961,
+    -0.1019,
+    0.8586
+   ]
+  },
+  {
+   "id": "fs-848182",
+   "audio": "audio/fs-848182.mp3",
+   "title": "Spring Countryside - Midwest US (loop)",
+   "habitat": "city",
+   "place": "Albion",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 41.3854,
+   "lon": -85.4693,
+   "time_of_day": null,
+   "recordist": "NickTayloe",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/NickTayloe/sounds/848182/",
+   "excerpt_start": 70.5,
+   "bio": [
+    -0.7587,
+    0.5954,
+    -1.4197
+   ],
+   "general": [
+    -0.478,
+    -0.3401,
+    -1.8937
+   ]
+  },
+  {
+   "id": "fs-634976",
+   "audio": "audio/fs-634976.mp3",
+   "title": "AMB dogs barking, church bell, distant city traffic (ST)",
+   "habitat": "city",
+   "place": "Coimbra",
+   "country": "Portugal",
+   "region": "Europe",
+   "lat": 40.1991,
+   "lon": -8.4359,
+   "time_of_day": null,
+   "recordist": "tferrino",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/tferrino/sounds/634976/",
+   "excerpt_start": 85.45,
+   "bio": [
+    -0.7894,
+    -0.3178,
+    0.5045
+   ],
+   "general": [
+    -0.1434,
+    -0.1409,
+    0.496
+   ]
+  },
+  {
+   "id": "fs-795569",
+   "audio": "audio/fs-795569.mp3",
+   "title": "AMBPark Hoglands park lively day ambience with birds, people, and traffic, Karlskrona, Sweden",
+   "habitat": "city",
+   "place": "Karlskrona",
+   "country": "Sweden",
+   "region": "Europe",
+   "lat": 56.1638,
+   "lon": 15.5855,
+   "time_of_day": null,
+   "recordist": "vhio",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/vhio/sounds/795569/",
+   "excerpt_start": 269.28,
+   "bio": [
+    -1.3523,
+    -0.1364,
+    -0.4552
+   ],
+   "general": [
+    -0.4222,
+    0.0144,
+    -0.0801
+   ]
+  },
+  {
+   "id": "fs-634440",
+   "audio": "audio/fs-634440.mp3",
+   "title": "city park spring atmo with traffic and children in the background",
+   "habitat": "city",
+   "place": "Leipzig",
+   "country": "Germany",
+   "region": "Europe",
+   "lat": 51.314,
+   "lon": 12.3348,
+   "time_of_day": null,
+   "recordist": "Garuda1982",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Garuda1982/sounds/634440/",
+   "excerpt_start": 131.31,
+   "bio": [
+    -1.6929,
+    0.2143,
+    -0.9582
+   ],
+   "general": [
+    -0.7647,
+    0.0171,
+    -1.1473
+   ]
+  },
+  {
+   "id": "fs-182696",
+   "audio": "audio/fs-182696.mp3",
+   "title": "Fryers Dawn #001",
+   "habitat": "dawn",
+   "place": "Castlemaine",
+   "country": "Australia",
+   "region": "Oceania",
+   "lat": -37.1606,
+   "lon": 144.254,
+   "time_of_day": null,
+   "recordist": "kangaroovindaloo",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/kangaroovindaloo/sounds/182696/",
+   "excerpt_start": 669.5,
+   "bio": [
+    0.1708,
+    0.0601,
+    -0.9884
+   ],
+   "general": [
+    -0.7057,
+    -0.2,
+    -1.1574
+   ]
+  },
+  {
+   "id": "fs-619718",
+   "audio": "audio/fs-619718.mp3",
+   "title": "edge forest 0738AM 210221_0257.wav",
+   "habitat": "dawn",
+   "place": "Heusden",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6572,
+   "lon": 5.1581,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/619718/",
+   "excerpt_start": 18.75,
+   "bio": [
+    -2.2153,
+    0.3153,
+    -1.1101
+   ],
+   "general": [
+    -0.9894,
+    -0.0128,
+    -1.6214
+   ]
+  },
+  {
+   "id": "fs-843606",
+   "audio": "audio/fs-843606.mp3",
+   "title": "Provençal Dawn Chorus - Nightingale",
+   "habitat": "dawn",
+   "place": "Malemort-du-Comtat",
+   "country": "France",
+   "region": "Europe",
+   "lat": 44.0107,
+   "lon": 5.1843,
+   "time_of_day": null,
+   "recordist": "iainmccurdy",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/iainmccurdy/sounds/843606/",
+   "excerpt_start": 67.66,
+   "bio": [
+    -2.1874,
+    0.733,
+    -0.6701
+   ],
+   "general": [
+    -0.6526,
+    -0.3851,
+    -2.1229
+   ]
+  },
+  {
+   "id": "fs-643455",
+   "audio": "audio/fs-643455.mp3",
+   "title": "Wren Birdsong",
+   "habitat": "dawn",
+   "place": "Maynooth",
+   "country": "Ireland",
+   "region": "Europe",
+   "lat": 53.3827,
+   "lon": -6.5898,
+   "time_of_day": null,
+   "recordist": "iainmccurdy",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/iainmccurdy/sounds/643455/",
+   "excerpt_start": 19.52,
+   "bio": [
+    -1.8371,
+    0.7473,
+    -1.0451
+   ],
+   "general": [
+    -0.8211,
+    -0.2696,
+    -2.1364
+   ]
+  },
+  {
+   "id": "fs-787307",
+   "audio": "audio/fs-787307.mp3",
+   "title": "Dawn chorus in North Goa, India",
+   "habitat": "dawn",
+   "place": "Arambol",
+   "country": "India",
+   "region": "Asia",
+   "lat": 15.6766,
+   "lon": 73.7068,
+   "time_of_day": null,
+   "recordist": "HotCatMedia",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/HotCatMedia/sounds/787307/",
+   "excerpt_start": 37.82,
+   "bio": [
+    0.5113,
+    -0.5982,
+    -0.8391
+   ],
+   "general": [
+    -0.4358,
+    -0.6602,
+    -1.5906
+   ]
+  },
+  {
+   "id": "fs-565003",
+   "audio": "audio/fs-565003.mp3",
+   "title": "river spring birds NL 01 190407_1332.wav",
+   "habitat": "dawn",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7408,
+   "lon": 5.2219,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/565003/",
+   "excerpt_start": 26.82,
+   "bio": [
+    -2.5205,
+    0.0331,
+    -1.072
+   ],
+   "general": [
+    -0.384,
+    0.0894,
+    -1.0558
+   ]
+  },
+  {
+   "id": "fs-570317",
+   "audio": "audio/fs-570317.mp3",
+   "title": "morningcampfire.wav",
+   "habitat": "dawn",
+   "place": "Kerava",
+   "country": "Finland",
+   "region": "Europe",
+   "lat": 60.307,
+   "lon": 25.1468,
+   "time_of_day": null,
+   "recordist": "wil_j_wil",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/wil_j_wil/sounds/570317/",
+   "excerpt_start": 92.5,
+   "bio": [
+    -1.6181,
+    0.1927,
+    -0.5919
+   ],
+   "general": [
+    0.2388,
+    -0.6127,
+    -0.5354
+   ]
+  },
+  {
+   "id": "fs-563153",
+   "audio": "audio/fs-563153.mp3",
+   "title": "Windy UK Woodland in late Winter with European Robin singing",
+   "habitat": "dawn",
+   "place": "Kewstoke",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 51.3602,
+   "lon": -2.971,
+   "time_of_day": null,
+   "recordist": "chris_dagorne",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/chris_dagorne/sounds/563153/",
+   "excerpt_start": 57.62,
+   "bio": [
+    -0.7138,
+    -0.4581,
+    -0.394
+   ],
+   "general": [
+    -0.5831,
+    -0.0204,
+    -0.4631
+   ]
+  },
+  {
+   "id": "fs-842154",
+   "audio": "audio/fs-842154.mp3",
+   "title": "5am Dawn Chorus in the Forest (Bedgebury Forest)",
+   "habitat": "dawn",
+   "place": "Hawkhurst",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 51.0577,
+   "lon": 0.4669,
+   "time_of_day": null,
+   "recordist": "hayley.suviste",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/hayley.suviste/sounds/842154/",
+   "excerpt_start": 660.92,
+   "bio": [
+    -2.2006,
+    0.5219,
+    -1.173
+   ],
+   "general": [
+    -0.8512,
+    -0.2376,
+    -1.5477
+   ]
+  },
+  {
+   "id": "fs-807476",
+   "audio": "audio/fs-807476.mp3",
+   "title": "Mid-May Dawn Chorus",
+   "habitat": "dawn",
+   "place": "Billericay",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 51.6442,
+   "lon": 0.4174,
+   "time_of_day": null,
+   "recordist": "naturenotesuk",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/naturenotesuk/sounds/807476/",
+   "excerpt_start": 1135.97,
+   "bio": [
+    -2.2694,
+    0.7818,
+    -0.7802
+   ],
+   "general": [
+    -0.5603,
+    -0.2122,
+    -2.0267
+   ]
+  },
+  {
+   "id": "fs-732957",
+   "audio": "audio/fs-732957.mp3",
+   "title": "AMBBird_suburban North Carolina dawn chorus 01b_Tim Kahn_ABDPA4061",
+   "habitat": "dawn",
+   "place": "West Raleigh",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 35.8799,
+   "lon": -78.6839,
+   "time_of_day": null,
+   "recordist": "tim.kahn",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/tim.kahn/sounds/732957/",
+   "excerpt_start": 2000.01,
+   "bio": [
+    -0.9868,
+    0.5239,
+    -1.2636
+   ],
+   "general": [
+    -0.7547,
+    -0.208,
+    -0.9148
+   ]
+  },
+  {
+   "id": "fs-191787",
+   "audio": "audio/fs-191787.mp3",
+   "title": "SpringCity5Am NL 130505_03.flac",
+   "habitat": "dawn",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6961,
+   "lon": 5.2634,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/191787/",
+   "excerpt_start": 1786.39,
+   "bio": [
+    -1.4589,
+    0.4071,
+    -1.0217
+   ],
+   "general": [
+    -0.565,
+    -0.2426,
+    -0.8687
+   ]
+  },
+  {
+   "id": "fs-593690",
+   "audio": "audio/fs-593690.mp3",
+   "title": "edge forest 726AM 210221_0257.wav",
+   "habitat": "dawn",
+   "place": "Heusden",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6574,
+   "lon": 5.1624,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/593690/",
+   "excerpt_start": 19.62,
+   "bio": [
+    -2.2812,
+    0.1475,
+    -1.1234
+   ],
+   "general": [
+    -0.8602,
+    0.0464,
+    -1.6684
+   ]
+  },
+  {
+   "id": "fs-640957",
+   "audio": "audio/fs-640957.mp3",
+   "title": "220514 - Dingle Ambience (edit 4 freesound).wav",
+   "habitat": "dawn",
+   "place": "Colwyn Bay",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 53.2925,
+   "lon": -3.7183,
+   "time_of_day": null,
+   "recordist": "sazman",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/sazman/sounds/640957/",
+   "excerpt_start": 509.38,
+   "bio": [
+    -2.2265,
+    0.7166,
+    -0.9237
+   ],
+   "general": [
+    -0.7941,
+    -0.3217,
+    -2.1695
+   ]
+  },
+  {
+   "id": "fs-815394",
+   "audio": "audio/fs-815394.mp3",
+   "title": "20250611 6h Marata de matí",
+   "habitat": "dawn",
+   "place": "Les Franqueses del Valles",
+   "country": "Spain",
+   "region": "Europe",
+   "lat": 41.6456,
+   "lon": 2.3222,
+   "time_of_day": null,
+   "recordist": "frederic.font",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/frederic.font/sounds/815394/",
+   "excerpt_start": 1075.5,
+   "bio": [
+    -2.0517,
+    0.0654,
+    -1.0441
+   ],
+   "general": [
+    -0.6352,
+    0.0114,
+    -0.6828
+   ]
+  },
+  {
+   "id": "fs-466240",
+   "audio": "audio/fs-466240.mp3",
+   "title": "river sunrise April NL 02_2 190407_1332.wav",
+   "habitat": "dawn",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7399,
+   "lon": 5.2324,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/466240/",
+   "excerpt_start": 544.33,
+   "bio": [
+    -2.5784,
+    -0.0511,
+    -1.202
+   ],
+   "general": [
+    -0.352,
+    0.0923,
+    -1.1645
+   ]
+  },
+  {
+   "id": "fs-772684",
+   "audio": "audio/fs-772684.mp3",
+   "title": "city park 0539 AM 240514_0714",
+   "habitat": "dawn",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7003,
+   "lon": 5.2545,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/772684/",
+   "excerpt_start": 82.5,
+   "bio": [
+    -1.98,
+    0.3138,
+    -0.8262
+   ],
+   "general": [
+    -0.7603,
+    0.1497,
+    -1.0544
+   ]
+  },
+  {
+   "id": "fs-150240",
+   "audio": "audio/fs-150240.mp3",
+   "title": "SamyeLings1203_birds.wav",
+   "habitat": "dawn",
+   "place": "Langholm",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 55.2883,
+   "lon": -3.1879,
+   "time_of_day": null,
+   "recordist": "MacFerret_20",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/MacFerret_20/sounds/150240/",
+   "excerpt_start": 11.5,
+   "bio": [
+    -2.4845,
+    0.0021,
+    -1.2734
+   ],
+   "general": [
+    -0.4893,
+    -0.1029,
+    -1.6335
+   ]
+  },
+  {
+   "id": "fs-692113",
+   "audio": "audio/fs-692113.mp3",
+   "title": "dawn_chorus_CH.wav",
+   "habitat": "dawn",
+   "place": "Therwil",
+   "country": "Switzerland",
+   "region": "Europe",
+   "lat": 47.4913,
+   "lon": 7.5704,
+   "time_of_day": null,
+   "recordist": "noisymichael",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/noisymichael/sounds/692113/",
+   "excerpt_start": 80.88,
+   "bio": [
+    -2.1929,
+    0.8413,
+    -0.7098
+   ],
+   "general": [
+    -0.6749,
+    -0.2779,
+    -2.0062
+   ]
+  },
+  {
+   "id": "fs-854487",
+   "audio": "audio/fs-854487.mp3",
+   "title": "Lima Morning City Ambience - Birds, Traffic and Pedestrians in Barranco Park (ORTF Stereo)",
+   "habitat": "dawn",
+   "place": "Surco",
+   "country": "Peru",
+   "region": "Americas",
+   "lat": -12.1483,
+   "lon": -77.0224,
+   "time_of_day": null,
+   "recordist": "cesar-gutierrez-99",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/cesar-gutierrez-99/sounds/854487/",
+   "excerpt_start": 194.53,
+   "bio": [
+    -0.6534,
+    0.3688,
+    0.1396
+   ],
+   "general": [
+    -0.428,
+    0.0493,
+    -0.3051
+   ]
+  },
+  {
+   "id": "fs-566143",
+   "audio": "audio/fs-566143.mp3",
+   "title": "river spring birds NL 02 190407_1332.wav",
+   "habitat": "dawn",
+   "place": "Hedel",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7389,
+   "lon": 5.2338,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/566143/",
+   "excerpt_start": 20.57,
+   "bio": [
+    -2.6775,
+    0.0347,
+    -1.1655
+   ],
+   "general": [
+    -0.2707,
+    0.1459,
+    -1.0115
+   ]
+  },
+  {
+   "id": "fs-204804",
+   "audio": "audio/fs-204804.mp3",
+   "title": "Tenzin's Dawn",
+   "habitat": "dawn",
+   "place": "Castlemaine",
+   "country": "Australia",
+   "region": "Oceania",
+   "lat": -37.1617,
+   "lon": 144.2535,
+   "time_of_day": null,
+   "recordist": "kangaroovindaloo",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/kangaroovindaloo/sounds/204804/",
+   "excerpt_start": 1351.0,
+   "bio": [
+    0.0651,
+    0.2129,
+    -0.9929
+   ],
+   "general": [
+    -0.5351,
+    -0.0697,
+    -1.4765
+   ]
+  },
+  {
+   "id": "fs-191723",
+   "audio": "audio/fs-191723.mp3",
+   "title": "shelton wayside county park dawn chorus.flac",
+   "habitat": "dawn",
+   "place": "Fossil",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 44.8947,
+   "lon": -120.0814,
+   "time_of_day": null,
+   "recordist": "tim.kahn",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/tim.kahn/sounds/191723/",
+   "excerpt_start": 1201.41,
+   "bio": [
+    -0.6758,
+    0.5673,
+    -1.5566
+   ],
+   "general": [
+    -0.7751,
+    -0.5643,
+    -1.9272
+   ]
+  },
+  {
+   "id": "fs-577362",
+   "audio": "audio/fs-577362.mp3",
+   "title": "edge-forest 712am DeNoise 210221-0257.wav",
+   "habitat": "dawn",
+   "place": "Heusden",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6568,
+   "lon": 5.1556,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/577362/",
+   "excerpt_start": 243.03,
+   "bio": [
+    -2.1611,
+    0.2159,
+    -1.2392
+   ],
+   "general": [
+    -0.6729,
+    -0.3466,
+    -2.1307
+   ]
+  },
+  {
+   "id": "fs-184797",
+   "audio": "audio/fs-184797.mp3",
+   "title": "Bruneau Dunes State Park Dawn Chorus, June 16, 2012.flac",
+   "habitat": "dawn",
+   "place": "Mountain Home Air Force Base",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 42.8954,
+   "lon": -115.697,
+   "time_of_day": null,
+   "recordist": "tim.kahn",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/tim.kahn/sounds/184797/",
+   "excerpt_start": 666.55,
+   "bio": [
+    -0.6773,
+    0.6696,
+    -1.4783
+   ],
+   "general": [
+    -0.4971,
+    -0.213,
+    -1.7534
+   ]
+  },
+  {
+   "id": "fs-187775",
+   "audio": "audio/fs-187775.mp3",
+   "title": "binaural-birds-07-05-2013.flac",
+   "habitat": "dawn",
+   "place": "Aberystwyth",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 52.4185,
+   "lon": -4.0732,
+   "time_of_day": null,
+   "recordist": "dwareing",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/dwareing/sounds/187775/",
+   "excerpt_start": 17.2,
+   "bio": [
+    -2.045,
+    0.2633,
+    -1.301
+   ],
+   "general": [
+    -0.6841,
+    0.0816,
+    -1.3363
+   ]
+  },
+  {
+   "id": "fs-560515",
+   "audio": "audio/fs-560515.mp3",
+   "title": "edge forest 706AM 210221_0257.wav",
+   "habitat": "dawn",
+   "place": "Heusden",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6583,
+   "lon": 5.1582,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/560515/",
+   "excerpt_start": 11.64,
+   "bio": [
+    -2.1475,
+    0.0479,
+    -1.2939
+   ],
+   "general": [
+    -1.0318,
+    -0.0131,
+    -1.5137
+   ]
+  },
+  {
+   "id": "fs-622804",
+   "audio": "audio/fs-622804.mp3",
+   "title": "Local Woodland Birds - A2",
+   "habitat": "dawn",
+   "place": "Orpington",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 51.38,
+   "lon": 0.0697,
+   "time_of_day": null,
+   "recordist": "nlux",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/nlux/sounds/622804/",
+   "excerpt_start": 1298.39,
+   "bio": [
+    -1.9972,
+    0.4168,
+    -1.137
+   ],
+   "general": [
+    -0.9818,
+    -0.0812,
+    -1.3594
+   ]
+  },
+  {
+   "id": "fs-271182",
+   "audio": "audio/fs-271182.mp3",
+   "title": "Dawn at Loch Ness ",
+   "habitat": "dawn",
+   "place": "Beauly",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 57.2544,
+   "lon": -4.501,
+   "time_of_day": null,
+   "recordist": "LolitaPerdurabo",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/LolitaPerdurabo/sounds/271182/",
+   "excerpt_start": 176.22,
+   "bio": [
+    -1.7212,
+    0.3595,
+    -1.0413
+   ],
+   "general": [
+    -0.655,
+    -0.0655,
+    -1.264
+   ]
+  },
+  {
+   "id": "fs-187769",
+   "audio": "audio/fs-187769.mp3",
+   "title": "binaural-birds-06-05-2013.flac",
+   "habitat": "dawn",
+   "place": "Aberystwyth",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 52.4183,
+   "lon": -4.0735,
+   "time_of_day": null,
+   "recordist": "dwareing",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/dwareing/sounds/187769/",
+   "excerpt_start": 112.87,
+   "bio": [
+    -1.8332,
+    0.3932,
+    -1.2534
+   ],
+   "general": [
+    -0.899,
+    0.1077,
+    -1.2331
+   ]
+  },
+  {
+   "id": "fs-564270",
+   "audio": "audio/fs-564270.mp3",
+   "title": "edge forest 707AM 210221_0257.wav",
+   "habitat": "dawn",
+   "place": "Heusden",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6581,
+   "lon": 5.1597,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/564270/",
+   "excerpt_start": 35.79,
+   "bio": [
+    -2.272,
+    0.0864,
+    -1.3665
+   ],
+   "general": [
+    -0.9511,
+    -0.0981,
+    -1.8604
+   ]
+  },
+  {
+   "id": "fs-591158",
+   "audio": "audio/fs-591158.mp3",
+   "title": "edge forest MONO 726AM 210221_0257.mp3",
+   "habitat": "dawn",
+   "place": "Heusden",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6554,
+   "lon": 5.1577,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/591158/",
+   "excerpt_start": 19.62,
+   "bio": [
+    -2.2757,
+    0.0102,
+    -1.1739
+   ],
+   "general": [
+    -0.9071,
+    -0.0879,
+    -1.7415
+   ]
+  },
+  {
+   "id": "fs-829265",
+   "audio": "audio/fs-829265.mp3",
+   "title": "Alpine River Valley Dawn Chorus - Woodpecker",
+   "habitat": "dawn",
+   "place": "Huez",
+   "country": "France",
+   "region": "Europe",
+   "lat": 45.0441,
+   "lon": 6.047,
+   "time_of_day": null,
+   "recordist": "iainmccurdy",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/iainmccurdy/sounds/829265/",
+   "excerpt_start": 152.78,
+   "bio": [
+    -2.0956,
+    0.5404,
+    -0.8375
+   ],
+   "general": [
+    -0.8732,
+    0.0844,
+    -1.3939
+   ]
+  },
+  {
+   "id": "fs-639985",
+   "audio": "audio/fs-639985.mp3",
+   "title": "Forest birds singing. Dawn chorus",
+   "habitat": "dawn",
+   "place": "Davenport",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 47.9137,
+   "lon": -118.3002,
+   "time_of_day": null,
+   "recordist": "SamsterBirdies",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/SamsterBirdies/sounds/639985/",
+   "excerpt_start": 175.68,
+   "bio": [
+    -0.8088,
+    0.6321,
+    -1.5316
+   ],
+   "general": [
+    -0.7636,
+    -0.303,
+    -1.9556
+   ]
+  },
+  {
+   "id": "fs-182541",
+   "audio": "audio/fs-182541.mp3",
+   "title": "woodpecker in small forest 120301_02_11am.wav",
+   "habitat": "dawn",
+   "place": "Vught",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6566,
+   "lon": 5.3198,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/182541/",
+   "excerpt_start": 77.38,
+   "bio": [
+    -2.3419,
+    0.2417,
+    -1.3151
+   ],
+   "general": [
+    -0.76,
+    0.052,
+    -1.528
+   ]
+  },
+  {
+   "id": "fs-632259",
+   "audio": "audio/fs-632259.mp3",
+   "title": "Nightingale Song.wav",
+   "habitat": "dawn",
+   "place": "Bewbush",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "lat": 51.0765,
+   "lon": -0.2453,
+   "time_of_day": null,
+   "recordist": "ollytc",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/ollytc/sounds/632259/",
+   "excerpt_start": 9.7,
+   "bio": [
+    -2.1174,
+    0.6406,
+    -0.6106
+   ],
+   "general": [
+    -0.7684,
+    -0.5152,
+    -2.0084
+   ]
+  },
+  {
+   "id": "fs-828518",
+   "audio": "audio/fs-828518.mp3",
+   "title": "Sous les arbres (Under the Trees)",
+   "habitat": "dawn",
+   "place": "Castellane",
+   "country": "France",
+   "region": "Europe",
+   "lat": 43.7766,
+   "lon": 6.36,
+   "time_of_day": null,
+   "recordist": "iainmccurdy",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/iainmccurdy/sounds/828518/",
+   "excerpt_start": 359.88,
+   "bio": [
+    -2.0635,
+    0.7907,
+    -0.8084
+   ],
+   "general": [
+    -0.6387,
+    -0.2486,
+    -2.1825
+   ]
+  },
+  {
+   "id": "fs-639984",
+   "audio": "audio/fs-639984.mp3",
+   "title": "Birds forest singing. Dawn chorus.",
+   "habitat": "dawn",
+   "place": "Davenport",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 47.9147,
+   "lon": -118.2976,
+   "time_of_day": null,
+   "recordist": "SamsterBirdies",
+   "licence": "CC0 1.0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "source": "https://freesound.org/people/SamsterBirdies/sounds/639984/",
+   "excerpt_start": 297.38,
+   "bio": [
+    -0.832,
+    0.7338,
+    -1.5355
+   ],
+   "general": [
+    -0.6295,
+    -0.2312,
+    -1.7862
+   ]
+  },
+  {
+   "id": "fs-683584",
+   "audio": "audio/fs-683584.mp3",
+   "title": "Ash Cave Sunrise - distant Waterfall behind me - creek just to the left - woods birds to my front 4-7-23.wav",
+   "habitat": "dawn",
+   "place": "McArthur",
+   "country": "United States",
+   "region": "Americas",
+   "lat": 39.4025,
+   "lon": -82.5373,
+   "time_of_day": null,
+   "recordist": "Ambient-X",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/Ambient-X/sounds/683584/",
+   "excerpt_start": 66.0,
+   "bio": [
+    0.3124,
+    -0.641,
+    -0.0011
+   ],
+   "general": [
+    0.04,
+    -1.0776,
+    -0.4134
+   ]
+  },
+  {
+   "id": "fs-619555",
+   "audio": "audio/fs-619555.mp3",
+   "title": "edge forest 0737AM 210221_0257.wav",
+   "habitat": "dawn",
+   "place": "Heusden",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.6572,
+   "lon": 5.1576,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/619555/",
+   "excerpt_start": 24.47,
+   "bio": [
+    -2.2391,
+    0.0067,
+    -1.3665
+   ],
+   "general": [
+    -0.8368,
+    -0.0242,
+    -1.7432
+   ]
+  },
+  {
+   "id": "fs-233348",
+   "audio": "audio/fs-233348.mp3",
+   "title": "HardcoreFarCity NL LONG 140330_0146.flac",
+   "habitat": "dawn",
+   "place": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "lat": 51.7005,
+   "lon": 5.2907,
+   "time_of_day": null,
+   "recordist": "klankbeeld",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://freesound.org/people/klankbeeld/sounds/233348/",
+   "excerpt_start": 779.85,
+   "bio": [
+    -0.8222,
+    -0.9163,
+    0.6457
+   ],
+   "general": [
+    -0.0543,
+    -0.4265,
+    0.9417
+   ]
+  }
+ ]
+}

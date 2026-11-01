@@ -1,0 +1,20 @@
+# Python / uv
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Generated data (large, reproducible)
+data/raw/
+data/cache/
+data/soundscape_clips/
+data/own_recordings/
+bacpipe_results/
+bacpipe/model_checkpoints/
+
+# Keep data/manifest.csv, data/candidates.csv and data/web/ under version control
+
+# macOS
+.DS_Store
