@@ -143,8 +143,8 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 #globe.on { opacity: 1; transform: none; }
 #globe canvas {
   display: block; width: 100%; height: 100%;
-  -webkit-mask-image: radial-gradient(circle at 50% 50%, #000 52%, transparent 70%);
-  mask-image: radial-gradient(circle at 50% 50%, #000 52%, transparent 70%);
+  -webkit-mask-image: radial-gradient(circle at 50% 50%, #000 64%, transparent 71%);
+  mask-image: radial-gradient(circle at 50% 50%, #000 64%, transparent 71%);
 }
 #coords {
   position: absolute; left: 0; right: 0; bottom: 2%; text-align: center;
@@ -599,12 +599,12 @@ const gS = new THREE.Scene(), gC = new THREE.PerspectiveCamera(35, 1, 0.05, 50);
 const D2R = Math.PI / 180;
 const vecLL = (lat, lon, r = 1) => new THREE.Vector3(r * Math.cos(lat * D2R) * Math.sin(lon * D2R), r * Math.sin(lat * D2R), r * Math.cos(lat * D2R) * Math.cos(lon * D2R));
 function radialTex(stops) {
-  const c = document.createElement("canvas"); c.width = c.height = 128; const x = c.getContext("2d");
-  const g = x.createRadialGradient(64, 64, 0, 64, 64, 64); stops.forEach(([o, col]) => g.addColorStop(o, col));
-  x.fillStyle = g; x.fillRect(0, 0, 128, 128); return new THREE.CanvasTexture(c);
+  const c = document.createElement("canvas"); c.width = c.height = 256; const x = c.getContext("2d");
+  const g = x.createRadialGradient(128, 128, 0, 128, 128, 128); stops.forEach(([o, col]) => g.addColorStop(o, col));
+  x.fillStyle = g; x.fillRect(0, 0, 256, 256); return new THREE.CanvasTexture(c);
 }
 { // ocean, land dots, atmosphere
-  const ocean = new THREE.Mesh(new THREE.SphereGeometry(0.992, 64, 64), new THREE.MeshBasicMaterial({ color: "#16305a", transparent: true, opacity: 0.92 }));
+  const ocean = new THREE.Mesh(new THREE.SphereGeometry(0.992, 64, 64), new THREE.MeshBasicMaterial({ color: "#071226", transparent: true, opacity: 0.97 }));
   ocean.renderOrder = -1; gS.add(ocean);
   const bin = atob(LAND_MASK), NM = 60000, gold = Math.PI * (3 - Math.sqrt(5)), pos = [];
   for (let i = 0; i < NM; i++) {
@@ -614,10 +614,10 @@ function radialTex(stops) {
   }
   const g = new THREE.BufferGeometry(); g.setAttribute("position", new THREE.Float32BufferAttribute(pos, 3));
   gS.add(new THREE.Points(g, new THREE.PointsMaterial({
-    size: 0.016, map: radialTex([[0, "rgba(255,255,255,1)"], [0.45, "rgba(255,255,255,0.9)"], [1, "rgba(255,255,255,0)"]]),
-    color: "#8ad8f5", transparent: true, opacity: 0.9, depthWrite: false, alphaTest: 0.05 })));
+    size: 0.021, map: radialTex([[0, "rgba(255,255,255,1)"], [0.45, "rgba(255,255,255,0.9)"], [1, "rgba(255,255,255,0)"]]),
+    color: "#b6ecff", transparent: true, opacity: 1, depthWrite: false, alphaTest: 0.05 })));
   const glow = new THREE.Sprite(new THREE.SpriteMaterial({
-    map: radialTex([[0, "rgba(103,232,249,0)"], [0.68, "rgba(103,232,249,0)"], [0.735, "rgba(103,232,249,0.55)"], [0.8, "rgba(122,162,247,0.12)"], [1, "rgba(122,162,247,0)"]]),
+    map: radialTex([[0, "rgba(120,210,255,0)"], [0.715, "rgba(120,210,255,0)"], [0.728, "rgba(170,230,255,0.95)"], [0.745, "rgba(103,200,249,0.4)"], [0.8, "rgba(103,170,247,0.1)"], [1, "rgba(103,170,247,0)"]]),
     transparent: true, depthWrite: false, blending: THREE.AdditiveBlending }));
   glow.scale.setScalar(2.75); glow.renderOrder = -2; gS.add(glow);
 }
