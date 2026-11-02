@@ -657,9 +657,8 @@ function globeFly(lat, lon) {
 }
 function resizeGlobe() { const w = globeEl.clientWidth; if (w) { gR.setSize(w, w, false); gC.aspect = 1; gC.updateProjectionMatrix(); } }
 addEventListener("resize", resizeGlobe);
-// visible from the start, turning slowly until the first recording is picked
+// visible from the start, turning with the map until the first recording is picked
 globeEl.classList.add("on"); resizeGlobe();
-let globeLast = 0;
 function globeFrame(now) {
   if (!globeEl.classList.contains("on")) return;
   if (flight) {
@@ -676,8 +675,10 @@ function globeFrame(now) {
   } else if (arc.material.opacity > 0 && now - arcFadeStart > 1200) {
     arc.material.opacity = Math.max(0, arc.material.opacity - 0.01);
   }
-  if (!flight && !lastLoc && !reduced) view.lon += Math.min(now - (globeLast || now), 100) * 0.006;
-  globeLast = now;
+  // turns with the map: same direction (west to east, like the real Earth) and same speed.
+  // OrbitControls (three r128) turns 360 / 3600 * autoRotateSpeed degrees every frame; match it per frame
+  // so the two stay in step on 60 Hz and 120 Hz screens alike
+  if (!flight && !lastLoc && controls.autoRotate) view.lon -= 0.1 * controls.autoRotateSpeed;
   pinRipples.forEach(r => {
     r.userData.age = (r.userData.age + 0.007) % 1; const a = r.userData.age;
     r.scale.setScalar(1 + a * 3.5); r.material.opacity = 0.45 * (1 - a);
