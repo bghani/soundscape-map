@@ -604,7 +604,7 @@ function radialTex(stops) {
   x.fillStyle = g; x.fillRect(0, 0, 256, 256); return new THREE.CanvasTexture(c);
 }
 { // ocean, land dots, atmosphere
-  const ocean = new THREE.Mesh(new THREE.SphereGeometry(0.992, 64, 64), new THREE.MeshBasicMaterial({ color: "#071226", transparent: true, opacity: 0.97 }));
+  const ocean = new THREE.Mesh(new THREE.SphereGeometry(0.992, 64, 64), new THREE.MeshBasicMaterial({ color: "#0d2548", transparent: true, opacity: 0.97 }));
   ocean.renderOrder = -1; gS.add(ocean);
   const bin = atob(LAND_MASK), NM = 60000, gold = Math.PI * (3 - Math.sqrt(5)), pos = [];
   for (let i = 0; i < NM; i++) {
