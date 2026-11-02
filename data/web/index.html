@@ -325,8 +325,10 @@ const dir = new THREE.DirectionalLight(0xffffff, 0.6); dir.position.set(4, 6, 8)
   scene.add(new THREE.Points(g, new THREE.PointsMaterial({ color: 0x9fb7ff, size: 0.12, transparent: true, opacity: 0.55 })));
 }
 
+// dot size shrinks gently as the map fills up: 0.045 at ~300 points, never below 70% of that
+const DOT_SIZE = 0.045 * Math.min(1, Math.max(0.7, Math.pow(300 / N, 0.35)));
 const mesh = new THREE.InstancedMesh(
-  new THREE.SphereGeometry(0.045, 14, 14),
+  new THREE.SphereGeometry(DOT_SIZE, 14, 14),
   new THREE.MeshPhongMaterial({ color: 0xffffff, shininess: 90, emissive: new THREE.Color("#12305a"), emissiveIntensity: 0.5, transparent: true, opacity: 0.85 }),
   N);
 scene.add(mesh);
