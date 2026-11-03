@@ -476,7 +476,10 @@ function pickJourney() {
     return ps.reduce((a, p) => Math.hypot(...p[MODEL_KEYS[0]].map((v, k) => v - c[k])) < Math.hypot(...a[MODEL_KEYS[0]].map((v, k) => v - c[k])) ? p : a).idx;
   });
 }
-const JOURNEY = pickJourney();
+// REEL MODE (temporary): fixed stops for the Instagram reel. To undo, put back: const JOURNEY = pickJourney();
+const REEL_IDS = ["fs-508987", "fs-639284", "fs-812096", "fs-630429", "fs-797762"];
+const REEL = REEL_IDS.map(id => POINTS.find(p => p.id === id)).filter(Boolean).map(p => p.idx);
+const JOURNEY = REEL.length ? REEL : pickJourney();
 function startJourney() {
   ensureAudio(); stopSound(); stopJourney();
   const token = {}; state.journey = { token, voices: [], timers: [] };
