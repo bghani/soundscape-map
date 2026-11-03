@@ -465,22 +465,17 @@ const isPlaying = () => voice && actx.currentTime < voice.t0 + voice.d;
 
 /* ---------- journey ---------- */
 const journeyBtn = document.getElementById("journey");
+// a fresh journey every time: one random recording from each soundscape, always ending in the tropics
 function pickJourney() {
-  const centre = h => { const ps = POINTS.filter(p => p.habitat === h); return [0, 1, 2].map(k => ps.reduce((a, p) => a + p[MODEL_KEYS[0]][k], 0) / ps.length); };
-    const order = ["city", "market", "dawn", "reef", "rainforest"].filter(h => HABITATS[h]);
-  Object.keys(HABITATS).forEach(h => { if (!order.includes(h)) order.push(h); });
+  const order = ["city", "market", "dawn", "reef", "rainforest"].filter(h => HABITATS[h]);
+  Object.keys(HABITATS).forEach(h => { if (!order.includes(h)) order.splice(order.length - 1, 0, h); });
   return order.map(h => {
     const ps = POINTS.filter(p => p.habitat === h);
-    if (h === "city") return ps.reduce((a, p) => Math.hypot(p.lat - 52.16, p.lon - 4.49) < Math.hypot(a.lat - 52.16, a.lon - 4.49) ? p : a).idx;
-    const c = centre(h);
-    return ps.reduce((a, p) => Math.hypot(...p[MODEL_KEYS[0]].map((v, k) => v - c[k])) < Math.hypot(...a[MODEL_KEYS[0]].map((v, k) => v - c[k])) ? p : a).idx;
+    return ps[Math.floor(Math.random() * ps.length)].idx;
   });
 }
-// REEL MODE (temporary): fixed stops for the Instagram reel. To undo, put back: const JOURNEY = pickJourney();
-const REEL_IDS = ["fs-508987", "fs-639284", "fs-812096", "fs-630429", "fs-797762"];
-const REEL = REEL_IDS.map(id => POINTS.find(p => p.id === id)).filter(Boolean).map(p => p.idx);
-const JOURNEY = REEL.length ? REEL : pickJourney();
 function startJourney() {
+  const JOURNEY = pickJourney();
   ensureAudio(); stopSound(); stopJourney();
   const token = {}; state.journey = { token, voices: [], timers: [] };
   journeyBtn.textContent = "Loading journey…";
