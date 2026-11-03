@@ -612,7 +612,7 @@ function bindSeg(id, key, onChange) {
   }));
 }
 const note = document.getElementById("model-note");
-const MAP_NOTE = "On the world map, dots sit where they were recorded. The model still picks the “most similar” sounds on each card.";
+const MAP_NOTE = "On the world map, dots sit where they were recorded.";
 const showNote = () => { note.textContent = state.view === "place" ? MAP_NOTE : modelNote(state.model); };
 bindSeg("model-seg", "model", () => {
   if (state.view === "sound") {
