@@ -754,7 +754,7 @@ const mapLand = (() => {
   const pts = new THREE.Points(g, new THREE.PointsMaterial({ color: "#8fdcff", size: 0.022, transparent: true, opacity: 0, depthWrite: false }));
   pts.visible = false; scene.add(pts); return pts;
 })();
-const mapView = { dist: 10, dotK: 1, land: 0, anim: null, saved: null };
+const mapView = { dist: 10, mapDotK: 1, dotK: 1, land: 0, anim: null, saved: null };
 function mapCameraDistance() {
   const t = Math.tan(camera.fov / 2 * D2R), fill = camera.aspect < 1 ? 0.94 : 0.74;   // phones: use the full width
   return Math.min(60, Math.max(6, MAP_W / (fill * 2 * t * camera.aspect), MAP_H / (0.62 * 2 * t)));
@@ -778,7 +778,8 @@ bindSeg("view-seg", "view", () => {
     controls.mouseButtons.LEFT = THREE.MOUSE.PAN; controls.touches.ONE = THREE.TOUCH.PAN;
     controls.maxDistance = mapView.dist * 1.6; controls.minDistance = 1.5;
     // keep dots about the same size on screen when the camera pulls back for the map
-    flyCamera(new THREE.Vector3(0, 0, mapView.dist), new THREE.Vector3(0, 0, 0), Math.pow(mapView.dist / 8.5, 0.8), 0.35, 1400);
+    mapView.mapDotK = Math.pow(mapView.dist / 8.5, 0.8);
+    flyCamera(new THREE.Vector3(0, 0, mapView.dist), new THREE.Vector3(0, 0, 0), mapView.mapDotK, 0.35, 1400);
   } else {
     controls.enableRotate = true; controls.enablePan = false;
     controls.mouseButtons.LEFT = THREE.MOUSE.ROTATE; controls.touches.ONE = THREE.TOUCH.ROTATE;
@@ -797,6 +798,11 @@ function mapFrame(now) {
     mapView.land = a.fromLand + (a.toLand - a.fromLand) * e;
     if (t === 1) { mapView.anim = null; controls.enabled = true; }
   }
+  // on the map, zooming in keeps dots (and the dotted continents) the same size on screen,
+  // so they spread apart and the gaps between neighbouring recordings open up
+  const zoom = !mapView.anim && state.view === "place" ? camera.position.distanceTo(controls.target) / mapView.dist : 1;
+  if (!mapView.anim && state.view === "place") mapView.dotK = mapView.mapDotK * zoom;
+  mapLand.material.size = 0.022 * zoom;
   mapLand.material.opacity = mapView.land;
   mapLand.visible = mapView.land > 0.005;
 }
