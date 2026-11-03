@@ -175,7 +175,7 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   }
   .group + .group { margin-top: 0; }
   .group-name { font-size: 11.5px; margin-bottom: 4px; }
-  .group:nth-child(3) { grid-column: 1 / -1; }
+  .legend-group, .view-group { grid-column: 1 / -1; }
   #legend { gap: 2px 10px; font-size: 11.5px; }
   .seg button { font-size: 12.5px; padding: 5px 4px; }
   .model-note { display: none; }
@@ -207,6 +207,13 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   </header>
 
   <section id="controls" class="panel" aria-label="Map settings">
+    <div class="group view-group">
+      <div class="group-name">Arrange points by</div>
+      <div class="seg" id="view-seg">
+        <button data-view="sound" aria-pressed="true">How they sound</button>
+        <button data-view="place" aria-pressed="false">Where they are</button>
+      </div>
+    </div>
     <div class="group">
       <div class="group-name">Which AI model is listening</div>
       <div class="seg" id="model-seg"></div>
@@ -220,7 +227,7 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
         <button data-color="time" aria-pressed="false">Time of day</button>
       </div>
     </div>
-    <div class="group"><div id="legend"></div></div>
+    <div class="group legend-group"><div id="legend"></div></div>
     <div class="actions">
       <button class="btn primary" id="journey">Play a journey</button>
       <button class="btn" id="surprise">Surprise me</button>
@@ -297,7 +304,7 @@ document.getElementById("model-seg").innerHTML = MODEL_KEYS.map((k, n) =>
 
 /* ---------- state ---------- */
 const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
-const state = { model: MODEL_KEYS[0], color: "habitat", sel: null, hover: null, journey: null };
+const state = { model: MODEL_KEYS[0], color: "habitat", view: "sound", sel: null, hover: null, journey: null };
 
 /* ---------- three.js scene ---------- */
 const viz = document.getElementById("viz");
@@ -316,7 +323,7 @@ controls.minDistance = 2.5; controls.maxDistance = 16;
 controls.autoRotate = !reduced; controls.autoRotateSpeed = 0.35;
 let idleTimer;
 controls.addEventListener("start", () => { controls.autoRotate = false; clearTimeout(idleTimer); });
-controls.addEventListener("end", () => { idleTimer = setTimeout(() => { controls.autoRotate = !reduced; }, 6000); });
+controls.addEventListener("end", () => { idleTimer = setTimeout(() => { controls.autoRotate = !reduced && state.view === "sound"; }, 6000); });
 
 scene.add(new THREE.AmbientLight(0xffffff, 0.9));
 const dir = new THREE.DirectionalLight(0xffffff, 0.6); dir.position.set(4, 6, 8); scene.add(dir);
@@ -603,8 +610,11 @@ function bindSeg(id, key, onChange) {
 }
 const note = document.getElementById("model-note");
 bindSeg("model-seg", "model", () => {
-  POINTS.forEach((p, i) => { from[i].copy(cur[i]); to[i].set(...p[state.model]); });
-  morphStart = performance.now(); note.textContent = modelNote(state.model);
+  if (state.view === "sound") {
+    POINTS.forEach((p, i) => { from[i].copy(cur[i]); to[i].set(...p[state.model]); });
+    morphStart = performance.now();
+  }
+  note.textContent = modelNote(state.model);
   if (state.sel !== null) renderCard();
 });
 bindSeg("color-seg", "color", () => { applyColors(); if (state.sel !== null) renderCard(); });
@@ -709,6 +719,88 @@ function globeFrame(now) {
   gR.render(gS, gC);
 }
 
+/* ---------- world map: the same dots morph onto an Equal Earth map ---------- */
+// Equal Earth projection (Šavrič, Patterson & Jenny 2018): continents at their true relative size
+function equalEarth(lat, lon) {
+  const A1 = 1.340264, A2 = -0.081106, A3 = 0.000893, A4 = 0.003796, M = Math.sqrt(3) / 2;
+  const th = Math.asin(M * Math.sin(lat * D2R)), t2 = th * th, t6 = t2 * t2 * t2;
+  const x = 2 * Math.sqrt(3) * lon * D2R * Math.cos(th) / (3 * (A1 + 3 * A2 * t2 + t6 * (7 * A3 + 9 * A4 * t2)));
+  const y = th * (A1 + A2 * t2 + t6 * (A3 + A4 * t2));
+  return [x, y];
+}
+const MAP_S = 2.0;                                   // world units per projection unit (map is ~10.8 x 5.3)
+const MAP_W = 2.7066 * 2 * MAP_S, MAP_H = 1.3173 * 2 * MAP_S;
+// recordings from the same spot are spread in a small spiral so every one stays tappable
+const mapPos = (() => {
+  const cells = new Map();
+  return POINTS.map(p => {
+    const [x, y] = equalEarth(p.lat, p.lon);
+    const key = `${Math.round(x * MAP_S / 0.06)},${Math.round(y * MAP_S / 0.06)}`;
+    const k = cells.get(key) || 0; cells.set(key, k + 1);
+    const r = 0.05 * Math.sqrt(k), a = k * 2.39996;
+    return new THREE.Vector3(x * MAP_S + r * Math.cos(a), y * MAP_S + r * Math.sin(a), 0);
+  });
+})();
+// faint dotted continents, from the same land data as the globe
+const mapLand = (() => {
+  const bin = atob(LAND_MASK), NM = 60000, gold = Math.PI * (3 - Math.sqrt(5)), pos = [];
+  for (let i = 0; i < NM; i++) {
+    if (!(bin.charCodeAt(i >> 3) & (1 << (i & 7)))) continue;
+    const lat = Math.asin(1 - (i + 0.5) / NM * 2) / D2R, lon = (((i * gold) / D2R) % 360 + 540) % 360 - 180;
+    if (lat < -60) continue;                         // leave out Antarctica: no recordings there, and it hogs the bottom
+    const [x, y] = equalEarth(lat, lon); pos.push(x * MAP_S, y * MAP_S, -0.03);
+  }
+  const g = new THREE.BufferGeometry(); g.setAttribute("position", new THREE.Float32BufferAttribute(pos, 3));
+  const pts = new THREE.Points(g, new THREE.PointsMaterial({ color: "#8fdcff", size: 0.022, transparent: true, opacity: 0, depthWrite: false }));
+  pts.visible = false; scene.add(pts); return pts;
+})();
+const mapView = { dist: 10, dotK: 1, land: 0, anim: null, saved: null };
+function mapCameraDistance() {
+  const t = Math.tan(camera.fov / 2 * D2R), fill = camera.aspect < 1 ? 0.94 : 0.74;   // phones: use the full width
+  return Math.min(60, Math.max(6, MAP_W / (fill * 2 * t * camera.aspect), MAP_H / (0.62 * 2 * t)));
+}
+// camera, dot size and the continents all follow the same eased timeline, so it looks the same at any frame rate
+function flyCamera(toPos, toTarget, toDotK, toLand, ms) {
+  mapView.anim = { t0: performance.now(), ms: reduced ? 1 : ms,
+    fromPos: camera.position.clone(), fromTarget: controls.target.clone(), toPos, toTarget,
+    fromDotK: mapView.dotK, toDotK, fromLand: mapView.land, toLand };
+  controls.enabled = false;
+}
+bindSeg("view-seg", "view", () => {
+  const toMap = state.view === "place";
+  POINTS.forEach((p, i) => { from[i].copy(cur[i]); to[i].copy(toMap ? mapPos[i] : new THREE.Vector3(...p[state.model])); });
+  morphStart = performance.now();
+  clearTimeout(idleTimer);
+  if (toMap) {
+    mapView.saved = { pos: camera.position.clone(), target: controls.target.clone() };
+    mapView.dist = mapCameraDistance();
+    controls.autoRotate = false; controls.enableRotate = false; controls.enablePan = true;
+    controls.mouseButtons.LEFT = THREE.MOUSE.PAN; controls.touches.ONE = THREE.TOUCH.PAN;
+    controls.maxDistance = mapView.dist * 1.6; controls.minDistance = 1.5;
+    // keep dots about the same size on screen when the camera pulls back for the map
+    flyCamera(new THREE.Vector3(0, 0, mapView.dist), new THREE.Vector3(0, 0, 0), Math.pow(mapView.dist / 8.5, 0.8), 0.35, 1400);
+  } else {
+    controls.enableRotate = true; controls.enablePan = false;
+    controls.mouseButtons.LEFT = THREE.MOUSE.ROTATE; controls.touches.ONE = THREE.TOUCH.ROTATE;
+    controls.maxDistance = 16; controls.minDistance = 2.5;
+    const back = mapView.saved || { pos: new THREE.Vector3(0, 0.4, 8.5), target: new THREE.Vector3() };
+    flyCamera(back.pos, back.target, 1, 0, 1400);
+    idleTimer = setTimeout(() => { controls.autoRotate = !reduced && state.view === "sound"; }, 3000);
+  }
+});
+function mapFrame(now) {
+  if (mapView.anim) {
+    const a = mapView.anim, t = Math.min((now - a.t0) / a.ms, 1), e = t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+    camera.position.lerpVectors(a.fromPos, a.toPos, e); controls.target.lerpVectors(a.fromTarget, a.toTarget, e);
+    camera.lookAt(controls.target);
+    mapView.dotK = a.fromDotK + (a.toDotK - a.fromDotK) * e;
+    mapView.land = a.fromLand + (a.toLand - a.fromLand) * e;
+    if (t === 1) { mapView.anim = null; controls.enabled = true; }
+  }
+  mapLand.material.opacity = mapView.land;
+  mapLand.visible = mapView.land > 0.005;
+}
+
 /* ---------- explainer ---------- */
 const explain = document.getElementById("explain");
 // story links: the three places in the intro play their recording (desktop; the phone copy below is plain text)
@@ -743,6 +835,7 @@ function frame(now) {
   for (let i = 0; i < N; i++) {
     let k = reduced ? 1 : 1 + Math.sin(s * 1.8 + phases[i]) * 0.22;
     if (i === state.sel) k *= 1.35;
+    k *= mapView.dotK;
     sc.setScalar(k); m4.compose(cur[i], q, sc); mesh.setMatrixAt(i, m4);
   }
   mesh.instanceMatrix.needsUpdate = true;
@@ -751,24 +844,27 @@ function frame(now) {
   selDot.visible = hasSel;
   ripples.forEach(r => { r.visible = hasSel && !reduced; });
   if (hasSel) {
-    selDot.position.copy(cur[state.sel]);
+    selDot.position.copy(cur[state.sel]); selDot.scale.setScalar(mapView.dotK);
     ripples.forEach(r => {
       r.userData.age = (r.userData.age + 0.008) % 1; const a = r.userData.age;
       r.position.copy(cur[state.sel]); r.quaternion.copy(camera.quaternion);
-      r.scale.setScalar(1 + a * 4); r.material.opacity = 0.2 * (1 - a);
+      r.scale.setScalar((1 + a * 4) * mapView.dotK); r.material.opacity = 0.2 * (1 - a);
     });
-    goal.copy(cur[state.sel]).multiplyScalar(0.6);
-    controls.target.lerp(goal, 0.03);
+    if (state.view === "sound" && !mapView.anim) {
+      goal.copy(cur[state.sel]).multiplyScalar(0.6);
+      controls.target.lerp(goal, 0.03);
+    }
   }
   cross.visible = state.hover !== null && state.hover !== state.sel;
-  if (cross.visible) { cross.position.copy(cur[state.hover]); cross.quaternion.copy(camera.quaternion); }
+  if (cross.visible) { cross.position.copy(cur[state.hover]); cross.quaternion.copy(camera.quaternion); cross.scale.setScalar(mapView.dotK); }
 
   const bar = document.getElementById("bar");
   if (bar) bar.style.width = (isPlaying() && voice.index === state.sel ? Math.min((actx.currentTime - voice.t0) / voice.d, 1) * 100 : 0) + "%";
   if (voice && !isPlaying()) { voice = null; renderPlayButton(); }
   drawSpec();
 
-  controls.update();
+  mapFrame(now);
+  if (!mapView.anim) controls.update();
   renderer.render(scene, camera);
   globeFrame(now);
 }
