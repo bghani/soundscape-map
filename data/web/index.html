@@ -516,6 +516,10 @@ document.getElementById("surprise").addEventListener("click", () => { stopJourne
 
 /* ---------- card ---------- */
 function neighbours(i) {
+  // true nearest neighbours in the model's full embedding space, precomputed in the notebook
+  const nn = POINTS[i].near?.[state.model];
+  if (nn) return nn.slice(0, 3);
+  // fallback for data built before that existed: nearest on the 3D map
   const P = POINTS.map(p => p[state.model]);
   return POINTS.map((p, j) => [j, Math.hypot(...P[j].map((c, k) => c - P[i][k]))])
     .filter(([j]) => j !== i).sort((a, b) => a[1] - b[1]).slice(0, 3).map(([j]) => j);
