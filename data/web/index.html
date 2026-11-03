@@ -539,7 +539,7 @@ function renderCard() {
     <div class="near-title">Sounds this AI model hears as most similar</div>
     <div id="near">${neighbours(state.sel).map(j => { const q = POINTS[j];
       return `<button data-i="${j}"><i style="background:${colorOf(q)}"></i>${esc(HABITATS[q.habitat].name)}, ${esc(q.place)}</button>`; }).join("")}</div>
-    <p class="credit">Recorded by <a href="${esc(p.source)}" target="_blank" rel="noopener">${esc(p.recordist)}</a>, <a href="${esc(p.licence_url)}" target="_blank" rel="noopener">${esc(p.licence)}</a></p>`;
+    <p class="credit">Recorded by ${p.source ? `<a href="${esc(p.source)}" target="_blank" rel="noopener">${esc(p.recordist)}</a>` : esc(p.recordist)}, <a href="${esc(p.licence_url)}" target="_blank" rel="noopener">${esc(p.licence)}</a></p>`;
   card.querySelector("#playbtn").addEventListener("click", () => {
     if (state.journey) { stopJourney(); return; }
     if ((isPlaying() && voice.index === state.sel) || loading === state.sel) stopSound(); else play(state.sel);
