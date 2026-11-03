@@ -210,13 +210,6 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   </header>
 
   <section id="controls" class="panel" aria-label="Map settings">
-    <div class="group view-group">
-      <div class="group-name">Arrange points by</div>
-      <div class="seg" id="view-seg">
-        <button data-view="sound" aria-pressed="true">How they sound</button>
-        <button data-view="place" aria-pressed="false">Where they are</button>
-      </div>
-    </div>
     <div class="group model-group">
       <div class="group-name">Which AI model is listening</div>
       <div class="seg" id="model-seg"></div>
@@ -231,6 +224,13 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
       </div>
     </div>
     <div class="group legend-group"><div id="legend"></div></div>
+    <div class="group view-group">
+      <div class="group-name">Show the recordings on</div>
+      <div class="seg" id="view-seg">
+        <button data-view="sound" aria-pressed="true">Sound map</button>
+        <button data-view="place" aria-pressed="false">World map</button>
+      </div>
+    </div>
     <div class="actions">
       <button class="btn primary" id="journey">Play a journey</button>
       <button class="btn" id="surprise">Surprise me</button>
@@ -612,7 +612,7 @@ function bindSeg(id, key, onChange) {
   }));
 }
 const note = document.getElementById("model-note");
-const MAP_NOTE = "On the world map, dots sit where they were recorded.";
+const MAP_NOTE = "On the world map, dots sit where they were recorded. The model still picks the “most similar” sounds on each card.";
 const showNote = () => { note.textContent = state.view === "place" ? MAP_NOTE : modelNote(state.model); };
 bindSeg("model-seg", "model", () => {
   if (state.view === "sound") {
