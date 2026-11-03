@@ -84,6 +84,9 @@ header p { margin: 0; color: var(--muted); max-width: 32rem; }
   background: none; border: 0; border-radius: 8px; padding: 6px 6px; cursor: pointer; white-space: nowrap;
 }
 .seg button[aria-pressed="true"] { background: var(--chip-on); color: var(--ink); }
+/* on the world map the model doesn't move the dots, so its buttons step back */
+.model-group .seg, .model-group .group-name { transition: opacity .4s; }
+#controls.map-view .model-group .seg, #controls.map-view .model-group .group-name { opacity: 0.45; }
 .model-note { font-size: 12.5px; color: var(--muted); margin-top: 6px; min-height: 2.6em; }
 #legend { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 12.5px; color: var(--muted); }
 #legend span { display: inline-flex; align-items: center; gap: 6px; }
@@ -214,7 +217,7 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
         <button data-view="place" aria-pressed="false">Where they are</button>
       </div>
     </div>
-    <div class="group">
+    <div class="group model-group">
       <div class="group-name">Which AI model is listening</div>
       <div class="seg" id="model-seg"></div>
       <div class="model-note" id="model-note"></div>
@@ -609,12 +612,14 @@ function bindSeg(id, key, onChange) {
   }));
 }
 const note = document.getElementById("model-note");
+const MAP_NOTE = "On the world map, dots sit where they were recorded. The model still picks the “most similar” sounds on each card.";
+const showNote = () => { note.textContent = state.view === "place" ? MAP_NOTE : modelNote(state.model); };
 bindSeg("model-seg", "model", () => {
   if (state.view === "sound") {
     POINTS.forEach((p, i) => { from[i].copy(cur[i]); to[i].set(...p[state.model]); });
     morphStart = performance.now();
   }
-  note.textContent = modelNote(state.model);
+  showNote();
   if (state.sel !== null) renderCard();
 });
 bindSeg("color-seg", "color", () => { applyColors(); if (state.sel !== null) renderCard(); });
@@ -768,6 +773,8 @@ function flyCamera(toPos, toTarget, toDotK, toLand, ms) {
 }
 bindSeg("view-seg", "view", () => {
   const toMap = state.view === "place";
+  document.getElementById("controls").classList.toggle("map-view", toMap);
+  showNote();
   POINTS.forEach((p, i) => { from[i].copy(cur[i]); to[i].copy(toMap ? mapPos[i] : new THREE.Vector3(...p[state.model])); });
   morphStart = performance.now();
   clearTimeout(idleTimer);
