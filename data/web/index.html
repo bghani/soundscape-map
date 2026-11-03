@@ -491,7 +491,7 @@ function play(i) {
 function stopSound() { loading = null; if (voice) { voice.stop(); voice = null; } renderPlayButton(); }
 const isPlaying = () => voice && actx.currentTime < voice.t0 + voice.d;
 
-/* ---------- journey ---------- */
+/* ----------- journey ----------- */
 const journeyBtn = document.getElementById("journey");
 // a fresh journey every time: one random recording from each soundscape, always ending in the tropics
 function pickJourney() {
